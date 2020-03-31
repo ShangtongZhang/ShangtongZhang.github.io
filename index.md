@@ -2,122 +2,26 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## Biography
+Shangtong Zhang is a DPhil student at University of Oxford. 
+Shangtong has broad interests in reinforcement learning, 
+especially off-policy learning, risk-sensitive learning, and temporal abstraction.
 
-[Link to another page](./another-page.html).
+<!-- working with Prof. [Shimon Whiteson](http://whirl.cs.ox.ac.uk/) under an [EPSRC](https://epsrc.ukri.org/) studentship.  -->
+<!-- Before coming to Oxford, Shangtong did his master's degree with Prof. [Richard S. Sutton](http://incompleteideas.net/) at University of Alberta and obtained his bachelor's degree from Fudan University. -->
+<!-- Shangtong has broad interests in reinforcement learning, especially off-policy learning and temporal abstraction.  -->
 
-There should be whitespace between paragraphs.
+## Education
+- University of Oxford (2018 - ), DPhil, with Prof. [Shimon Whiteson](http://whirl.cs.ox.ac.uk/)
+- University of Alberta (2016 - 2018), MSc, with Prof. [Richard S. Sutton](http://incompleteideas.net/)
+- Fudan University (2012 - 2016), BSc, with Prof. Wenqiang Zhang & Prof. Xiaoqing Zheng
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Links
+- [Reinforcement Learning: An Introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction) ![(7k stars)](https://img.shields.io/github/stars/shangtongzhang/reinforcement-learning-an-introduction.svg?style=social) 
+- [PyTorch Deep RL](https://github.com/ShangtongZhang/DeepRL) ![(1k stars)](https://img.shields.io/github/stars/shangtongzhang/deeprl.svg?style=social) 
+- [Google Scholar](https://scholar.google.co.uk/citations?user=Pn7fj4IAAAAJ&hl=en), [Twitter](https://twitter.com/ShangtongZhang), [Stack Overflow](https://stackoverflow.com/users/3650053/shangtong-zhang)
+- [Curriculum Vitae](https://github.com/ShangtongZhang/ShangtongZhang.github.io/blob/master/CurriculumVitae/shangtong_zhang_cv.pdf)
+- [Email: shangtong.zhang@cs.ox.ac.uk](mailto:shangtong.zhang@cs.ox.ac.uk)
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+## News
+- 2020/03: One paper is nominated for AAMAS 2020 Best Paper Award
