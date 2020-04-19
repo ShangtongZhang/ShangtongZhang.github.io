@@ -6,7 +6,8 @@ layout: default
 ### Biography
 Shangtong Zhang is a DPhil student at University of Oxford. 
 Shangtong has broad interests in reinforcement learning, 
-especially off-policy learning, risk-sensitive learning, and temporal abstraction.
+especially off-policy learning, risk-averse control, and temporal abstraction.
+Shangtong's research is funded by an EPSRC studentship.
 
 <!-- working with Prof. [Shimon Whiteson](http://whirl.cs.ox.ac.uk/) under an [EPSRC](https://epsrc.ukri.org/) studentship.  -->
 <!-- Before coming to Oxford, Shangtong did his master's degree with Prof. [Richard S. Sutton](http://incompleteideas.net/) at University of Alberta and obtained his bachelor's degree from Fudan University. -->
@@ -18,7 +19,7 @@ especially off-policy learning, risk-sensitive learning, and temporal abstractio
 - Fudan University (2012 - 2016), BSc, with Prof. Wenqiang Zhang & Prof. Xiaoqing Zheng
 
 ### Links
-- [Reinforcement Learning: An Introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction) ![(7k stars)](https://img.shields.io/github/stars/shangtongzhang/reinforcement-learning-an-introduction.svg?style=social) 
+- [Reinforcement Learning: An Introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction) ![(8k stars)](https://img.shields.io/github/stars/shangtongzhang/reinforcement-learning-an-introduction.svg?style=social) 
 - [PyTorch Deep RL](https://github.com/ShangtongZhang/DeepRL) ![(1k stars)](https://img.shields.io/github/stars/shangtongzhang/deeprl.svg?style=social) 
 - [Google Scholar](https://scholar.google.co.uk/citations?user=Pn7fj4IAAAAJ&hl=en), [Twitter](https://twitter.com/ShangtongZhang), [Stack Overflow](https://stackoverflow.com/users/3650053/shangtong-zhang)
 - [Curriculum Vitae](https://github.com/ShangtongZhang/ShangtongZhang.github.io/blob/master/CurriculumVitae/shangtong_zhang_cv.pdf)
