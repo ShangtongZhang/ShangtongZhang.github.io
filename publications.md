@@ -5,6 +5,8 @@ layout: default
 
 ### Preprints
 
+- [Per-Step Reward: A New Perspective for Risk-Averse Reinforcement Learning](https://arxiv.org/abs/2004.10888). **Shangtong Zhang**, Bo Liu, Shimon Whiteson. arXiv:2004.10888, 2020. 
+
 - [GradientDICE: Rethinking Generalized Offline Estimation of Stationary Values](https://arxiv.org/abs/2001.11113). **Shangtong Zhang**, Bo Liu, Shimon Whiteson. arXiv:2001.11113, 2020. 
 
 - [Provably Convergent Two-Timescale Off-Policy Actor-Critic with Function Approximation](https://arxiv.org/abs/1911.04384). **Shangtong Zhang**, Bo Liu, Hengshuai Yao, Shimon Whiteson. arXiv:1911.04384, 2019. 
