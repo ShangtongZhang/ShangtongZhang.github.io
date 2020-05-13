@@ -14,7 +14,7 @@ layout: default
 
 ### Rigorously Refereed Articles
 
-- [Deep Residual Reinforcement Learning](https://arxiv.org/abs/1905.01072). **Shangtong Zhang**, Wendelin Boehmer, Shimon Whiteson. International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2020. **Best Paper Award Nomination**.
+- [Deep Residual Reinforcement Learning](https://arxiv.org/abs/1905.01072). **Shangtong Zhang**, Wendelin Boehmer, Shimon Whiteson. International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2020. **Best Paper Award**.
 <!-- <span style="color:LightGray"> (A short version is accepted in the Real-World Sequential Decision Making Workshop at ICML 2019.) </span> -->
 
 - [Mega-Reward: Achieving Human-Level Play without Extrinsic Rewards](https://arxiv.org/abs/1905.04640). Yuhang Song, Jianyi Wang, Thomas Lukasiewicz, Zhenghua Xu, **Shangtong Zhang**, Mai Xu. AAAI Conference on Artificial Intelligence (AAAI), 2020.

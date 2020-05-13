@@ -26,4 +26,4 @@ Shangtong's research is funded by an EPSRC studentship.
 - [Email: shangtong.zhang@cs.ox.ac.uk](mailto:shangtong.zhang@cs.ox.ac.uk)
 
 ### News
-- 2020/03: One paper is nominated for AAMAS 2020 Best Paper Award
+- 2020/05: One paper is awarded AAMAS 2020 Best Paper Award.
