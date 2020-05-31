@@ -12,7 +12,7 @@ layout: default
 - [Provably Convergent Two-Timescale Off-Policy Actor-Critic with Function Approximation](https://arxiv.org/abs/1911.04384). **Shangtong Zhang**, Bo Liu, Hengshuai Yao, Shimon Whiteson. arXiv:1911.04384, 2019. 
 <!-- <span style="color:LightGray"> (A short version is accepted in the Optimization Foundations of Reinforcement Learning Workshop at NeurIPS 2019.) </span> -->
 
-### Rigorously Refereed Articles
+### Refereed Articles
 
 - [Deep Residual Reinforcement Learning](https://arxiv.org/abs/1905.01072). **Shangtong Zhang**, Wendelin Boehmer, Shimon Whiteson. International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2020. **Best Paper Award**.
 <!-- <span style="color:LightGray"> (A short version is accepted in the Real-World Sequential Decision Making Workshop at ICML 2019.) </span> -->
@@ -31,13 +31,13 @@ layout: default
 
 - [QUOTA: The Quantile Option Architecture for Reinforcement Learning](https://arxiv.org/abs/1811.02073). **Shangtong Zhang**, Borislav Mavrin, Linglong Kong, Bo Liu, Hengshuai Yao. AAAI Conference on Artificial Intelligence (AAAI), 2019.
 
+- [MLPack 3: A Fast, Flexible Machine Learning Library](https://joss.theoj.org/papers/f9fb80cf56e79edd4d87e5cf7c5f1759). Ryan R Curtin, Marcus Edel, Mikhail Lozhnikov, Yannis Mentekidis, Sumedh Ghaisas, **Shangtong Zhang**. Journal of Open Source Software (JOSS), 2018.
+
 - [Crossprop: Learning Representations by Stochastic Meta-Gradient Descent in Neural Networks](https://link.springer.com/chapter/10.1007/978-3-319-71249-9_27). Vivek Veeriah<sup>\*</sup>, **Shangtong Zhang**<sup>\*</sup>, Richard S. Sutton. European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2017.
 
 - [A Deep Neural Network for Modeling Music](https://dl.acm.org/citation.cfm?id=2749367). Pengjing Zhang, Xiaoqing Zheng, Wenqiang Zhang, Siyan Li, Sheng Qian, Wenqi He, **Shangtong Zhang**, Ziyuan Wang. International Conference on Multimedia Retrieval (ICMR), 2015.
 
-### Lightly Refereed Articles
-
-- [MLPack 3: A Fast, Flexible Machine Learning Library](https://joss.theoj.org/papers/f9fb80cf56e79edd4d87e5cf7c5f1759). Ryan R Curtin, Marcus Edel, Mikhail Lozhnikov, Yannis Mentekidis, Sumedh Ghaisas, **Shangtong Zhang**. Journal of Open Source Software (JOSS), 2018.
+### Others 
 
 - [A Deeper Look at Experience Replay](https://arxiv.org/abs/1712.01275). **Shangtong Zhang**, Richard S Sutton. Deep Reinforcement Learning Symposium at NIPS 2017.
 
