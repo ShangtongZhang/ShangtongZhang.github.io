@@ -7,12 +7,11 @@ layout: default
 
 - [Mean-Variance Policy Iteration for Risk-Averse Reinforcement Learning](https://arxiv.org/abs/2004.10888). **Shangtong Zhang**, Bo Liu, Shimon Whiteson. arXiv:2004.10888, 2020. 
 
-- [GradientDICE: Rethinking Generalized Offline Estimation of Stationary Values](https://arxiv.org/abs/2001.11113). **Shangtong Zhang**, Bo Liu, Shimon Whiteson. arXiv:2001.11113, 2020. 
-
-- [Provably Convergent Two-Timescale Off-Policy Actor-Critic with Function Approximation](https://arxiv.org/abs/1911.04384). **Shangtong Zhang**, Bo Liu, Hengshuai Yao, Shimon Whiteson. arXiv:1911.04384, 2019. 
-<!-- <span style="color:LightGray"> (A short version is accepted in the Optimization Foundations of Reinforcement Learning Workshop at NeurIPS 2019.) </span> -->
-
 ### Refereed Articles
+
+- [GradientDICE: Rethinking Generalized Offline Estimation of Stationary Values](https://arxiv.org/abs/2001.11113). **Shangtong Zhang**, Bo Liu, Shimon Whiteson. International Conference on Machine Learning (ICML), 2020. 
+
+- [Provably Convergent Two-Timescale Off-Policy Actor-Critic with Function Approximation](https://arxiv.org/abs/1911.04384). **Shangtong Zhang**, Bo Liu, Hengshuai Yao, Shimon Whiteson. International Conference on Machine Learning (ICML), 2020. 
 
 - [Deep Residual Reinforcement Learning](https://arxiv.org/abs/1905.01072). **Shangtong Zhang**, Wendelin Boehmer, Shimon Whiteson. International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2020. **Best Paper Award**.
 <!-- <span style="color:LightGray"> (A short version is accepted in the Real-World Sequential Decision Making Workshop at ICML 2019.) </span> -->
