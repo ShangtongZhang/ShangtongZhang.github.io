@@ -15,7 +15,7 @@ His research is funded by an EPSRC studentship.
 <!-- Shangtong has broad interests in reinforcement learning, especially off-policy learning and temporal abstraction.  -->
 
 ### Education
-- University of Oxford (2018 - ), DPhil, with Prof. [Shimon Whiteson](http://whirl.cs.ox.ac.uk/)
+- University of Oxford (2018 - Present), DPhil, with Prof. [Shimon Whiteson](http://whirl.cs.ox.ac.uk/)
 - University of Alberta (2016 - 2018), MSc, with Prof. [Richard S. Sutton](http://incompleteideas.net/)
 - Fudan University (2012 - 2016), BSc, with Prof. Wenqiang Zhang & Prof. Xiaoqing Zheng
 
