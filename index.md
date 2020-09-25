@@ -27,6 +27,7 @@ His research is funded by an EPSRC studentship.
 - [Email: shangtong.zhang@cs.ox.ac.uk](mailto:shangtong.zhang@cs.ox.ac.uk)
 
 ### News
+- 2020/09: One paper is accepted at NeurIPS 2020.
 - 2020/06: Two papers are accepted at ICML 2020.
 - 2020/06: I start interning at Microsoft Research Montreal.
 - 2020/05: I'm awarded Light Senior Scholarship by St Catherine's College.

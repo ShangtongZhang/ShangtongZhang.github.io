@@ -5,15 +5,15 @@ layout: default
 
 ### Preprints
 
-- [Learning Retrospective Knowledge with Reverse Reinforcement Learning](https://arxiv.org/abs/2007.06703).  
-**Shangtong Zhang**, Vivek Veeriah, Shimon Whiteson.  
-arXiv:2007.06703, 2020. 
-
 - [Mean-Variance Policy Iteration for Risk-Averse Reinforcement Learning](https://arxiv.org/abs/2004.10888).  
 **Shangtong Zhang**, Bo Liu, Shimon Whiteson.  
 arXiv:2004.10888, 2020. 
 
 ### Refereed Articles
+
+- [Learning Retrospective Knowledge with Reverse Reinforcement Learning](https://arxiv.org/abs/2007.06703).  
+**Shangtong Zhang**, Vivek Veeriah, Shimon Whiteson.  
+Conference on Neural Information Processing Systems (**NeurIPS**), 2020. 
 
 - [GradientDICE: Rethinking Generalized Offline Estimation of Stationary Values](https://arxiv.org/abs/2001.11113).  
 **Shangtong Zhang**, Bo Liu, Shimon Whiteson.  
