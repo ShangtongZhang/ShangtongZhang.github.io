@@ -5,6 +5,11 @@ layout: default
 
 ### Preprints
 
+- [A Deeper Look at Discounting Mismatch in Actor-Critic Algorithms](https://arxiv.org/abs/2010.01069).  
+**Shangtong Zhang**, Romain Laroche, Harm van Seijen, Shimon Whiteson, Remi Tachet des Combes.
+arXiv:2010.01069, 2020. 
+
+
 - [Mean-Variance Policy Iteration for Risk-Averse Reinforcement Learning](https://arxiv.org/abs/2004.10888).  
 **Shangtong Zhang**, Bo Liu, Shimon Whiteson.  
 arXiv:2004.10888, 2020. 
