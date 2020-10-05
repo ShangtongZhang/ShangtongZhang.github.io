@@ -3,12 +3,12 @@ title: 'Shangtong Zhang'
 layout: default
 ---
 
-### Biography
-Shangtong Zhang is a DPhil student at University of Oxford. 
-He has broad interests in reinforcement learning, 
+<!-- ### Biography -->
+I am a DPhil student at University of Oxford. 
+My research focuses on reinforcement learning, 
 especially off-policy learning, risk-averse control, and temporal abstraction.
-His work has won the best paper award at AAMAS.
-His research is funded by an EPSRC studentship.
+My work won the best paper award at AAMAS and my research is funded by an EPSRC studentship.
+I spent some time at Microsoft Research during my DPhil.
 
 <!-- working with Prof. [Shimon Whiteson](http://whirl.cs.ox.ac.uk/) under an [EPSRC](https://epsrc.ukri.org/) studentship.  -->
 <!-- Before coming to Oxford, Shangtong did his master's degree with Prof. [Richard S. Sutton](http://incompleteideas.net/) at University of Alberta and obtained his bachelor's degree from Fudan University. -->
