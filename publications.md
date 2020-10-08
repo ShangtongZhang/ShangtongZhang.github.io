@@ -47,7 +47,7 @@ Conference on Neural Information Processing Systems (**NeurIPS**), 2019.
 
 - [Distributional Reinforcement Learning for](https://arxiv.org/abs/1905.06125) [Efficient Exploration](http://www.ifaamas.org/Proceedings/aamas2019/pdfs/p2117.pdf).  
 Borislav Mavrin, **Shangtong Zhang**, Hengshuai Yao, Linglong Kong, Kaiwen Wu, Yaoliang Yu.  
-International Conference on Machine Learning (**ICML**), 2019. 
+International Conference on Machine Learning (**ICML**), 2019.  
 <span style="color:LightGray"> (A short version is accepted as an extended abstract at AAMAS 2019.) </span>
 
 - [ACE: An Actor Ensemble Algorithm for Continuous Control with Tree Search](https://arxiv.org/abs/1811.02696).  
