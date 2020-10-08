@@ -73,13 +73,13 @@ International Conference on Multimedia Retrieval (**ICMR**), 2015.
 ### Others 
 
 - [A Deeper Look at Experience Replay](https://arxiv.org/abs/1712.01275).  
-**Shangtong Zhang**, Richard S Sutton.  
+**Shangtong Zhang**, Richard S. Sutton.  
 Deep Reinforcement Learning Symposium at NIPS 2017.
 
 - [Comparing Deep Reinforcement Learning and Evolutionary Methods in Continuous Control](https://arxiv.org/abs/1712.00006).  
-**Shangtong Zhang**, Osmar R Zaiane.  
+**Shangtong Zhang**, Osmar R. Zaiane.  
 Deep Reinforcement Learning Symposium at NIPS 2017.
 
 - [A Demon Control Architecture with Off-Policy Learning and Flexible Behavior Policy](https://drive.google.com/file/d/1tV1Lw1fIsQTihSzSvBT206XX2_6UjiRB/view).  
-**Shangtong Zhang**, Richard S Sutton.  
+**Shangtong Zhang**, Richard S. Sutton.  
 Hierarchical RL Workshop at NIPS 2017.
