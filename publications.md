@@ -10,11 +10,11 @@ layout: default
 **Shangtong Zhang**, Romain Laroche, Harm van Seijen, Shimon Whiteson, Remi Tachet des Combes.  
 arXiv:2010.01069, 2020. 
 
+### Refereed Articles
+
 - [Mean-Variance Policy Iteration for Risk-Averse Reinforcement Learning](https://arxiv.org/abs/2004.10888).  
 **Shangtong Zhang**, Bo Liu, Shimon Whiteson.  
-arXiv:2004.10888, 2020. 
-
-### Refereed Articles
+AAAI Conference on Artificial Intelligence (**AAAI**), 2021.
 
 - [Learning Retrospective Knowledge with Reverse Reinforcement Learning](https://arxiv.org/abs/2007.06703).  
 **Shangtong Zhang**, Vivek Veeriah, Shimon Whiteson.  
