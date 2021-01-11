@@ -6,7 +6,7 @@ layout: default
 <!-- See [Google Scholar](https://scholar.google.co.uk/citations?user=Pn7fj4IAAAAJ&hl=en) for a full list. -->
 ### Preprints
 - [Average-Reward Off-Policy Policy Evaluation with Function Approximation](https://arxiv.org/abs/2101.02808).  
-**Shangtong Zhang**, Yi Wan, Richard S. Sutton, Shimon Whiteson.  
+**Shangtong Zhang**<sup>\*</sup>, Yi Wan<sup>\*</sup>, Richard S. Sutton, Shimon Whiteson.  
 arXiv:2101.02808, 2021. 
 
 - [A Deeper Look at Discounting Mismatch in Actor-Critic Algorithms](https://arxiv.org/abs/2010.01069).  
