@@ -5,6 +5,10 @@ layout: default
 
 <!-- See [Google Scholar](https://scholar.google.co.uk/citations?user=Pn7fj4IAAAAJ&hl=en) for a full list. -->
 ### Preprints
+- [Breaking the Deadly Triad with a Target Network](https://arxiv.org/abs/2101.08862).  
+Shangtong Zhang, Hengshuai Yao, Shimon Whiteson.  
+arXiv:2101.08862, 2021. 
+
 - [Average-Reward Off-Policy Policy Evaluation with Function Approximation](https://arxiv.org/abs/2101.02808).  
 **Shangtong Zhang**<sup>\*</sup>, Yi Wan<sup>\*</sup>, Richard S. Sutton, Shimon Whiteson.  
 arXiv:2101.02808, 2021. 
