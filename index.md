@@ -8,7 +8,7 @@ I am a DPhil student at University of Oxford.
 My research focuses on reinforcement learning, 
 especially off-policy learning, risk-averse control, and temporal abstraction.
 My work won the best paper award at AAMAS and my research is funded by an EPSRC studentship.
-I spent some time at Microsoft Research during my DPhil.
+I spent some time at Microsoft Research and DeepMind during my DPhil.
 
 <!-- working with Prof. [Shimon Whiteson](http://whirl.cs.ox.ac.uk/) under an [EPSRC](https://epsrc.ukri.org/) studentship.  -->
 <!-- Before coming to Oxford, Shangtong did his master's degree with Prof. [Richard S. Sutton](http://incompleteideas.net/) at University of Alberta and obtained his bachelor's degree from Fudan University. -->
