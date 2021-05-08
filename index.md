@@ -27,6 +27,7 @@ I spent some time at Microsoft Research and DeepMind during my DPhil.
 - [Email: shangtong.zhang@cs.ox.ac.uk](mailto:shangtong.zhang@cs.ox.ac.uk)
 
 ### News
+- 2021/05: Two papers are accepted at ICML 2021.
 - 2021/02: I start interning at DeepMind London.
 - 2020/12: One paper is accepted at AAAI 2021.
 - 2020/09: One paper is accepted at NeurIPS 2020.

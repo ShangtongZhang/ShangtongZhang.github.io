@@ -5,19 +5,18 @@ layout: default
 
 <!-- See [Google Scholar](https://scholar.google.co.uk/citations?user=Pn7fj4IAAAAJ&hl=en) for a full list. -->
 ### Preprints
-- [Breaking the Deadly Triad with a Target Network](https://arxiv.org/abs/2101.08862).  
-**Shangtong Zhang**, Hengshuai Yao, Shimon Whiteson.  
-arXiv:2101.08862, 2021. 
-
-- [Average-Reward Off-Policy Policy Evaluation with Function Approximation](https://arxiv.org/abs/2101.02808).  
-**Shangtong Zhang**<sup>\*</sup>, Yi Wan<sup>\*</sup>, Richard S. Sutton, Shimon Whiteson.  
-arXiv:2101.02808, 2021. 
-
 - [A Deeper Look at Discounting Mismatch in Actor-Critic Algorithms](https://arxiv.org/abs/2010.01069).  
 **Shangtong Zhang**, Romain Laroche, Harm van Seijen, Shimon Whiteson, Remi Tachet des Combes.  
 arXiv:2010.01069, 2020. 
 
 ### Refereed Articles
+- [Breaking the Deadly Triad with a Target Network](https://arxiv.org/abs/2101.08862).  
+**Shangtong Zhang**, Hengshuai Yao, Shimon Whiteson.  
+International Conference on Machine Learning (**ICML**), 2021. 
+
+- [Average-Reward Off-Policy Policy Evaluation with Function Approximation](https://arxiv.org/abs/2101.02808).  
+**Shangtong Zhang**<sup>\*</sup>, Yi Wan<sup>\*</sup>, Richard S. Sutton, Shimon Whiteson.  
+International Conference on Machine Learning (**ICML**), 2021. 
 
 - [Mean-Variance Policy Iteration for Risk-Averse Reinforcement Learning](https://arxiv.org/abs/2004.10888).  
 **Shangtong Zhang**, Bo Liu, Shimon Whiteson.  
