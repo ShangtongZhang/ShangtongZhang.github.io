@@ -2,8 +2,6 @@ _site
 .sass-cache
 Gemfile.lock
 *.gem
-*.sty
-*.tex
 CurriculumVitae/shangtong_zhang_cv_short.pdf
 *.cls
 .jekyll-cache/*

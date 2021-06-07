@@ -1,0 +1,236 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% "ModernCV" CV and Cover Letter
+% LaTeX Template
+% Version 1.3 (29/10/16)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Xavier Danaux (xdanaux@gmail.com) with modifications by:
+% Vel (vel@latextemplates.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+% Important note:
+% This template requires the moderncv.cls and .sty files to be in the same 
+% directory as this .tex file. These files provide the resume style and themes 
+% used for structuring the document.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[11pt,a4paper,sans]{moderncv} % Font sizes: 10, 11, or 12; paper sizes: a4paper, letterpaper, a5paper, legalpaper, executivepaper or landscape; font families: sans or roman
+
+\moderncvstyle{classic} % CV theme - options include: 'casual' (default), 'classic', 'oldstyle' and 'banking'
+\moderncvcolor{blue} % CV color - options include: 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+
+\usepackage{lipsum} % Used for inserting dummy 'Lorem ipsum' text into the template
+
+\usepackage[scale=0.75]{geometry} % Reduce document margins
+%\setlength{\hintscolumnwidth}{3cm} % Uncomment to change the width of the dates column
+%\setlength{\makecvtitlenamewidth}{10cm} % For the 'classic' style, uncomment to adjust the width of the space allocated to your name
+
+% \usepackage{hyperref}
+% \hypersetup{
+%     colorlinks=false,
+%     % linkcolor=red,
+%     filecolor=red,      
+%     urlcolor=red,
+% }
+
+\renewcommand*{\cventry}[7][.25em]{%
+  \cvitem[#1]{#2}{%
+    {\bfseries#3}%
+    \ifthenelse{\equal{#4}{}}{}{, {\slshape#4}}% ... into this one (without comma).
+    \ifthenelse{\equal{#5}{}}{}{, #5}%
+    \ifthenelse{\equal{#6}{}}{}{, #6}%
+    .\strut%
+    \ifx&#7&%
+      \else{\newline{}\begin{minipage}[t]{\linewidth}\small#7\end{minipage}}\fi}}
+
+\newcommand*{\cventryalt}[7][.25em]{%
+  \cvitem[#1]{#2}{%
+    {\bfseries#3}%
+    \ifthenelse{\equal{#4}{}}{}{ {\slshape#4}}% ... into this one (without comma).
+    \ifthenelse{\equal{#5}{}}{}{ #5}%
+    \ifthenelse{\equal{#6}{}}{}{ #6}%
+    .\strut%
+    \ifx&#7&%
+      \else{\newline{}\begin{minipage}[t]{\linewidth}\small#7\end{minipage}}\fi}}
+
+\newcommand*{\auxentry}[2]{\cventryalt{#1}{}{}{#2}{}{}}
+\newcommand*{\cvspace}{\vspace{0.1in}}
+% \newcommand*{\me}{\textbf{S. Zhang}}
+\newcommand*{\me}{\textbf{Shangtong Zhang}}
+\newcommand*{\cvpaper}[5]{\cventryalt{#1}{\textit{\normalfont{#2}}}{}{}{}{#3\leavevmode\newline\textit{#4}{\color{gray}{ #5}}}}
+
+%----------------------------------------------------------------------------------------
+%	NAME AND CONTACT INFORMATION SECTION
+%----------------------------------------------------------------------------------------
+
+\firstname{Shangtong} % Your first name
+\familyname{Zhang} % Your last name
+
+% All information in this block is optional, comment out any lines you don't need
+\title{Curriculum Vitae}
+\address{St Catherine's College, Manor Road, Oxford}{United Kingdom, OX1 3UJ}
+% \mobile{(000) 111 1111}
+% \phone{(000) 111 1112}
+% \fax{(000) 111 1113}
+\email{shangtong.zhang@cs.ox.ac.uk}
+\homepage{shangtongzhang.github.io/}{https://shangtongzhang.github.io/} % The first argument is the url for the clickable link, the second argument is the url displayed in the template - this allows special characters to be displayed such as the tilde in this example
+% \extrainfo{additional information}
+% \photo[70pt][0.4pt]{pictures/picture} % The first bracket is the picture height, the second is the thickness of the frame around the picture (0pt for no frame)
+% \quote{"A witty and playful quotation" - John Smith}
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	COVER LETTER
+%----------------------------------------------------------------------------------------
+
+% To remove the cover letter, comment out this entire block
+
+% \clearpage
+
+% \recipient{HR Department}{Corporation\\123 Pleasant Lane\\12345 City, State} % Letter recipient
+% \date{\today} % Letter date
+% \opening{Dear Sir or Madam,} % Opening greeting
+% \closing{Sincerely yours,} % Closing phrase
+% \enclosure[Attached]{curriculum vit\ae{}} % List of enclosed documents
+
+% \makelettertitle % Print letter title
+
+% \lipsum[1-2] % Dummy text
+% \lipsum[4] % Dummy text
+
+% \makeletterclosing % Print letter signature
+
+% \newpage
+
+%----------------------------------------------------------------------------------------
+%	CURRICULUM VITAE
+%----------------------------------------------------------------------------------------
+
+\makecvtitle % Print the CV title
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+% \section{Research Interest}
+The goal of my research is to solve sequential decision making problems in an efficient, scalable, and reliable way.
+Currently, I focus on off-policy and offline reinforcement learning as a solution method.
+
+\section{Education}
+\cventry{2018 - 2022}{Doctor of Philosophy in Computer Science}{University of Oxford}{}{}{}
+\auxentry{Advisor}{Prof. Shimon Whiteson}
+
+\cventry{2016 - 2018}{Master of Science in Statistical Machine Learning}{University of Alberta}{}{}{}
+\auxentry{Advisor}{Prof. Richard S. Sutton}
+
+\cventry{2012 - 2016}{Bachelor of Science in Computing Science}{Fudan University}{}{}{}
+\auxentry{Advisor}{Prof. Wenqiang Zhang and Prof. Xiaoqing Zheng}
+
+\section{Employments}
+\cventry{2021.06 - 09}{Research Intern}{Microsoft Research Montreal, Canada}{}{}{}
+\cventry{2021.02 - 06}{Research Intern}{DeepMind, London, United Kingdom}{}{}{}
+\cventry{2020.09 - 12}{Research Intern}{DeepDrive, Edmonton, Canada}{}{}{}
+\cventry{2020.06 - 08}{Research Intern}{Microsoft Research Montreal, Canada}{}{}{}
+\cventry{2018.05 - 08}{Research Intern}{Noah's Ark Lab, Huawei, Edmonton, Canada}{}{}{}
+\cventry{15.07 - 16.05}{Software Developer Intern}{SAP Labs, Shanghai, China}{}{}{}
+\section{Publications (\href{https://scholar.google.co.uk/citations?user=Pn7fj4IAAAAJ&hl=en}{Google Scholar})}
+
+\subsection{Preprints}
+\cvpaper{arXiv}{A Deeper Look at Discounting Mismatch in Actor-Critic Algorithms}{\me, Romain Laroche, Harm van Seijen, Shimon Whiteson, \\Remi Tachet des Combes.}{arXiv:2010.01069 (2020).}{}
+
+\subsection{Refereed Articles}
+\cvpaper{ICML-21}{Breaking the Deadly Triad with a Target Network}{\me, Hengshuai Yao, Shimon Whiteson.}{International Conference on Machine Learning (2021)}{Acceptance rate: 21.5\%.}
+\cvpaper{ICML-21}{Average-Reward Off-Policy Policy Evaluation with Function Approximation}{\me$^*$, Yi Wan$^*$, Richard S. Sutton, Shimon Whiteson.}{International Conference on Machine Learning (2021)}{Acceptance rate: 21.5\%.}
+\cvpaper{AAAI-21}{Mean-Variance Policy Iteration for Risk-Averse Reinforcement Learning}{\me, Bo Liu, Shimon Whiteson.}{AAAI Conference on Artificial Intelligence (2021).}{Acceptance rate: 21.4\%.}
+\cvpaper{NeurIPS-20}{Learning Retrospective Knowledge with Reverse Reinforcement Learning}{\me, Vivek Veeriah, Shimon Whiteson.}{Conference on Neural Information Processing Systems (2020).}{Acceptance rate: 20.1\%.}
+\cvpaper{ICML-20}{GradientDICE: \newline Rethinking Generalized Offline Estimation of Stationary Values}{\me, Bo Liu, Shimon Whiteson.}{International Conference on Machine Learning (2020).}{Acceptance rate: 21.8\%.}
+\cvpaper{ICML-20}{Provably Convergent Two-timescale Off-Policy Actor-Critic \newline with Function Approximation}{\me, Bo Liu, Hengshuai Yao, Shimon Whiteson.}{International Conference on Machine Learning (2020).}{Acceptance rate: 21.8\%.}
+\cvpaper{AAMAS-20}{Deep Residual Reinforcement Learning}{\me, Wendelin Boehmer, Shimon Whiteson.}{International Conference on Autonomous Agents and Multiagent Systems (2020).}{\newline Acceptance rate: 23\%. {\color{black} \textbf{Best Paper Award}}.}
+\cvpaper{AAAI-20}{Mega-Reward: Achieving Human-Level Play without Extrinsic Rewards}{
+Yuhang Song, Jianyi Wang, Thomas Lukasiewicz, Zhenghua Xu, \me, Andrzej Wojcicki, Mai Xu}{AAAI Conference on Artificial Intelligence (2020).}{Acceptance rate: 20.6\%.}
+\cvpaper{NeurIPS-19}{DAC: The Double Actor-Critic Architecture for Learning Options}{\me, Shimon Whiteson.}{ Conference on Neural Information Processing Systems (2019).}{Acceptance rate: 21.2\%.}
+\cvpaper{NeurIPS-19}{Generalized Off-Policy Actor-Critic}{\me, Wendelin Boehmer, Shimon Whiteson.}{Conference on Neural Information Processing Systems (2019).}{Acceptance rate: 21.2\%.}
+\cvpaper{ICML-19}{Distributional Reinforcement Learning for Efficient Exploration}{Borislav Mavrin, \me, Hengshuai Yao, Linglong Kong, \\Kaiwen Wu, Yaoliang Yu}{International Conference on Machine Learning (2019)$^\dag$.}{Acceptance rate: 22.6\%. \newline A short version is accepted as an extended abstract at AAMAS 2019.}
+\cvpaper{AAAI-19}{ACE: \newline An Actor Ensemble Algorithm for Continuous Control with Tree Search}{\me, Hao Chen, Hengshuai Yao.}{AAAI Conference on Artificial Intelligence (2019).}{Acceptance rate: 16.2\%.}
+\cvpaper{AAAI-19}{QUOTA: The Quantile Option Architecture for Reinforcement Learning}{\me, Borislav Mavrin, Linglong. Kong, Bo Liu, Hengshuai Yao.}{AAAI Conference on Artificial Intelligence (2019).}{Acceptance rate: 16.2\%.}
+\cvpaper{JOSS-18}{MLPack 3: A Fast, Flexible Machine Learning Library}{Ryan Curtin, Marcus Edel, Mikhail Lozhnikov, Yannis Mentekidis, Sumedh Ghaisas, \\\me}{Journal of Open Source Software (2018).}{}
+\cvpaper{ECML-17}{Crossprop: Learning Representations by Stochastic Meta-Gradient Descent \newline in Neural Networks}{Vivek Veeriah$^*$, \me$^*$, Richard S. Sutton.}{European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (2017).}{Acceptance rate: 27.1\%.}
+\cvpaper{ICMR-15}{A Deep Neural Network for Modeling Music}{Pengjing Zhang, Xiaoqing Zheng, Wenqiang Zhang, Siyan Li, Sheng Qian, Wenqi He, \me, Ziyuan Wang}{International Conference on Multimedia Retrieval (2015).}{Acceptance rate: 31\%.}
+\subsection{Others}
+\cvpaper{NIPS-17}{A Deeper Look at Experience Replay}{\me, Richard S. Sutton.}{Deep Reinforcement Learning Symposium.}{}
+\cvpaper{NIPS-17}{Comparing Deep Reinforcement Learning and Evolutionary Methods \newline in Continuous Control}{\me, Osmar R. Zaiane}{Deep Reinforcement Learning Symposium.}{}
+\cvpaper{NIPS-17}{A Demon Control Architecture with Off-Policy Learning \newline and Flexible Behavior Policy}{\me, Richard S. Sutton.}{Hierarchical RL Workshop.}{}
+
+$^*$: {\color{gray}Equal contribution} \\
+$^\dag:$ {\color{gray} My name does not appear in the ICML camera-ready copy due to a mistake in submission, see Acknowledgments, arXiv, or AAMAS proceedings for clarification.}
+\section{Open-Source Code}
+\cventry{}{\href{https://github.com/ShangtongZhang/DeepRL}{PyTorch Deep RL}}{}{}{}{A zoo of popular deep RL algorithms in PyTorch with \textbf{2.4k stars} in Github.}
+% \cvspace
+\cventry{}{\href{https://github.com/ShangtongZhang/reinforcement-learning-an-introduction}{Reinforcement Learning: An Introduction}}{}{}{}{Python implementation of the RL book \textit{Reinforcement Learning: An Introduction} \\ with \textbf{10.1k stars} in Github.}
+% \cvspace
+\cventry{}{\href{https://summerofcode.withgoogle.com/archive/2017/projects/4800276775043072/}{Google Summer of Code (GSoC) 2017}}{}{}{}{Contributed to MLPack by implementing a deep RL framework.}
+% \cvspace
+\cventry{}{\href{https://www.google-melange.com/archive/gsoc/2014/orgs/xapian/projects/shangtongzhang.html}{Google Summer of Code (GSoC) 2014}}{}{}{}{Contributed to Xapian by optimizing the post list and the position list.}
+
+
+\section{Academic Services}
+\cventry{}{Expert Reviewer}{}{}{}{ICML 2021}
+\cventry{}{Reviewer \& Program Committee Member}{}{}{}{NeurIPS 2020, 2021, ICML 2020, AAAI 2020, 2021, ICLR 2021 \\
+Offline Reinforcement Learning Workshop at NeurIPS 2020 \\
+Deep Reinforcement Learning Workshop at NeurIPS 2019, 2020, 2021 \\
+Adaptive and Learning Agents Workshop at AAMAS 2019, 2020 \\
+Optimization Foundations for Reinforcement Learning Workshop at NeurIPS 2019 \\
+Reinforcement Learning for Real Life Workshop at ICML 2019, 2021\\
+% IEEE Transactions on Cybernetics 2019
+}
+\section{Awards \& Honours}
+\cventry{2018 - 2022}{EPSRC studentship}{University of Oxford}{}{}{}
+\cventry{2021}{ICLR Outstanding Reviewer}{}{}{}{}
+\cventry{2020}{NeurIPS Reviewer Award (Top 10\%)}{}{}{}{}
+\cventry{2020}{ICML Reviewer Award (Top 33\%)}{}{}{}{}
+\cventry{2020}{Light Senior Scholarship}{St Catherine's College, University of Oxford}{}{}{}
+\cventry{2020}{AAMAS Travel Award}{}{}{}{}
+\cventry{2020}{AAMAS Best Paper Award}{}{}{}{}
+\cventry{2019}{NeurIPS Optimization Foundations for RL Workshop Travel Award}{}{}{}{}
+\cventry{2019}{NeurIPS Travel Award}{}{}{}{}
+\cventry{2019}{AAAI Travel Award}{}{}{}{}
+\cventry{2017}{NIPS Hierarchical RL Workshop Travel Award}{}{}{}{}
+\cventry{2015}{Second Class Scholarship}{Fudan University}{}{}{}
+\cventry{2014}{EMC Scholarship}{Fudan University}{}{}{}
+
+\section{Invited Talks}
+\cventry{2020}{Off-Policy Evaluation}{}{}{Data Fest 2020, Open Data Science}{}
+\cventry{2020}{Off-Policy Evaluation and Control}{}{}{ByteDance AI Lab, Shanghai}{}
+\cventry{2019}{Off-Policy Actor-Critic Algorithms}{}{}{Latent Logic LTD, Oxford}{}
+\cventry{2019}{Generalized Off-Policy Actor-Critic}{}{Noah's Ark Lab, Huawei, Edmonton}{}{}
+\cventry{2018}{Exploration with Quantile Options}{}{Huawei RL Workshop, Edmonton}{}{}
+\cventry{2017}{Coding Deep Reinforcement Learning Papers}{}{}{}{NIPS MLTrain Workshop, Long Beach.}
+\section{Teaching}
+\cventry{Michaelmas 2019}{Teaching Assistant}{University of Oxford}{}{}{AIMS CDT Lectures}
+\cventry{Fall 2016}{Teaching Assistant}{University of Alberta}{}{}{CMPUT 229 Computer Organization and Architecture}
+
+
+% \section{Interests}
+
+% \renewcommand{\listitemsymbol}{-~} % Changes the symbol used for lists
+
+% \cvlistdoubleitem{Piano}{Chess}
+% \cvlistdoubleitem{Cooking}{Dancing}
+% \cvlistitem{Running}
+
+%----------------------------------------------------------------------------------------
+
+\end{document}
