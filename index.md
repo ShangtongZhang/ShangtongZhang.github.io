@@ -12,18 +12,18 @@ layout: home
     <tbody>
         <tr>
         <td>
-            <img src="/assets/img/portrait.jpg" width=300px> 
+            <img src="/assets/img/portrait.jpg"> 
         </td>
         <td>
             <p>
-                Alf Weaver Assistant Professor <br>
-                Department of Computer Science <br>
-                University of Virginia <br>
+                Assistant Professor (From Fall 2022) <br>
+                <a href="https://engineering.virginia.edu/departments/computer-science">Department of Computer Science </a> <br>
+                <a href="https://www.virginia.edu/">University of Virginia </a> <br>
                 <br>
-                <b>Office</b>: <br>
-                <b>Mail</b>: <br>
-                <b>Phone</b>: <br>
-                <b>Email</b>: <br>
+                <!-- <b>Office</b>: <br> -->
+                <!-- <b>Mail</b>: <br> -->
+                <!-- <b>Phone</b>: <br> -->
+                <b>Email</b>: <a href="mailto:shangtong.zhang.cs@gmail.com">shangtong.zhang.cs@gmail.com </a> <br>
             </p>
         </td>
         </tr>
@@ -31,14 +31,20 @@ layout: home
 </table>
 
 [[Google Scholar]](https://scholar.google.co.uk/citations?user=Pn7fj4IAAAAJ&hl=en) [[Twitter]](https://twitter.com/ShangtongZhang) [[Curriculum Vitae]](https://github.com/ShangtongZhang/ShangtongZhang.github.io/blob/master/CurriculumVitae/curriculum_vitae.pdf)  
-<span style="color:red">I am looking for 1-2 PhD students. </span>
+<span style="color:red"> <a href="/people" style="color:red">I am looking for self-motivated students interested in RL at different levels! </a> </span>
 ## Biography
 
-Shangtong Zhang is the Alf Weaver Assistant Professor in the Department of Computer Science at the University of Virginia.
-Prior to joining UVA, he received his DPhil degree at the University of Oxford, his MSc degree at the University of Alberta,
-and his BSc degree at Fudan University.
-The goal of his research is to solve sequential decision making problems in a scalable and reliable way. 
+Shangtong Zhang is a DPhil student at the University of Oxford. 
+The goal of his research is to solve sequential decision making problems in a scalable and reliable way.
 Currently, he focuses on reinforcement learning as a solution method.
+His work won the best paper award at AAMAS and his research is funded by an EPSRC studentship.
+He spent some time at Microsoft Research and DeepMind during his DPhil.
+
+<!-- Shangtong Zhang is the Alf Weaver Assistant Professor in the Department of Computer Science at the University of Virginia. -->
+<!-- Prior to joining UVA, he received his DPhil degree at the University of Oxford, his MSc degree at the University of Alberta, -->
+<!-- and his BSc degree at Fudan University. -->
+<!-- The goal of his research is to solve sequential decision making problems in a scalable and reliable way.  -->
+<!-- Currently, he focuses on reinforcement learning as a solution method. -->
 
 ## News
 - 2021/12: One paper is accepted at AAMAS 2022 for oral presentation.

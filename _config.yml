@@ -52,7 +52,7 @@ minima:
 header_pages:
 - research.md
 - teaching.md
-- join.md
+- people.md
 - misc.md
 
 # Build settings

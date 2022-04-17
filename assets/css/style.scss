@@ -6,6 +6,23 @@
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
-.personal-info tr td {
+.personal-info {
+  border: none;
+  display: block;
+}
+
+.personal-info img {
+  width: 170px;
+}
+
+tr td {
   border: none
+}
+
+h2 {
+  margin-top: 0 !important;
+}
+
+h3 {
+  margin-top: 0 !important;
 }
