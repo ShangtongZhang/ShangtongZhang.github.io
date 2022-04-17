@@ -9,5 +9,5 @@ permalink: /misc/
 - [PyTorch Deep RL](https://github.com/ShangtongZhang/DeepRL) ![(1k stars)](https://img.shields.io/github/stars/shangtongzhang/deeprl.svg?style=social) 
 
 ### Hobby
-- Sports: alpine ski, marathon, table tennis
-- Video games: Monster Hunter, Zelda, Mario Kart, Resident Evil, Tetris 99, Civilization, Overwatch, Hearthstone, DoTA, War III, PopKart ...
+- Sports: [alpine ski](/hobby/ski), [marathon](/hobby/marathon), table tennis
+- Video games: [Monster Hunter](/hobby/monster-hunter), Zelda, [Mario Kart](/hobby/mario-kart), Resident Evil, [Tetris 99](/hobby/tetris), [Civilization](/hobby/civilization), Overwatch, [Hearthstone](/hobby/hearthstone), DoTA, War III, PopKart ...
