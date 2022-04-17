@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Tetris 
+title: Tetris 99
 permalink: /hobby/tetris
 ---

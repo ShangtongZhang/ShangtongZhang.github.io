@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Advanced Topics in Reinforcement Learning (Fall 2022)
-permalink: /teaching/cs6501
+permalink: /teaching/advanced-rl
 ---
 
 Reinforcement learning (RL) is a powerful framework for solving sequential decision making problems.
