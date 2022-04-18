@@ -47,10 +47,11 @@ He spent some time at Microsoft Research and DeepMind during his DPhil.
 <!-- Currently, he focuses on reinforcement learning as a solution method. -->
 
 ## News
+- 2022/04: I will join UVA as an assistant professor starting from Fall 2022. 
 - 2021/12: One paper is accepted at AAMAS 2022 for oral presentation.
 - 2021/12: One paper is accepted at AAAI 2022.  
 - 2021/11: One paper about offline StarCraft II is accepted by Deep RL Workshop at NeurIPS.    
-- 2021/10: I give a talk at the School of Informatics, University of Edinburgh.
+<!-- - 2021/10: I give a talk at the School of Informatics, University of Edinburgh. -->
 - 2021/09: I give a talk at the group meeting of the RL team at DeepMind.
 - 2021/09: I give a talk at Microsoft Research Summit.
 - 2021/06: I start interning at Microsoft Research Montreal.
