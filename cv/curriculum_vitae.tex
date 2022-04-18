@@ -1,0 +1,263 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Medium Length Graduate Curriculum Vitae
+% LaTeX Template
+% Version 1.1 (9/12/12)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Rensselaer Polytechnic Institute (http://www.rpi.edu/dept/arc/training/latex/resumes/)
+%
+% Important note:
+% This template requires the res.cls file to be in the same directory as the
+% .tex file. The res.cls file provides the resume style used for structuring the
+% document.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[margin, 10pt]{res} % Use the res.cls style, the font size can be changed to 11pt or 12pt here
+\usepackage[utf8]{inputenc}
+\usepackage{helvet} % Default font is the helvetica postscript font
+%\usepackage{newcent} % To change the default font to the new century schoolbook postscript font uncomment this line and comment the one above
+\usepackage{enumitem}
+\usepackage{ifthen}
+\pagenumbering{arabic}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{soul}
+\hypersetup{
+    colorlinks,
+    linkcolor={red!50!black},
+    citecolor={blue!50!black},
+    urlcolor={blue!80!black}
+}
+% \hypersetup{
+    % colorlinks = false,
+    % citebordercolor = {0, 0, 0}
+% }
+
+\setlength{\textwidth}{5.1in} % Text width of the document
+
+\newcommand*{\me}{\textbf{Shangtong Zhang}}
+\newcommand*{\cvpaper}[5]{{\ul{#2} \\}{#3 \\}{#4}{\ifthenelse{\equal{#5}{}}{}{\\ #5}}}
+\newcommand*{\honour}[6]{{\sl #2}{\ifthenelse{\equal{#3}{}}{}{, #3}} \hfill {#1} \\}
+% \newcommand*{\talk}[3]{{\sl #3, #2 \hfill #1 \\}}
+\newcommand*{\talk}[3]{{{\sl #2} \hfill #1 \\ #3 \\ \\}}
+\newcommand*{\teaching}[4]{{{\sl #3}, #2 \hfill #1 \\ #4\\ \\}}
+\newcommand*{\code}[2]{{{\sl #1} \\ #2 \\\\}}
+% \newcommand*{\referees}{}
+% \newcommand*{\misc}{}
+\newcommand*{\icml}[1]{International Conference on Machine Learning (\textbf{ICML}), #1}
+\newcommand*{\aaai}[1]{AAAI Conference on Artificial Intelligence (\textbf{AAAI}), #1}
+\newcommand*{\neurips}[1]{Conference on Neural Information Processing Systems (\textbf{NeurIPS}), #1}
+\newcommand*{\aamas}[1]{International Conference on Autonomous Agents and Multiagent Systems \\(\textbf{AAMAS}), #1}
+\newcommand*{\jmlr}[1]{Journal of Machine Learning Research (\textbf{JMLR})}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	NAME AND ADDRESS SECTION
+%----------------------------------------------------------------------------------------
+
+\moveleft.5\hoffset\centerline{\large\bf Shangtong Zhang} % Your name at the top
+ 
+\moveleft\hoffset\vbox{\hrule width\resumewidth height 1pt}\smallskip % Horizontal line after name; adjust line thickness by changing the '1pt'
+ 
+\moveleft.5\hoffset\centerline{St Catherine's College, Manor Road, Oxford, United Kingdom, OX1 3UJ} % Your address
+\moveleft.5\hoffset\centerline{\href{mailto: shangtong.zhang@cs.ox.ac.uk}{shangtong.zhang@cs.ox.ac.uk}\quad\quad \href{https://shangtongzhang.github.io}{https://shangtongzhang.github.io}}
+\moveleft.5\hoffset\centerline{}
+
+%----------------------------------------------------------------------------------------
+
+\begin{resume}
+
+%----------------------------------------------------------------------------------------
+%	OBJECTIVE SECTION
+%----------------------------------------------------------------------------------------
+ 
+\section{Research \\ Interest}  
+The goal of my research is to solve sequential decision making problems in a scalable and reliable way.
+Currently, I focus on off-policy and offline reinforcement learning as solution methods.
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\section{Education}
+
+{\textbf{University of Oxford}, United Kingdom}  \hfill Oct. 2018 - July. 2022 \\
+Doctor of Philosophy in Computer Science \\
+Advisor: Prof. Shimon Whiteson
+
+{\textbf{University of Alberta}, Canada}  \hfill Sept. 2016 - Aug. 2018 \\
+Master of Science in Statistical Machine Learning,  \\
+Advisor: Prof. Richard S. Sutton
+
+{\textbf{Fudan University}, China}  \hfill Sept. 2012 - Jun. 2016 \\
+Bachelor of Science in Computing Science \\
+Advisor: Prof. Xiaoqing Zheng and Prof. Wenqiang Zhang
+
+%----------------------------------------------------------------------------------------
+%	INTEREST
+%----------------------------------------------------------------------------------------
+
+\section{Academic Internships}
+
+{\textbf{Microsoft Research Montreal}, Canada} \hfill Jun. 2021 - Sept. 2021 \\
+Collaboration: Remi Tachet des Combes, Romain Laroche, and Harm van Seijen  
+
+{\textbf{DeepMind London}, United Kingdom} \hfill Feb. 2021 - Jun. 2021 \\
+Collaboration: AlphaStar team (Michael Mathieu, Oriol Vinyals, etc) \\
+Collaboration: Adam White and Hado van Hasselt
+
+{\textbf{DeepDrive}, Edmonton, Canada} \hfill Sept. 2020 - Dec. 2020 \\
+Collaboration: Hengshuai Yao
+
+{\textbf{Microsoft Research Montreal}, Canada} \hfill Jun. 2020 - Aug. 2020 \\
+Collaboration: Remi Tachet des Combes, Romain Laroche, and Harm van Seijen  
+
+{\textbf{Noah's Ark Lab, Huawei}, Edmonton, Canada} \hfill May. 2018 - Aug. 2018 \\
+Collaboration: Hengshuai Yao
+
+% \section{Publications \href{https://scholar.google.co.uk/citations?hl=en&user=Pn7fj4IAAAAJ&view_op=list_works}{(Google Scholar)}}
+\section{Publications}
+
+\begin{enumerate}[leftmargin=*]
+    \item \cvpaper{arXiv 2022}{On the Chattering of SARSA with Linear Function Approximation}{\me, Remi Tachet des Combes, Romain Laroche.}{arXiv:2202.06828, 2022.}{\textbf{Under review of \jmlr{}.}}
+    \item \cvpaper{arXiv 2020}{A Deeper Look at Discounting Mismatch in Actor-Critic Algorithms}{\me, Romain Laroche, Harm van Seijen, Shimon Whiteson, \\Remi Tachet des Combes.}{\aamas{2022}}{Acceptance rate: 26\% \\ \textbf{Oral Presentation}}
+    \item \cvpaper{arXiv 2021}{Learning Expected Emphatic Traces for Deep RL}{Ray Jiang, \me, Veronica Chelu, Adam White, Hado van Hasselt.}{\aaai{2022}.}{Acceptance rate: 15\%.}
+    \item \cvpaper{arXiv 2021}{Global Optimality and Finite Sample Analysis of Softmax Off-Policy Actor Critic under State Distribution Mismatch}{\me, Remi Tachet des Combes$^\ddagger$, Romain Laroche$^\ddagger$.}{arXiv:2111.02997, 2021.}{\textbf{Under review of \jmlr{}.}}
+    \item \cvpaper{Deep RL Workshop at NeurIPS 2021}{StarCraft II Unplugged: Large Scale Offline Reinforcement Learning}{Michael Mathieu$^*$, Sherjil Ozair$^*$, Srivatsan Srinivasan, Caglar Gulcehre, \\\me, Ray Jiang, Tom Le Paine, Konrad Zolna, Richard Powell, \\Julian Schrittwieser, David Choi, Petko Georgiev, Daniel Kenji Toyama, \\Aja Huang, Roman Ring, Igor Babuschkin, Timo Ewalds, Mahyar Bordbar, \\Sarah Henderson, Sergio Gomez Colmenarejo, Aaron van den Oord, \\Wojciech M. Czarnecki, Nando de Freitas, Oriol Vinyals.}{\textbf{Deep RL Workshop at NeurIPS}, 2021}{}
+    \item \cvpaper{arXiv 2021}{Truncated Emphatic Temporal Difference Methods for Prediction and Control}{\me, Shimon Whiteson.}{arXiv:2108.05338, 2021.}{\textbf{Under review of Journal of Machine Learning Research (JMLR)}.}
+    \item \cvpaper{ICML 2021}{Breaking the Deadly Triad with a Target Network}{\me, Hengshuai Yao, Shimon Whiteson.}{\icml{2021}.}{Acceptance rate: 21.5\%.}
+    \item \cvpaper{ICML 2021}{Average-Reward Off-Policy Policy Evaluation with Function Approximation}{\me$^*$, Yi Wan$^*$, Richard S. Sutton, Shimon Whiteson.}{\icml{2021}.}{Acceptance rate: 21.5\%.}
+    \item 
+    \cvpaper{AAAI 2021}{Mean-Variance Policy Iteration for Risk-Averse Reinforcement Learning}{\me, Bo Liu, Shimon Whiteson.}{\aaai{2021}.}{Acceptance rate: 21.4\%.}
+    \item 
+    \cvpaper{NeurIPS 2020}{Learning Retrospective Knowledge with Reverse Reinforcement Learning}{\me, Vivek Veeriah, Shimon Whiteson.}{\neurips{2020}.}{Acceptance rate: 20.1\%.}
+    \item 
+    \cvpaper{ICML 2020}{GradientDICE: Rethinking Generalized Offline Estimation of Stationary Values}{\me, Bo Liu, Shimon Whiteson.}{\icml{2020}.}{Acceptance rate: 21.8\%.}
+    \item 
+    \cvpaper{ICML 2020}{Provably Convergent Two-Timescale Off-Policy Actor-Critic with Function \\ Approximation}{\me, Bo Liu, Hengshuai Yao, Shimon Whiteson.}{\icml{2020}.}{Acceptance rate: 21.8\%.}
+    \item
+    \cvpaper{AAMAS 2020}{Deep Residual Reinforcement Learning}{\me, Wendelin Boehmer, Shimon Whiteson.}{\aamas{2020}.}{Acceptance rate: 23\%. \\{\textbf{Best Paper Award}}.}
+    \item
+    \cvpaper{AAAI 2020}{Mega-Reward: Achieving Human-Level Play without Extrinsic Rewards}{Yuhang Song, Jianyi Wang, Thomas Lukasiewicz, Zhenghua Xu, \\\me, Andrzej Wojcicki, Mai Xu}{\aaai{2020}.}{Acceptance rate: 20.6\%.}
+    \item 
+    \cvpaper{NeurIPS 2019}{DAC: The Double Actor-Critic Architecture for Learning Options}{\me, Shimon Whiteson.}{\neurips{2019}.}{Acceptance rate: 21.2\%.}
+    \item
+    \cvpaper{NeurIPS 2019}{Generalized Off-Policy Actor-Critic}{\me, Wendelin Boehmer, Shimon Whiteson.}{\neurips{2019}.}{Acceptance rate: 21.2\%.}
+    \item
+    \cvpaper{ICML 2019$^\dag$}{Distributional Reinforcement Learning for Efficient Exploration}{Borislav Mavrin, \me, Hengshuai Yao, Linglong Kong, \\Kaiwen Wu, Yaoliang Yu}{\icml{2019}.}{Acceptance rate: 22.6\%. \\A short version is accepted as an extended abstract at AAMAS 2019.}
+    \item
+    \cvpaper{AAAI 2019}{ACE: An Actor Ensemble Algorithm for Continuous Control with Tree Search}{\me, Hao Chen, Hengshuai Yao.}{\aaai{2019}.}{Acceptance rate: 16.2\%.}
+    \item
+    \cvpaper{AAAI 2019}{QUOTA: The Quantile Option Architecture for Reinforcement Learning}{\me, Borislav Mavrin, Linglong. Kong, Bo Liu, Hengshuai Yao.}{\aaai{2019}.}{Acceptance rate: 16.2\%.}
+    \item
+    \cvpaper{Journal of Open Source Software 2018}{MLPack 3: A Fast, Flexible Machine Learning Library}{Ryan Curtin, Marcus Edel, Mikhail Lozhnikov, Yannis Mentekidis, Sumedh Ghaisas, \me}{Journal of Open Source Software (\textbf{JOSS}), 2018.}{}
+    \item 
+    \cvpaper{ECML-PKDD 2017}{Crossprop: Learning Representations by Stochastic Meta-Gradient Descent \\in Neural Networks}{Vivek Veeriah$^*$, \me$^*$, Richard S. Sutton.}{European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (\textbf{ECML-PKDD}), 2017.}{Acceptance rate: 27.1\%.}
+    \item
+    \cvpaper{Deep RL Symposium at NIPS 2017}{A Deeper Look at Experience Replay}{\me, Richard S. Sutton.}{\textbf{Deep RL Symposium at NIPS}, 2017.}{}
+    \item 
+    \cvpaper{Deep RL Symposium at NIPS 2017}{Comparing Deep Reinforcement Learning and Evolutionary Methods \\ in Continuous Control}{\me, Osmar R. Zaiane}{\textbf{Deep RL Symposium at NIPS}, 2017.}{}
+    \item
+    \cvpaper{Hierarchical RL Workshop at NIPS 2017}{A Demon Control Architecture with Off-Policy Learning and Flexible Behavior Policy}{\me, Richard S. Sutton.}{\textbf{Hierarchical RL Workshop at NIPS}, 2017.}{}
+    \item
+    \cvpaper{International Conference on Multimedia Retrieval 2015}{A Deep Neural Network for Modeling Music}{Pengjing Zhang, Xiaoqing Zheng, Wenqiang Zhang, Siyan Li, Sheng Qian, \\Wenqi He, \me, Ziyuan Wang}{International Conference on Multimedia Retrieval (\textbf{ICMR}), 2015.}{Acceptance rate: 31\%.}
+\end{enumerate}
+$^*$: {Equal contribution} \\
+$^\ddagger$: {Equal advising} \\
+$^\dag:$ {My name does not appear in the ICML proceedings due to a mistake in submission. See Acknowledgments, arXiv, or AAMAS proceedings for clarification.}
+
+\section{Academic \\ Services}
+{\textbf{Expert Reviewer}} \\
+ICML 2021
+
+{\textbf{Reviewer \& Program Committee}} \\
+Transaction of Machine Learning Research \\
+Journal of Machine Learning Research \\
+Journal of Artificial Intelligence (with green open access) \\
+AISTATS 2022 \\
+NeurIPS 2020, 2021, 2022 \\
+ICML 2020, 2022 \\
+AAAI 2020, 2021, 2022 \\
+ICLR 2021, 2022\\
+Offline Reinforcement Learning Workshop at NeurIPS 2020, 2021 \\
+Deep Reinforcement Learning Workshop at NeurIPS 2019, 2020, 2021 \\
+Adaptive and Learning Agents Workshop at AAMAS 2019, 2020 \\
+Optimization Foundations for Reinforcement Learning Workshop at NeurIPS 2019 \\
+Reinforcement Learning for Real Life Workshop at ICML 2019, 2021
+
+\section{Honours}
+\honour{2018 - 2022}{EPSRC studentship}{University of Oxford}{}{}{}{}
+\honour{2022}{AAMAS Student Scholarship}{}{}{}{}
+\honour{2021}{ICLR Outstanding Reviewer}{}{}{}{}
+\honour{2020}{NeurIPS Reviewer Award}{}{}{}{}
+\honour{2020}{ICML Reviewer Award}{}{}{}{}
+\honour{2020}{Light Senior Scholarship}{St Catherine's College, University of Oxford}{}{}{}
+\honour{2020}{AAMAS Travel Award}{}{}{}{}
+\honour{2020}{AAMAS Best Paper Award}{}{}{}{}
+\honour{2019}{NeurIPS Optimization Foundations for RL Workshop Travel Award}{}{}{}{}
+\honour{2019}{NeurIPS Travel Award}{}{}{}{}
+\honour{2019}{AAAI Travel Award}{}{}{}{}
+\honour{2017}{NIPS Hierarchical RL Workshop Travel Award}{}{}{}{}
+\honour{2015}{Second Class Scholarship}{Fudan University}{}{}{}
+\honour{2014}{EMC Scholarship}{Fudan University}{}{}{}
+
+\section{Invited Talks}
+\talk{}{Breaking the Deadly Triad in Off-Policy Reinforcement Learning}{School of Informatics, University of Edinburgh \hfill 2021 \\
+School of Computing Science, Simon Fraser University \hfill 2022\\
+Department of Electrical \& Computer Engineering, University of Waterloo \hfill 2022 \\
+Department of Computer Science, University of Virginia \hfill 2022}
+\talk{2021}{Breaking the Deadly Triad in Reinforcement Learning}{RL team, DeepMind}
+\talk{2021}{Breaking the Deadly Triad with a Target Network}{Microsoft Research Summit}
+\talk{2020}{Off-Policy Evaluation}{Data Fest 2020, Open Data Science}
+\talk{2020}{Off-Policy Evaluation and Control}{ByteDance AI Lab, Shanghai}
+\talk{2019}{Off-Policy Actor-Critic Algorithms}{Latent Logic LTD, Oxford}
+\talk{2019}{Generalized Off-Policy Actor-Critic}{Noah's Ark Lab, Huawei, Edmonton}
+\talk{2018}{Exploration with Quantile Options}{Huawei RL Workshop, Edmonton}
+\talk{2017}{Coding Deep RL Papers}{NIPS MLTrain Workshop, Long Beach}
+
+\section{Teaching}
+\teaching{Michaelmas 2019}{Teaching Assistant}{University of Oxford}{AIMS CDT Lectures}
+\teaching{Fall 2016}{Teaching Assistant}{University of Alberta}{CMPUT 229 Computer Organization and Architecture}
+
+\section{Code}
+\code{PyTorch Deep RL}{A zoo of popular deep RL algorithms in PyTorch with \textbf{2.5k stars} in Github.}
+\code{{Reinforcement Learning: An Introduction}}{Python implementation of the book \textit{Reinforcement Learning: An Introduction} \\ with \textbf{10.6k stars} in Github.}
+\code{{Google Summer of Code (GSoC) 2017}}{Contributed to MLPack by implementing a deep RL framework.}
+\code{{Google Summer of Code (GSoC) 2014}}{Contributed to Xapian by optimizing the post list and the position list.}
+
+\ifdefined\referees
+\section{Referees}
+
+\textbf{Prof. Shimon Whiteson} \\
+Professor of Computer Science, University of Oxford \\
+Head of Research, Waymo UK \\
+\href{mailto:shimon.whiteson@cs.ox.ac.uk}{shimon.whiteson@cs.ox.ac.uk} \\
+15 Parks Rd, Oxford, OX1 3QD, United Kingdom
+
+\textbf{Dr. Remi Tachet des Combes} \\
+Senior Researcher, Microsoft Research Montreal \\
+\href{mailto:remi.tachet@microsoft.com}{remi.tachet@microsoft.com} \\
+6795 Rue Marconi, Suite 400, Montréal, Quebec, H2S 3J9, Canada
+
+\textbf{Dr. Michael Mathieu} \\
+Senior Research Scientist, DeepMind UK \\
+\href{mailto:mmathieu@google.com}{mmathieu@google.com} \\
+Kings Cross, London, London, N1C 4AG, United Kingdom
+\fi
+
+\ifdefined\misc
+\section{Miscs}
+{\sl Citizenship}: China \\
+{\sl Permanent Residence}: Canada \\
+\fi
+\end{resume}
+\end{document}
