@@ -6,6 +6,13 @@
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
+@media screen and (max-width: 500px) {
+  .personal-info tr {
+    display: inline-flex;
+    flex-direction: column;
+  }
+}
+
 .personal-info {
   border: none;
   display: block;
@@ -17,9 +24,9 @@
   max-width: fit-content;
 }
 
-.personal-info p {
-  white-space: nowrap;
-}
+// .personal-info p {
+  // white-space: nowrap;
+// }
 
 tr td {
   border: none
