@@ -13,6 +13,11 @@
 
 .personal-info img {
   width: 170px;
+  max-width: fit-content;
+}
+
+.personal-info p {
+  white-space: nowrap;
 }
 
 tr td {
