@@ -31,7 +31,7 @@ layout: home
 </table>
 
 [[Google Scholar]](https://scholar.google.co.uk/citations?user=Pn7fj4IAAAAJ&hl=en) [[Twitter]](https://twitter.com/ShangtongZhang) [[Curriculum Vitae]](/cv/curriculum_vitae.pdf) [[Github]](https://github.com/ShangtongZhang)  
-<span style="color:red"> <a href="/people" style="color:red">I am looking for self-motivated students interested in RL at different levels! </a> </span>
+<span style="color:red"> <a href="/people" style="color:red"> <u> I am looking for self-motivated students interested in RL at different levels! </u> </a> </span>
 ## Biography
 
 Shangtong Zhang is a DPhil student at the University of Oxford. 
