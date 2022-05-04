@@ -30,7 +30,7 @@ After this course, you will be able to catch up with most RL papers easily and b
 
 ## Grading (tentative, subject to change):
 - Reading assignment (10%):  
-There will be several reading assignments and you are required to write a short summary of the reading materials, as well as ask some theoretical questions (you do not need to answer them).
+There will be several reading assignments and you are required to write a short summary of the reading materials, as well as to ask some theoretical questions (you do not need to answer them).
 - Paper presentation (20%):  
 Each student is expected to present a paper focusing on the theoretical results of the paper.
 - Project (70%):  
