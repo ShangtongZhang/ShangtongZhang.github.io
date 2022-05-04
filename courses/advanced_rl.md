@@ -37,7 +37,7 @@ You will need to submit a project proposal (10%) and a final writeup (60%).
 You can choose one of the following three types of projects:
   - Reproduce the proofs of a theoretical paper from this list
   - Investigate a research idea from this list (it might be empirical and/or theoretical)  
-  - Propose a new research project (talk with me first if you choose this one)
+  - Propose a new research project by yourself (talk with me first if you choose this one)
 
 <!-- The project can be theoretical but does **NOT** have to. -->
 <!-- For example, it can also be empirical investigation or application of some theoretical results in the lecture. -->
