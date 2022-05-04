@@ -17,8 +17,9 @@ such as
 
 You are expected to be comfortable with reading and writing proofs involving linear algebra and probability. 
 You are **NOT** expected to know RL. 
-We will make sure you can catch up even if you do not know RL before. 
-You will be able to catch up with most RL papers easily and be well prepared to do research in RL after this course.
+We will make sure you can catch up even if you do not know RL before.  
+
+After this course, you will be able to catch up with most RL papers easily and be well prepared to do research in RL.
 
 - Instructor: [Shangtong Zhang](/)
 - Location: TBA 
@@ -29,7 +30,7 @@ You will be able to catch up with most RL papers easily and be well prepared to 
 
 ## Grading (tentative, subject to change):
 - Reading assignment (10%):  
-There will be several reading assignments and you are required to ask some theoretical questions related to the materials (you do not need to answer them).
+There will be several reading assignments and you are required to write a short summary of the reading materials, as well as ask some theoretical questions (you do not need to answer them).
 - Paper presentation (20%):  
 Each student is expected to present a paper focusing on the theoretical results of the paper.
 - Project (70%):  
