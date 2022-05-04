@@ -17,4 +17,4 @@ permalink: /teaching/
 
 <!-- [jekyll-organization]: https://github.com/jekyll -->
 
-[CS6501: Advanced Topics in Reinforcement Learning](/teaching/advanced-rl) (Fall 2022)
+CS6501: [Topics in Reinforcement Learning](/teaching/advanced-rl) (Fall 2022)
