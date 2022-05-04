@@ -18,6 +18,7 @@ such as
 You are expected to be comfortable with reading and writing proofs involving linear algebra and probability. 
 You are **NOT** expected to know RL. 
 We will make sure you can catch up even if you do not know RL before. 
+You will be able to catch up with most RL papers easily and be well prepared to do research in RL after this course.
 
 - Instructor: [Shangtong Zhang](/)
 - Location: TBA 
