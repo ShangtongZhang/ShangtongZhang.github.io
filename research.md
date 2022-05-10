@@ -6,6 +6,10 @@ permalink: /research/
 
 <sup>*</sup> indicates equal contribution. <sup>†</sup> indicates equal advising.
 
+- [Truncated Emphatic Temporal Difference Methods for Prediction and Control](https://arxiv.org/abs/2108.05338).  
+**Shangtong Zhang**, Shimon Whiteson.  
+Journal of Machine Learning Research (**JMLR**), 2022.  
+
 - [On the Chattering of SARSA with Linear Function Approximation](https://arxiv.org/abs/2202.06828).  
 **Shangtong Zhang**, Remi Tachet des Combes, Romain Laroche.  
 arXiv:2202.06828, 2022.  
@@ -23,11 +27,6 @@ AAAI Conference on Artificial Intelligence (**AAAI**), 2022.
 - [Global Optimality and Finite Sample Analysis of Softmax Off-Policy Actor Critic under State Distribution Mismatch](https://arxiv.org/abs/2111.02997).  
 **Shangtong Zhang**, Remi Tachet des Combes<sup>†</sup>, Romain Laroche<sup>†</sup>.  
 arXiv:2111.02997, 2021.  
-Under review of Journal of Machine Learning Research.  
-
-- [Truncated Emphatic Temporal Difference Methods for Prediction and Control](https://arxiv.org/abs/2108.05338).  
-**Shangtong Zhang**, Shimon Whiteson.  
-arXiv:2108.05338, 2021.  
 Under review of Journal of Machine Learning Research.  
 
 - [StarCraft II Unplugged: Large Scale Offline Reinforcement Learning](https://openreview.net/forum?id=Np8Pumfoty)  
