@@ -90,9 +90,13 @@ You can choose one of the following two types of projects:
 | 12/06 |         |          |
 
 ## Resources:
+Books:
 - [*Reinforcement Learning: An Introduction*](http://incompleteideas.net/book/the-book-2nd.html) by Richard Sutton and Andrew Barto
 - *Markov Decision Processes: Discrete Stochastic Dynamic Programming* by Martin Puterman
 - *Stochastic Approximation: A Dynamical Systems Viewpoint* by Vivek Borkar
 - *Neuro-Dynamic Programming* by Dimitri Bertsekas
+
+Theses:
 - [*Safe Reinforcement Learning*](https://scholarworks.umass.edu/dissertations_2/514/) by Philip Thomas
 - *Breaking the Deadly Triad in Reinforcement Learning* by Shangtong Zhang
+- [*Actor-Critic Algorithms*](https://dspace.mit.edu/bitstream/handle/1721.1/8120/51552606-MIT.pdf;sequence=2) by Vijaymohan Konda
