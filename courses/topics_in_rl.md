@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Topics in Reinforcement Learning
-permalink: /teaching/advanced-rl
+permalink: /teaching/topics-in-rl
 ---
 
 Reinforcement learning (RL) is a powerful framework for solving sequential decision making problems
