@@ -31,18 +31,14 @@ After this course, you will be able to catch up with most RL papers easily and b
 ## Grading (tentative, subject to change):
 - Reading assignment (20%):  
 There will be several reading assignments and you are required to write a short summary of the reading materials, as well as to ask some theoretical questions (you do not need to answer them).
-<!-- - Paper presentation (20%):   -->
-<!-- Each student is expected to present a paper focusing on the theoretical results of the paper. -->
 - Project (80%):  
 Each student is expected to complete a course project solo.
 You will need to submit a project proposal (10%) and a final writeup and delivery a project presentation in class.
-You can choose one of the following three types of projects:
+You can choose one of the following two types of projects:
   - Reproduce the proofs of a theoretical paper from this list  
-  30% writeup + 40% presentation
+  30% writeup + 40% presentation. You can also choose a paper not from this list but make sure to talk with me first.
   - Investigate a research idea from this list (it might be empirical and/or theoretical)  
-  50% writeup + 20% presentation
-  - Propose a new research project by yourself (talk with me first if you choose this one)  
-  50% writeup + 20% presentation
+  50% writeup + 20% presentation. You can also propose a research idea by yourself but make sure to talk with me first.
 
 ## Schedule (tentative, subject to change):
 
