@@ -13,7 +13,6 @@ Journal of Machine Learning Research (**JMLR**), 2022.
 - [On the Chattering of SARSA with Linear Function Approximation](https://arxiv.org/abs/2202.06828).  
 **Shangtong Zhang**, Remi Tachet des Combes, Romain Laroche.  
 arXiv:2202.06828, 2022.  
-Under review of Journal of Machine Learning Research.  
 
 - [A Deeper Look at Discounting Mismatch in Actor-Critic Algorithms](https://arxiv.org/abs/2010.01069).  
 **Shangtong Zhang**, Romain Laroche, Harm van Seijen, Shimon Whiteson, Remi Tachet des Combes.  
