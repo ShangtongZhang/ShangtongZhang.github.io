@@ -47,6 +47,7 @@ He spent some time at Microsoft Research and DeepMind during his DPhil.
 <!-- Currently, he focuses on reinforcement learning as a solution method. -->
 
 ## News
+- 2022/06: I defended my DPhil!  
 - 2022/05: One paper is accepted by JMLR.   
 - 2022/04: I will join UVA as an assistant professor starting from Fall 2022. 
 - 2021/12: One paper is accepted at AAMAS 2022 for oral presentation.
