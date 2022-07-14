@@ -12,7 +12,7 @@ layout: home
     <tbody>
         <tr>
         <td>
-            <img src="/assets/img/portrait_subphoto.jpg"> 
+            <img src="/assets/img/portrait_hawaii.jpg"> 
         </td>
         <td>
             <p>
