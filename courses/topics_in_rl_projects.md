@@ -19,7 +19,7 @@ You must complete the non-research project **solo**.
 
 * Proposal: you need to state what paper you choose to reproduce and give a tentative timeline for milestones (e.g., understanding the motivation, understanding the background, finishing Lemma 1, finishing Theorem 1, and finishing the writeup)
 * Writeup: 
-  - By default you are expected to reproduce **all** the lemmas, propositions, and theorems. Of course some papers may have too many theorems to fit into a course project. If you believe so, email me and I will pick a reasonable subset for you to make the workload for different papers comparable.
+  - By default, you are expected to reproduce all theoretical results of the paper. Of course some papers may have too many theorems to fit into a course project. If you believe so, email me and I will pick a reasonable subset for you to make the workload for different papers comparable.
   - The writeup is expected to be self-contained, i.e., a reader should be able to understand the writeup without referring to the original paper. To achieve this with minimal effort, the writeup should include the mathematical formulation of the problem the paper studies.
   Of course, you need to care only the math part of the paper and feel free to ignore the introduction, related work, and experiments in the writeup. 
   But in most cases you do need to understand the non-math part well to better understand the math part.
