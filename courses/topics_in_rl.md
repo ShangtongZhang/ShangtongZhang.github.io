@@ -18,7 +18,7 @@ After this course, you will be able to catch up with most RL papers easily and b
 
 ## Logistics:
 
-- Instructor: [Shangtong Zhang](/)
+- Instructor: [Shangtong Zhang](/teaching/topics-in-rl-project)
 - Location: Mechanical Engineering Building 339   
 - Time: Tuesday and Thursday 9:30am - 10:45am  
 - TA: TBA
@@ -43,31 +43,26 @@ After this course, you will be able to catch up with most RL papers easily and b
 
 ## Grading (tentative, subject to change):
 - Reading assignment (20%):  
-There will be several reading assignments and you are required to write a short summary of the reading materials, as well as to ask some theoretical questions (you do not need to answer them).
+There will be several reading assignments and you are required to write a short summary of the reading materials (>= 500 words), as well as to ask some theoretical questions (>= 5), though you do not need to answer them.
 - Project (80%):  
-Each student is expected to complete a course project solo.
-You will need to submit a project proposal (10%) and a final writeup and delivery a project presentation in class.
-You can choose one of the following two types of projects:
-  - Reproduce the proofs of a theoretical paper from this list  
-  30% writeup + 40% presentation. You can also choose a paper not from this list but make sure to talk with me first.
-  - Investigate a research idea from this list (it might be empirical and/or theoretical)  
-  50% writeup + 20% presentation. You can also propose a research idea by yourself but make sure to talk with me first.
+Each student is expected to complete a course project. You can find more details [here](/teaching/topics-in-rl-projects).
+You will need to submit a project proposal (10%) and a final writeup (50%) and deliver a project presentation (20%).
 
 ## Schedule (tentative, subject to change):
 
 | Date  | Lecture | Comments |
 |-------|---------|----------|
-| 08/23 | |          |
-| 08/25 | |          |
-| 08/30 | |          |
-| 09/01 |         |          |
-| 09/06 |         |          |
-| 09/08 |         |          |
-| 09/13 |         |          |
+| 08/23 | | 1st reading assignment (10%) out (Chapter 1 & 3 of Sutton's book) | 
+| 08/25 | |          | 
+| 08/30 | | 1st reading assignment due; 2nd reading assignment (10%) out (Chapter 4 of Sutton's book)         |
+| 09/01 | | | 
+| 09/06 |  | 2nd reading assignment due| 
+| 09/08 |         | |
+| 09/13 |   | Project proposal due |        
 | 09/15 |         |          |
-| 09/20 |         |          |
+| 09/20 |  ||          
 | 09/22 |         |          |
-| 09/27 |         |          |
+| 09/27 |         | |
 | 09/29 |         |          |
 | 10/04 | No class| Reading days |
 | 10/06 |         |          |
