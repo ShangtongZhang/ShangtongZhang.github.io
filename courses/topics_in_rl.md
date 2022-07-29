@@ -50,39 +50,39 @@ You will need to submit a project proposal (10%) and a final writeup (50%) and d
 
 ## Schedule (tentative, subject to change):
 
-| Date  | Lecture | Comments |
-|-------|---------|----------|
-| 08/23 | | 1st reading assignment (10%) out (Chapter 1 & 3 of Sutton's book) | 
-| 08/25 | |          | 
-| 08/30 | | 1st reading assignment due; 2nd reading assignment (10%) out (Chapter 4 of Sutton's book)         |
-| 09/01 | | | 
-| 09/06 |  | 2nd reading assignment due| 
-| 09/08 |         | |
-| 09/13 |   | Project proposal due |        
-| 09/15 |         |          |
-| 09/20 |  ||          
-| 09/22 |         |          |
-| 09/27 |         | |
-| 09/29 |         |          |
-| 10/04 | No class| Reading days |
-| 10/06 |         |          |
-| 10/11 |         |          |
-| 10/13 |         |          |
-| 10/18 |         |          |
-| 10/20 |         |          |
-| 10/25 |         |          |
-| 10/27 |         |          |
-| 11/01 |         |          |
-| 11/03 |         |          |
-| 11/08 | No class|  Election day|
-| 11/10 |         |          |
-| 11/15 |         |          |
-| 11/17 |         |          |
-| 11/22 |         |          |
-| 11/24 | No class | Thanksgiving recess|
-| 11/29 |         |          |
-| 12/01 |         |          |
-| 12/06 |         |          |
+| Date  |  Comments |
+|-------| ----------|
+| 08/23 |  1st reading assignment (10%) out (Chapter 1 & 3 of Sutton's book) | 
+| 08/25 |           | 
+| 08/30 |  1st reading assignment due; 2nd reading assignment (10%) out (Chapter 4 of Sutton's book)         |
+| 09/01 |  | 
+| 09/06 |  2nd reading assignment due| 
+| 09/08 |  |
+| 09/13 |  Project proposal due |        
+| 09/15 |            |
+| 09/20 |  |          
+| 09/22 |            |
+| 09/27 |          |
+| 09/29 |                   |
+| 10/04 | **No class, reading days** |
+| 10/06 |                   |
+| 10/11 |                   |
+| 10/13 |                   |
+| 10/18 |                   |
+| 10/20 |                   |
+| 10/25 |                   |
+| 10/27 |                   |
+| 11/01 |                   |
+| 11/03 |                   |
+| 11/08 | **No class, election day** |
+| 11/10 |                   |
+| 11/15 |                   |
+| 11/17 |                   |
+| 11/22 |                   |
+| 11/24 | **No class, Thanksgiving recess**|
+| 11/29 |                   |
+| 12/01 |                   |
+| 12/06 |                   |
 
 ## Resources:
 Books:
