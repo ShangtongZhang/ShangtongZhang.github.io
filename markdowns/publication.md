@@ -1,7 +1,7 @@
 ---
 layout: info
 title: Publications 
-permalink: /research/
+permalink: /publication/
 ---
 
 <sup>*</sup> indicates equal contribution. <sup>†</sup> indicates equal advising.
