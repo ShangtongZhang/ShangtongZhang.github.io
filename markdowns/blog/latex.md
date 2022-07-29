@@ -6,8 +6,11 @@ permalink: /blog/latex
 
 ## Tips for LaTeX 
 
+### Tutorials
+* [OverLeaf](https://www.overleaf.com/learn/latex/Tutorials) 
+
 ### Free Editors
-* Online: [OverLeaf](https://www.overleaf.com)
+* Online: [OverLeaf](https://www.overleaf.com) 
 * Local: [VSCode](https://code.visualstudio.com) + [Latex Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop)
 
 ### Some packages and commands
