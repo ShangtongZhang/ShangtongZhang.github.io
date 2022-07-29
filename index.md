@@ -30,7 +30,7 @@ layout: home
     </tbody>
 </table>
 
-[[Google Scholar]](https://scholar.google.co.uk/citations?user=Pn7fj4IAAAAJ&hl=en) [[Twitter]](https://twitter.com/ShangtongZhang) [[Curriculum Vitae]](/cv/curriculum_vitae.pdf) [[Github]](https://github.com/ShangtongZhang)  
+[[Google Scholar]](https://scholar.google.co.uk/citations?user=Pn7fj4IAAAAJ&hl=en) [[Twitter]](https://twitter.com/ShangtongZhang) [[Curriculum Vitae]](/cv/curriculum_vitae.pdf) [[Github]](https://github.com/ShangtongZhang) [[PhD Thesis]](/assets/pdf/thesis.pdf)  
 <span style="color:red"> <a href="/people" style="color:red"> <u> I am looking for self-motivated students interested in RL at different levels! </u> </a> </span>
 ## Biography
 
@@ -53,7 +53,6 @@ He spent some time at Microsoft Research and DeepMind during his DPhil.
 - 2021/12: One paper is accepted at AAMAS 2022 for oral presentation.
 - 2021/12: One paper is accepted at AAAI 2022.  
 - 2021/11: One paper about offline StarCraft II is accepted by Deep RL Workshop at NeurIPS.    
-<!-- - 2021/10: I give a talk at the School of Informatics, University of Edinburgh. -->
 - 2021/09: I give a talk at the group meeting of the RL team at DeepMind.
 - 2021/09: I give a talk at Microsoft Research Summit.
 - 2021/06: I start interning at Microsoft Research Montreal.

@@ -13,6 +13,8 @@ This repo includes almost all codes of my papers during my DPhil.
 
 ### Blog
 - [Tips for inquiry](/blog/inquiry)
+- [Tips for LaTeX](/blog/latex)
+- [Tips for writing (a paper)](/blog/writing)
 
 ### Hobby
 - Sports: [alpine skiing](/hobby/ski), swimming, [marathon](/hobby/marathon), table tennis
