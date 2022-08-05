@@ -101,8 +101,13 @@ Books:
 - *Markov Decision Processes: Discrete Stochastic Dynamic Programming* by Martin Puterman
 - *Stochastic Approximation: A Dynamical Systems Viewpoint* by Vivek Borkar
 - *Neuro-Dynamic Programming* by Dimitri Bertsekas
+- [*Markov Chains and Mixing Times*](https://pages.uoregon.edu/dlevin/MARKOV/markovmixing.pdf) by David Asher Levin, Elizabeth Wilmer, and Yuval Peres
 
 Theses:
 - [*Safe Reinforcement Learning*](https://scholarworks.umass.edu/dissertations_2/514/) by Philip Thomas
-- [*Breaking the Deadly Triad in Reinforcement Learning*](/assets/pdf/thesis.pdf) by Shangtong Zhang
+- [*Breaking the Deadly Triad in Reinforcement Learning*](https://ora.ox.ac.uk/objects/uuid:2c410803-2141-41ed-b362-7f14723b2f17) by Shangtong Zhang
 - [*Actor-Critic Algorithms*](https://dspace.mit.edu/bitstream/handle/1721.1/8120/51552606-MIT.pdf;sequence=2) by Vijaymohan Konda
+
+Notes:
+- [*Introduction to discrete-time Markov chains I*](http://www.columbia.edu/~ks20/stochastic-I/stochastic-I-MCI.pdf) by Karl Sigman
+- [*Markov chains II: recurrence and limiting (stationary) distributions*](http://www.columbia.edu/~ks20/stochastic-I/stochastic-I-MCII.pdf) by Karl Sigman

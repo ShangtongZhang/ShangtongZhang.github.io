@@ -30,7 +30,7 @@ layout: home
     </tbody>
 </table>
 
-[[Google Scholar]](https://scholar.google.co.uk/citations?user=Pn7fj4IAAAAJ&hl=en) [[Twitter]](https://twitter.com/ShangtongZhang) [[Curriculum Vitae]](/cv/curriculum_vitae.pdf) [[Github]](https://github.com/ShangtongZhang) [[PhD Thesis]](/assets/pdf/thesis.pdf)  
+[[Google Scholar]](https://scholar.google.co.uk/citations?user=Pn7fj4IAAAAJ&hl=en) [[Twitter]](https://twitter.com/ShangtongZhang) [[Curriculum Vitae]](/cv/curriculum_vitae.pdf) [[Github]](https://github.com/ShangtongZhang) [[PhD Thesis]](https://ora.ox.ac.uk/objects/uuid:2c410803-2141-41ed-b362-7f14723b2f17)  
 <span style="color:red"> <a href="/people" style="color:red"> <u> I am looking for self-motivated students interested in RL at different levels! </u> </a> </span>
 ## Biography
 
