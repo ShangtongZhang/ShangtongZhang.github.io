@@ -111,3 +111,7 @@ Theses:
 Notes:
 - [*Introduction to discrete-time Markov chains I*](http://www.columbia.edu/~ks20/stochastic-I/stochastic-I-MCI.pdf) by Karl Sigman
 - [*Markov chains II: recurrence and limiting (stationary) distributions*](http://www.columbia.edu/~ks20/stochastic-I/stochastic-I-MCII.pdf) by Karl Sigman
+
+## Policies:
+
+See [here](/teaching/policies) for policies regarding academic integrity and etc.
