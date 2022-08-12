@@ -114,4 +114,4 @@ Notes:
 
 ## Policies:
 
-See [here](/teaching/policies) for policies regarding academic integrity and etc.
+See [here](/teaching/policies) for policies regarding academic integrity, etc.
