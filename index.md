@@ -23,6 +23,7 @@ layout: home
                 <!-- <b>Office</b>: <br> -->
                 <!-- <b>Mail</b>: <br> -->
                 <!-- <b>Phone</b>: <br> -->
+                <b>Office</b>: 422 Rice Hall <br>
                 <b>Email</b>: <a href="mailto:shangtong@virginia.edu">shangtong@virginia.edu </a> <br>
             </p>
         </td>
