@@ -16,11 +16,10 @@ layout: home
         </td>
         <td>
             <p>
-                Assistant Professor (From Fall 2022) <br>
+                Assistant Professor<br>
                 <a href="https://engineering.virginia.edu/departments/computer-science">Department of Computer Science </a> <br>
                 <a href="https://www.virginia.edu/">University of Virginia </a> <br>
                 <br>
-                <!-- <b>Office</b>: <br> -->
                 <!-- <b>Mail</b>: <br> -->
                 <!-- <b>Phone</b>: <br> -->
                 <b>Office</b>: 422 Rice Hall <br>
@@ -35,19 +34,21 @@ layout: home
 <span style="color:red"> <a href="/people" style="color:red"> <u> I am looking for self-motivated students interested in RL at different levels! </u> </a> </span>
 ## Biography
 
-Shangtong Zhang is a DPhil student at the University of Oxford. 
-The goal of his research is to solve sequential decision making problems in a scalable and reliable way.
-Currently, he focuses on reinforcement learning as a solution method.
-His work won the best paper award at AAMAS and his research is funded by an EPSRC studentship.
-He spent some time at Microsoft Research and DeepMind during his DPhil.
-
-<!-- Shangtong Zhang is the Alf Weaver Assistant Professor in the Department of Computer Science at the University of Virginia. -->
-<!-- Prior to joining UVA, he received his DPhil degree at the University of Oxford, his MSc degree at the University of Alberta, -->
-<!-- and his BSc degree at Fudan University. -->
-<!-- The goal of his research is to solve sequential decision making problems in a scalable and reliable way.  -->
+<!-- Shangtong Zhang is a DPhil student at the University of Oxford.  -->
+<!-- The goal of his research is to solve sequential decision making problems in a scalable and reliable way. -->
 <!-- Currently, he focuses on reinforcement learning as a solution method. -->
+<!-- His work won the best paper award at AAMAS and his research is funded by an EPSRC studentship. -->
+<!-- He spent some time at Microsoft Research and DeepMind during his DPhil. -->
+
+Shangtong Zhang is the Alf Weaver Assistant Professor in the Department of Computer Science at the University of Virginia.
+Prior to joining UVA, he received his DPhil degree at the University of Oxford, MSc degree at the University of Alberta,
+and BSc degree at Fudan University.
+The goal of his research is to solve sequential decision making problems in a scalable and reliable way. 
+Currently, he focuses on reinforcement learning as a solution method.
+His work won the best paper award at AAMAS. He spent some time at Microsoft Research and DeepMind during his DPhil.
 
 ## News
+- 2022/08: I joined UVA!  
 - 2022/06: I defended my DPhil!  
 - 2022/05: One paper is accepted by JMLR.   
 - 2022/04: I will join UVA as an assistant professor starting from Fall 2022. 
