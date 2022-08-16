@@ -40,7 +40,7 @@ layout: home
 <!-- His work won the best paper award at AAMAS and his research is funded by an EPSRC studentship. -->
 <!-- He spent some time at Microsoft Research and DeepMind during his DPhil. -->
 
-Shangtong Zhang is the Alf Weaver Assistant Professor in the Department of Computer Science at the University of Virginia.
+Shangtong Zhang is an Assistant Professor in the Department of Computer Science at the University of Virginia.
 Prior to joining UVA, he received his DPhil degree at the University of Oxford, MSc degree at the University of Alberta,
 and BSc degree at Fudan University.
 The goal of his research is to solve sequential decision making problems in a scalable and reliable way. 
