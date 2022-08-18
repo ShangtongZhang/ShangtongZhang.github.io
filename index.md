@@ -20,9 +20,8 @@ layout: home
                 <a href="https://engineering.virginia.edu/departments/computer-science">Department of Computer Science </a> <br>
                 <a href="https://www.virginia.edu/">University of Virginia </a> <br>
                 <br>
-                <!-- <b>Mail</b>: <br> -->
-                <!-- <b>Phone</b>: <br> -->
                 <b>Office</b>: 422 Rice Hall <br>
+                <b>Mail</b>: 85 Engineer's Way, Charlottesville, VA, 22903<br>
                 <b>Email</b>: <a href="mailto:shangtong@virginia.edu">shangtong@virginia.edu </a> <br>
             </p>
         </td>
