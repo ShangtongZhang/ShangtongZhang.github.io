@@ -22,7 +22,7 @@ After this course, you will be able to catch up with most RL papers easily and b
 - Time: Tuesday & Thursday, 9:30 - 10:45  
 - TA: [Chijung Jung](https://chijung-jung.github.io)
 - Office Hour: 
-  - Shangtong: Tuesday & Thursday 11:00 - 12:00
+  - Shangtong: Tuesday & Thursday 11:00 - 12:00 (422 Rice Hall)
   - Chijung: Tuesday 13:00 - 15:00
 - UVACollab: [RL-CS6501-F22](https://collab.its.virginia.edu/portal/site/ff8396e5-8111-44cc-ade2-8311272db7eb/tool/74aa2784-e9cf-41b8-bec6-5fef35f79093)
 
