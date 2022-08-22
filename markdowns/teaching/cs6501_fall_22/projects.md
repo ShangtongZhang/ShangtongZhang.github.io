@@ -36,7 +36,7 @@ Usually we have N = 2.
 I have only a limited number of ideas so it is on a **first-come-first-served** basis (I will discuss the details later). I will try my best but there is no guarantee that everyone can find a research project. 
 
 You are of course welcome to propose a new research project by yourself. 
-Such new research projects even do not have to be theoretical but can also be empirical investigations of some RL theories in the lectures.
+Such new research projects even do not have to be theoretical but can also be empirical investigations / applications of some RL theories in the lectures.
 Make sure to talk with me first for the approval of your new research project.
 
 Each group only needs to submit one proposal, one progress report, one write-up, and do one presentation.
