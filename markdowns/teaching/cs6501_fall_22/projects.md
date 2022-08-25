@@ -30,9 +30,7 @@ You must complete the non-research project **solo**.
 <!-- The length of the presentation will be determined later based on the size of the class. -->
 
 ## Research project
-I will provide a list of ideas for you to choose from. Each idea consists of one or two papers (referred to as the base paper) and some possible directions for extensions. You are expected to understand the base papers and investigate the extension.
-**If an idea consists of N base papers, then a group of N can work on it.** 
-Usually we have N = 2.
+I will provide a list of ideas for you to choose from. Each idea consists of several base papers and some possible directions for extensions. You are expected to understand the base papers and investigate the extension.
 I have only a limited number of ideas so it is on a **first-come-first-served** basis (I will discuss the details later). I will try my best but there is no guarantee that everyone can find a research project. 
 
 You are of course welcome to propose a new research project by yourself. 
@@ -46,4 +44,11 @@ You should give a tentative timeline for milestones (e.g., understanding the bas
 * Write-up: The write-up is meant to be a paper that is ready for submission to some venues (e.g., TMLR, ICML). So it should have abstract, introduction, background, related work, new findings, conclusion, and references. Refer to the base paper to get an idea on what a research paper looks like.
 * Presentation: walk me and other students through your write-up. I might ask some questions.
 
-In case the extension does not work, one research project can be transformed into **N** non-research projects since it has N base papers. So the research project is risk free in that you will anyway have a successful project for this course. Please document the efforts you make and why the extension failed in the write-up of such non-research projects. Those efforts matter a lot during my evaluation. Though the research projects are risk free, please **take them seriously and start early**. It is nontrivial to find ideas that are good enough, easy enough, and promising enough to fit into a course research project.
+In case the extension does not work, I expect the group (as a whole) to reproduce the base papers just like non-research projects and provide an additional report documenting the efforts they made. 
+If the group has N students but the project has more than N base papers,
+the group needs to reproduce only N base papers.
+If the group has N students but the project has less than or equal to N base papers,
+the group needs to reproduce all base papers.
+So the research project is risk free in that you will anyway have a successful project for this course. 
+<!-- Please document the efforts you make and why the extension failed in the write-up of such non-research projects. Those efforts matter a lot during my evaluation.  -->
+Though the research projects are risk free, please **take them seriously and start early**. It is nontrivial to find ideas that are good enough, easy enough, and promising enough to fit into a course research project.
