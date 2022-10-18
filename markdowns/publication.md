@@ -6,6 +6,10 @@ permalink: /publication/
 
 <sup>*</sup> indicates equal contribution. <sup>†</sup> indicates equal advising.
 
+- [Global Optimality and Finite Sample Analysis of Softmax Off-Policy Actor Critic under State Distribution Mismatch](https://arxiv.org/abs/2111.02997).  
+**Shangtong Zhang**, Remi Tachet des Combes<sup>†</sup>, Romain Laroche<sup>†</sup>.  
+Journal of Machine Learning Research (**JMLR**), 2022.    
+
 - [Truncated Emphatic Temporal Difference Methods for Prediction and Control](https://arxiv.org/abs/2108.05338).  
 **Shangtong Zhang**, Shimon Whiteson.  
 Journal of Machine Learning Research (**JMLR**), 2022.  
@@ -23,10 +27,6 @@ International Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)
 Ray Jiang, **Shangtong Zhang**, Veronica Chelu, Adam White, Hado van Hasselt.  
 AAAI Conference on Artificial Intelligence (**AAAI**), 2022.  
 
-- [Global Optimality and Finite Sample Analysis of Softmax Off-Policy Actor Critic under State Distribution Mismatch](https://arxiv.org/abs/2111.02997).  
-**Shangtong Zhang**, Remi Tachet des Combes<sup>†</sup>, Romain Laroche<sup>†</sup>.  
-arXiv:2111.02997, 2021.  
-Under review of Journal of Machine Learning Research.  
 
 - [StarCraft II Unplugged: Large Scale Offline Reinforcement Learning](https://openreview.net/forum?id=Np8Pumfoty)  
 Michael Mathieu<sup>*</sup>, Sherjil Ozair<sup>*</sup>, Srivatsan Srinivasan, Caglar Gulcehre, **Shangtong Zhang**, Ray Jiang, Tom Le Paine, Konrad Zolna, Richard Powell, Julian Schrittwieser, David Choi, Petko Georgiev, Daniel Kenji Toyama, Aja Huang, Roman Ring, Igor Babuschkin, Timo Ewalds, Mahyar Bordbar, Sarah Henderson, Sergio Gomez Colmenarejo, Aaron van den Oord, Wojciech M. Czarnecki, Nando de Freitas, Oriol Vinyals.  

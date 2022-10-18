@@ -47,6 +47,7 @@ Currently, he focuses on reinforcement learning as a solution method.
 His work won the best paper award at AAMAS. He spent some time at Microsoft Research and DeepMind during his DPhil.
 
 ## News
+- 2022/10: One paper is accepted by JMLR.   
 - 2022/08: I am offering [CS6501: Topics in Reinforcement Learning](/teaching/cs6501_fall_22/index) this fall.
 - 2022/08: I joined UVA!  
 - 2022/06: I defended my DPhil!  
