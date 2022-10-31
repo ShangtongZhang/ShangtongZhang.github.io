@@ -28,13 +28,10 @@ After this course, you will be able to catch up with most RL papers easily and b
 
 
 ## Topics:
-- classification of Markov chains
-- ergodicity of Markov chains
+- properties of Markov chains
 - Markov decision processes and performance metrics
 - dynamic programming
-- Monte Carlo and TD
-- importance sampling
-- off-policy TD and Q-learning
+- temporal difference learning 
 - stochastic approximation 
 
 ## Grading (tentative):
