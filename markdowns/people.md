@@ -4,7 +4,7 @@ title: People
 permalink: /people/
 ---
 
-### Recruitment
+### Recruiting
 
 I am looking for self-motivated students interested in RL at different levels.
 
