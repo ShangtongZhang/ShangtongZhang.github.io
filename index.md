@@ -44,10 +44,11 @@ Prior to joining UVA, he received his DPhil degree at the University of Oxford, 
 and BSc degree at Fudan University.
 The goal of his research is to solve sequential decision making problems in a scalable and reliable way. 
 Currently, he focuses on reinforcement learning as a solution method.
-His work won the best paper award at AAMAS. He spent some time at Microsoft Research and DeepMind during his DPhil.
+His work won the best paper award at AAMAS and his thesis is the runner-up for the IFAAMAS Victor Lesser Dissertation Award.
+He spent some time at Microsoft Research and DeepMind during his DPhil.
 
 ## News
-- 2022/12: My PhD thesis is awarded the runner-up award for the IFAAMAS Victor Lesser Dissertation Award  
+- 2022/12: My PhD thesis is recognized as the runner-up for the IFAAMAS Victor Lesser Dissertation Award.  
 - 2022/10: One paper is accepted by JMLR.   
 - 2022/08: I am offering [CS6501: Topics in Reinforcement Learning](/teaching/cs6501_fall_22/index) this fall.
 - 2022/08: I joined UVA!  
