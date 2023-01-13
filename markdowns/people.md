@@ -23,16 +23,15 @@ If you are an undergraduate in UVA and want to join my research group, feel free
 Please attach your CV and transcripts in your email. Due to the large volume of emails I receive, I might not be able to reply to every inquiry. I apologize for this.  
 [*I, however, will put the same effort in replying to you as the effort you put in customizing your email for me.*](/blog/inquiry) 
 
-### PhD students
+### PhD Students
 * Shuze Liu
 
-### Master students
+### Master Students
 * Zhengkun Xiao
 
 ### Undergraduates
 * Ja-Zhua Cheng
 
-### Research interns
+### Selected Research Interns
 * Jiuqi Wang  
-* Xiaochi Qian  
-* Jianfei Ma
+* Joe (Xiaochi) Qian  
