@@ -6,6 +6,10 @@ permalink: /publication/
 
 <sup>*</sup> indicates equal contribution. <sup>†</sup> indicates equal advising.
 
+- [Improving Monte Carlo Evaluation with Offline Data](https://arxiv.org/abs/2301.13734).  
+Shuze Liu, **Shangtong Zhang**.   
+arXiv:2301.13734, 2023.  
+
 - [Global Optimality and Finite Sample Analysis of Softmax Off-Policy Actor Critic under State Distribution Mismatch](https://arxiv.org/abs/2111.02997).  
 **Shangtong Zhang**, Remi Tachet des Combes<sup>†</sup>, Romain Laroche<sup>†</sup>.  
 Journal of Machine Learning Research (**JMLR**), 2022.    
