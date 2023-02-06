@@ -34,7 +34,7 @@ After this course, you will be able to catch up with most RL papers easily and b
 - temporal difference learning 
 - stochastic approximation 
 
-## Grading (tentative):
+## Grading:
 - [Reading assignment](/teaching/cs6501_fall_22/reading) (5% x 6 = 30%):  
 - [A Research or Non-research Course Project](/teaching/cs6501_fall_22/projects) (70%):  
   * Project proposal (5%)
