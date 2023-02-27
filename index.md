@@ -48,6 +48,7 @@ His work won the best paper award at AAMAS and his thesis is the runner-up for t
 He spent some time at Microsoft Research and DeepMind during his DPhil.
 
 ## News
+- 2023/02: I gave a [talk](/assets/pdf/talks/AAAI23_faculty_highlight.pdf) at AAAI 23 New Faculty Highlights.  
 - 2022/12: My PhD thesis is recognized as the runner-up for the IFAAMAS Victor Lesser Dissertation Award.  
 - 2022/10: One paper is accepted by JMLR.   
 - 2022/08: I am offering [CS6501: Topics in Reinforcement Learning](/teaching/cs6501_fall_22/index) this fall.
