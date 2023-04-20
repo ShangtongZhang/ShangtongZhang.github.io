@@ -23,7 +23,10 @@ WARNING: This course is mathematically heavy but does involve programming.
 - Office Hour: 
   - Shangtong: Tuesday & Thursday 15:30 - 16:30 (Rice Hall 422)
 - UVACollab: [OPT-CS4501-F23]()
-- Prerequisite: TBD
+- Prerequisite:
+  - CS 2150 or CS 3140 or equivalent: C- or better, we will use Python
+  - Math 3350 or APMA 3080 or equivalent: recommended but not necessary, we will heavily use linear algebra and I will cover some related topics at the first few lectures
+  - APMA 3100, APMA 3110, MATH 3100, or equivalent: **not** required, we will not involve probability
 - Teaching: I will mostly use white boards instead of slides. The course will be recorded and the recording will be shared in Collab. I will NOT provide detailed notes.
 
 ## Topics:
