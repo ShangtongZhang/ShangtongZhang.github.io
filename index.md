@@ -29,7 +29,7 @@ layout: home
     </tbody>
 </table>
 
-[[Google Scholar]](https://scholar.google.co.uk/citations?user=Pn7fj4IAAAAJ&hl=en) [[Twitter]](https://twitter.com/ShangtongZhang) [[Curriculum Vitae]](/cv/curriculum_vitae.pdf) [[Github]](https://github.com/ShangtongZhang) [[PhD Thesis]](https://ora.ox.ac.uk/objects/uuid:2c410803-2141-41ed-b362-7f14723b2f17) [[Calendar]](https://outlook.office365.com/owa/calendar/28109e83b17a40a68df4687e82614ae6@virginia.edu/2ad127173b3b48fdbd94f147ff927eb313334540689424455240/calendar.html)  
+[[Google Scholar]](https://scholar.google.co.uk/citations?user=Pn7fj4IAAAAJ&hl=en) [[Twitter]](https://twitter.com/ShangtongZhang) [[Curriculum Vitae]](/cv/curriculum_vitae.pdf) [[Github]](https://github.com/ShangtongZhang) [[SDM Lab]](https://github.com/SDM-LAB) [[PhD Thesis]](https://ora.ox.ac.uk/objects/uuid:2c410803-2141-41ed-b362-7f14723b2f17) [[Calendar]](https://outlook.office365.com/owa/calendar/28109e83b17a40a68df4687e82614ae6@virginia.edu/2ad127173b3b48fdbd94f147ff927eb313334540689424455240/calendar.html)  
 <span style="color:red"> <a href="/people" style="color:red"> <u> I am looking for self-motivated students interested in RL at different levels! </u> </a> </span>
 ## Biography
 
