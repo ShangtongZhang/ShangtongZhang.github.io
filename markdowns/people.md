@@ -33,5 +33,5 @@ Please attach your CV and transcripts in your email. Due to the large volume of 
 * Ja-Zhua Cheng
 
 ### Selected Research Interns
-* Jiuqi Wang  
+<!-- * Jiuqi Wang   -->
 * Joe (Xiaochi) Qian  
