@@ -115,11 +115,12 @@ Nov 23: Thanksgiving recess, no lecture
 | 11/30 | |
 | 12/05 | | -->
 
-## Late Policy:
+## Policies:
 
 <!-- No late submission is allowed except for medical needs and reasonable career development needs. -->
 <!-- See all policies [here](/teaching/policies). -->
 
+- Late Policy:
 If you submit within 8 hours (a grace period) after the due date,
 there is no penalty.
 If you submit within 24 hours after the due date, you loss 33% scores.
@@ -127,3 +128,4 @@ If you submit within 48 hours after the due date, you lose 66% scores.
 If you are not able to submit within 48 hours after the due date, 
 you loss all scores.
 No exception will be made unless a doctor's note is provided.
+- Regrading Policy: For every assignment, one regrading request is allowed. I will regrade the **entire** assignment and there is no guarantee that the score will not decrease.
