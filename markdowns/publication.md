@@ -10,6 +10,10 @@ permalink: /publication/
 Shuze Liu, **Shangtong Zhang**.   
 arXiv:2301.13734, 2023.  
 
+- [A New Challenge in Policy Evaluation](https://ojs.aaai.org/index.php/AAAI/article/view/26832).  
+**Shangtong Zhang**.  
+New Faculty Highlights at AAAI Conference on Artificial Intelligence (**AAAI**), 2023.  
+
 - [On the Convergence of SARSA with Linear Function Approximation](https://arxiv.org/abs/2202.06828).  
 **Shangtong Zhang**, Remi Tachet des Combes, Romain Laroche.  
 International Conference on Machine Learning (**ICML**), 2023. 
