@@ -44,31 +44,34 @@ The entire book rests on the idea of subgradient.
 We will cover only its special case, gradient,
 which simplifies everything.
 
+- Introduction
+  - Newton's method
+    - **Coding Assignment 1** (10%): Implementation of Newton's method
 - Gradient Descent
   - Basics of Vector Space  
     - Definition, Dimension, Norm, Inner Products, Convex Sets, Euclidean Spaces
-    - **Written Assignment 1** (14%)
+    - **Written Assignment 1** (15%)
   - Linear Transformation
   - Dual Space
   - Closedness
   - Convex Function
   - Gradients
   - Smoothness
-  - **Written Assignment 2** (14%)
+  - **Written Assignment 2** (15%)
   - Descent Direction  
     - Lem 8.2
 - Projected Gradient Descent  
   - Lem 8.11, Thm 8.13, Thm 8.16, Thm 8.17, Thm 8.18, Thm 8.30, Thm 8.31, Thm 8.33
-  - **Coding Assignment 1** (14%): Implementation of Projected Gradient Descent
+  - **Coding Assignment 2** (10%): Implementation of Projected Gradient Descent
 - Mirror Descent
   - Bregman Distance
     - Lem 9.4
   - Lem 9.11, Lem 9.12, Lem 9.13, Lem 9.14
-  - **Coding Assignment 2** (14%): Implementation of Mirror Descent 
+  - **Coding Assignment 3** (10%): Implementation of Mirror Descent 
 - Proximal Gradient Descent
   - Proximal Operator
   - Convex Case: Sec 10.4
-  - **Coding Assignment 3** (14%): Implementation of Proximal Gradient Descent 
+  - **Coding Assignment 4** (10%): Implementation of Proximal Gradient Descent 
 - Final Project
   - **Written Part** (5%): Derivation of the chain rule of the feedforward neural network 
   - **Coding Part** (25%): Implementation of the chain rule of the feedforward neural network
