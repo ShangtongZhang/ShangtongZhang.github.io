@@ -87,7 +87,7 @@ Nov 23: Thanksgiving recess, no lecture -->
 
 | Date  |  Comments |
 |-------| ----------|
-| 08/22 |   |
+| 08/22 |  [Assignment 1]() released |
 | 08/24 |  | 
 | 08/29 |  |
 | 08/31 |  | 
