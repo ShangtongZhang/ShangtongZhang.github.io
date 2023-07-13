@@ -22,17 +22,22 @@ WARNING: This course is mathematically heavy but does involve a good amount of c
 - TA: TBD 
 - Office Hour: 
   - Shangtong: Tuesday & Thursday 15:30 - 16:30 (Rice Hall 422)
-- UVACollab: [OPT-CS4501-F23]()
+- UVACanvas: [23F CS4501 Optimization](https://canvas.its.virginia.edu/courses/79226)
 - Prerequisite:
   - APAM 2120 or equivalent: C- or better, we will use calculus
   - CS 2150 or CS 3140 or equivalent: C- or better, we will use Python
   - Math 3350 or APMA 3080 or equivalent: recommended but not necessary, we will heavily use linear algebra and I will cover some related topics at the first few lectures
   - APMA 3100 or APMA 3110 or MATH 3100 or equivalent: **not** required, we will not involve probability
-- Teaching: We will use the textbook [First-Order Methods in Optimization](https://epubs.siam.org/doi/10.1137/1.9781611974997) by Amir Beck. I will mostly use white boards instead of slides. 
-I will **NOT** provide notes.
+- Teaching: We will use the textbook [First-Order Methods in Optimization](https://epubs.siam.org/doi/10.1137/1.9781611974997) (FOMO) by Amir Beck.
+We will also use [Algebra, Topology, Differential Calculus, and  Optimization Theory for Computer Science and Machine Learning](https://www.cis.upenn.edu/~jean/gbooks/geomath.html) (ATDO) by Jean Gallier and Jocelyn Quaintance as reference.
+FOMO is not free but ATDO is free.
+There will be no slides and the lectures are mostly whiteboards.
+In principle, if you attend each lecture and take notes carefully, purchasing FOMO is not necessary.
+That being said,
+I will **NOT** provide detailed notes.
+I will, however, provide an outline.pdf which is used to remind myself of what to discuss next.
 As a courtesy,
-I will try my best to record each lecture (not guaranteed) and post the recording in Collab.
-<!-- It is ok to not have the textbook. My whiteboards will be self-contained. -->
+I will try my best to record each lecture (not guaranteed) and post the recording in Canvas.
 
 ## Roadmap:
 We will cover four algorithms: gradient descent, projected gradient descent, mirror descent, and proximal gradient descent.
@@ -46,33 +51,33 @@ which simplifies everything.
 
 - Introduction
   - Newton's method
-    - **Coding Assignment 1** (10%): Implementation of Newton's method
+    - **Assignment 1** (10%): Implementation of Newton's method
 - Gradient Descent
   - Basics of Vector Space  
     - Definition, Dimension, Norm, Inner Products, Convex Sets, Euclidean Spaces
-    - **Written Assignment 1** (15%)
+    - **Assignment 2** (15%): Math basics
   - Linear Transformation
   - Dual Space
   - Closedness
   - Convex Function
   - Gradients
   - Smoothness
-  - **Written Assignment 2** (15%)
+  - **Assignment 3** (15%): Math basics
   - Descent Direction  
     - Lem 8.2
 - Projected Gradient Descent  
   - Lem 8.11, Thm 8.13, Thm 8.16, Thm 8.17, Thm 8.18, Thm 8.30, Thm 8.31, Thm 8.33
-  - **Coding Assignment 2** (10%): Implementation of Projected Gradient Descent
+  - **Assignment 4** (10%): Implementation of Projected Gradient Descent
 - Mirror Descent
   - Bregman Distance
     - Lem 9.4
   - Lem 9.11, Lem 9.12, Lem 9.13, Lem 9.14
-  - **Coding Assignment 3** (10%): Implementation of Mirror Descent 
+  - **Assignment 5** (10%): Implementation of Mirror Descent 
 - Proximal Gradient Descent
   - Proximal Operator
   - Convex Case: Sec 10.4
-  - **Coding Assignment 4** (10%): Implementation of Proximal Gradient Descent 
-- Final Project
+  - **Assignment 6** (10%): Implementation of Proximal Gradient Descent 
+- **Assignment 7 (final project)** 
   - **Written Part** (5%): Derivation of the chain rule of the feedforward neural network 
   - **Coding Part** (25%): Implementation of the chain rule of the feedforward neural network
 
@@ -87,7 +92,7 @@ Nov 23: Thanksgiving recess, no lecture -->
 
 | Date  |  Comments |
 |-------| ----------|
-| 08/22 |  [Assignment 1]() released |
+| 08/22 |  [Assignment 1](https://github.com/ShangtongZhang/ShangtongZhang.github.io/tree/master/assets/pdf/cs_4501_fall_23) released. |
 | 08/24 |  | 
 | 08/29 |  |
 | 08/31 |  | 
@@ -95,29 +100,30 @@ Nov 23: Thanksgiving recess, no lecture -->
 | 09/07 | |
 | 09/12 |  |        
 | 09/14 |            |
-| 09/19 |  |          
+| 09/19 |  Assignment 1 due. Assignment 2 released.|          
 | 09/21 |            |
 | 09/26 | |
 | 09/28 |                   |
-| 10/03 |  Reading Days, no lecture |
+| 10/03 |  Reading Days, no lecture. Assignment 2 due. Assignment 3 released. |
 | 10/05 | |
 | 10/10 |   |
 | 10/12 |  |
-| 10/17 |                   |
+| 10/17 |  Assignment 3 due. Assignment 4 released.                 |
 | 10/19 |   |
 | 10/24 | |
 | 10/26 |  |
-| 10/31 |                   |
+| 10/31 |  Assignment 4 due. Assignment 5 released.                 |
 | 11/02 |                   |
 | 11/07 | Election Day, no lecture  |
 | 11/09 |  |
-| 11/14 |  |
+| 11/14 | Assignment 5 due. Assignments 6 & 7 released. |
 | 11/16 |  |
 | 11/21 |  |
 | 11/23 | Thanksgiving recess, no lecture  |
-| 11/28 | |
+| 11/28 | Assignment 6 due. |
 | 11/30 | |
-| 12/05 | |
+| 12/05 | Last lecture. |
+| 12/10 | Assignment 7 due.|
 
 ## Policies:
 
