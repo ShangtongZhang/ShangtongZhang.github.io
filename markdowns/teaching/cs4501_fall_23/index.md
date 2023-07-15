@@ -19,7 +19,7 @@ WARNING: This course is mathematically heavy but does involve a good amount of c
 - Instructor: [Shangtong Zhang](/)
 - Location: Olsson Hall 120   
 - Time: Tuesday & Thursday, 14:00 - 15:15  
-- TA: TBD 
+- TA: [Kallie Whritenour](kw5km@virginia.edu) 
 - Office Hour: 
   - Shangtong: Tuesday & Thursday 15:30 - 16:30 (Rice Hall 422)
 - UVACanvas: [23F CS4501 Optimization](https://canvas.its.virginia.edu/courses/79226)
