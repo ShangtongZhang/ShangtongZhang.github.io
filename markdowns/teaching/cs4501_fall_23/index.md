@@ -8,7 +8,7 @@ The recent success in deep learning is largely driven by the application of larg
 In this course,
 we will cover the foundations of the techniques that are commonly used to train those large neural networks,
 namely,
-the foundations of the first-order optimization methods.
+the foundations of the **first-order optimization methods**.
 Those include gradient descent and its variants.
 This course will cover both theoretical analysis and empirical implementation.
 
