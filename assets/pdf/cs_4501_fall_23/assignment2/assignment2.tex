@@ -1,0 +1,129 @@
+\documentclass[11pt]{article}
+
+% Any additional packages needed should be included after jmlr2e.
+% Note that jmlr2e.sty includes epsfig, amssymb, natbib and graphicx,
+% and defines many common macros, such as 'proof' and 'example'.
+%
+% It also sets the bibliographystyle to plainnat; for more information on
+% natbib citation styles, see the natbib documentation, a copy of which
+% is archived at http://www.jmlr.org/format/natbib.pdf
+
+% \usepackage[preprint]{jmlr2e}
+\usepackage[margin=1in]{geometry}
+\usepackage{amssymb}
+\usepackage{natbib}
+\usepackage{color}
+% \usepackage{float}
+% \usepackage{hyperref}
+\usepackage[hidelinks,colorlinks=true,citecolor=blue]{hyperref}
+\usepackage{amsfonts}       
+\usepackage{url}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{wrapfig}
+\usepackage{mathtools}
+\usepackage{tikz}
+\usepackage{subfig}
+\usepackage{algorithmic}
+\usepackage{subfig}
+\usepackage{footmisc}
+\usepackage{bibentry}
+\usepackage{mathtools}
+\DeclarePairedDelimiter{\ceil}{\lceil}{\rceil}
+\usepackage{physics}
+\usepackage{mathrsfs}
+\mathtoolsset{showonlyrefs}
+\usepackage{etoolbox}
+\usepackage{makecell}
+\usepackage[ruled]{algorithm2e}
+\DontPrintSemicolon
+\usepackage{enumerate}
+\usepackage{booktabs}
+\usepackage{listings}
+% \begin{lstlisting}[language=Python]
+
+\newcommand{\fS}{\mathcal{S}}
+\newcommand{\fA}{\mathcal{A}}
+\newcommand{\fY}{\mathcal{Y}}
+\newcommand{\fX}{\mathcal{X}}
+\newcommand{\fN}{\mathcal{N}}
+\newcommand{\mY}{\mathbb{Y}}
+\newcommand{\mP}{\mathbb{P}}
+\newcommand{\fB}{\mathcal{B}}
+\newcommand{\mI}{\mathbb{I}}
+\newcommand{\fZ}{\mathcal{Z}}
+\newcommand{\mZ}{\mathbb{Z}}
+\newcommand{\fW}{\mathcal{W}}
+\newcommand{\fF}{\mathcal{F}}
+\newcommand{\fO}{\mathcal{O}}
+\newcommand{\fH}{\mathcal{H}}
+\newcommand{\mH}{\mathbb{H}}
+\newcommand{\fU}{\mathcal{U}}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\Q}{\mathbb{Q}}
+\newcommand{\E}{\mathbb{E}}
+\newcommand{\nsa}{{|\fS \times \fA|}}
+\newcommand{\ns}{{|\fS|}}
+\newcommand{\na}{{|\fA|}}
+\newcommand{\ny}{{|\fY|}}
+\newcommand{\tb}[1]{{\textbf{#1}}}
+\DeclarePairedDelimiter\floor{\lfloor}{\rfloor}
+
+\begin{document}
+
+\title{CS 4501: Optimization - Assignment 2}
+\author{Your name and email}
+\date{}
+\maketitle
+
+\section{Equivalence between norms}
+Let $\norm{\cdot}_a$ and $\norm{\cdot}_b$ be two norms defined in $\R^N$.
+We say $\norm{\cdot}_a$ is \emph{equivalent} to $\norm{\cdot}_b$ if there exist some constants $C_1, C_2 \in (0, \infty)$ such that for any 
+$x \in \R^N$,
+the following holds:
+\begin{align}
+  C_1 \norm{x}_a \leq& \norm{x}_b \leq C_2 \norm{x}_a.
+\end{align}
+If $\norm{\cdot}_a$ is equivalent to $\norm{\cdot}_b$,
+we write $\norm{\cdot}_a \sim \norm{\cdot}_b$.
+\paragraph{(a, 2pt) Prove that $\norm{\cdot}_2$ is equivalent to $\norm{\cdot}_\infty$.}
+\begin{proof}
+  Write your proof here
+\end{proof}
+
+\paragraph{(b, 3pt) Prove that for any norm $\norm{\cdot}$, there exists a constant $C_1 \in (0, \infty)$ such that $$\forall x \in \R^N, \,\, \norm{x} \leq C_1 \norm{x}_1.$$} \mbox{}\\
+Hint: Express $x$ using a set of bases.
+\begin{proof}
+  Write your proof here
+\end{proof}
+
+\paragraph{(c, 3pt) Prove that for any norm $\norm{\cdot}$, there exists a constant $C_2 \in (0, \infty)$ such that $$\forall x \in \R^N, \,\, \norm{x} \geq C_2 \norm{x}_1.$$} \mbox{} \\
+Hint: You can use the following two facts:
+\begin{itemize}
+  \item $\norm{x}$ is continous in $x$,
+  \item the set $B \doteq \qty{x | \norm{x}_1 = 1}$ is complete. 
+\end{itemize}
+\begin{proof}
+  Write your proof here
+\end{proof}
+
+\paragraph{(d, 2pt) Prove that if $\norm{\cdot}_a \sim \norm{\cdot}_b$ and $\norm{\cdot}_b \sim \norm{\cdot}_c$, then $\norm{\cdot}_a \sim \norm{\cdot}_c$.} \mbox{}\\
+\begin{proof}
+  Write your proof here
+\end{proof}
+
+Now it is easy to see that any two norms in $\R^N$ are equivalent.
+
+\section{Submultiplicity of Induced Norms}
+\paragraph{(a, 3pt) Let $A \in \R^{N\times N}$ and $\norm{\cdot}$ denote both a vector norm and the corresponding induced matrix norm. Prove that $\norm{A x} \leq \norm{A} \norm{x}$ holds for any $x \in \R^N$.} 
+\begin{proof}
+  Write your proof here
+\end{proof}
+
+\paragraph{(b, 2pt) Let $A, B \in \R^{N\times N}$ and $\norm{\cdot}$ be an induced norm. Prove that $\norm{AB} \leq \norm{A} \norm{B}$}
+\begin{proof}
+  Write your proof here
+\end{proof}
+
+\end{document}

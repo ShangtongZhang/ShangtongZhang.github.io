@@ -102,7 +102,7 @@ Nov 23: Thanksgiving recess, no lecture -->
 | 09/07 | |
 | 09/12 |  |        
 | 09/14 |            |
-| 09/19 |  Assignment 1 due. Assignment 2 released.|          
+| 09/19 |  Assignment 1 due. [Assignment 2](https://github.com/ShangtongZhang/ShangtongZhang.github.io/tree/master/assets/pdf/cs_4501_fall_23) released.|          
 | 09/21 |            |
 | 09/26 | |
 | 09/28 |                   |
