@@ -8,7 +8,7 @@ permalink: /publication/
 
 - [Direct Gradient Temporal Difference Learning](https://arxiv.org/abs/2308.01170).  
 Xiaochi Qian, **Shangtong Zhang**.   
-2308.01170, 2023  
+arXiv:2308.01170, 2023  
 
 - [Improving Monte Carlo Evaluation with Offline Data](https://arxiv.org/abs/2301.13734).  
 Shuze Liu, **Shangtong Zhang**.   
