@@ -22,6 +22,7 @@ This course will cover both theoretical analysis and empirical implementation.
 - TA: [Kallie Whritenour](kw5km@virginia.edu) 
 - Office Hour: 
   - Shangtong: Tuesday & Thursday 15:30 - 16:30 (Rice Hall 422)
+  - Kallie: Monday & Wednesday 15:00 - 16:00 (Rice Hall 442)
 - UVACanvas: [23F CS4501 Optimization](https://canvas.its.virginia.edu/courses/79226)
 - Prerequisite:
   - APAM 2120 or equivalent: C- or better, we will use calculus
