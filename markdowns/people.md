@@ -38,5 +38,5 @@ Please attach your CV and transcripts in your email. Due to the large volume of 
 * Xiaochi Qian (2022 - ) 
 
 ### Alumni
-* Jiuqi Want (RA, 2022 - 2023, now PhD student at University of Virginia)
+* Jiuqi Wang (RA, 2022 - 2023, now PhD student at University of Virginia)
 * Zhengkun Xiao (Master 2022 - 2023, now PhD student at University of Florida)
