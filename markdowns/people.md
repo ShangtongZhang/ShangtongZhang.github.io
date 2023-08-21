@@ -34,7 +34,7 @@ Please attach your CV and transcripts in your email. Due to the large volume of 
 * Ryland Birchmeier (2023 - ) 
 * Ja-Zhua Cheng (2022 - )
 
-### Research Interns
+### Research Assistants
 * Xiaochi Qian (2022 - ) 
 
 ### Alumni
