@@ -24,14 +24,19 @@ Please attach your CV and transcripts in your email. Due to the large volume of 
 <!-- [*I, however, will put the same effort in replying to you as the effort you put in customizing your email for me.*](/blog/inquiry)  -->
 
 ### PhD Students
-* Shuze Liu
+* Shuze Liu (2022 - )
+* Jiuqi Wang (2023 -)
 
 ### Master Students
-* Zhengkun Xiao
+* Kefan Song (2023 - )
 
 ### Undergraduates
-* Ja-Zhua Cheng
+* Ryland Birchmeier (2023 - ) 
+* Ja-Zhua Cheng (2022 - )
 
 ### Research Interns
-* Jiuqi Wang  
-* Joe (Xiaochi) Qian  
+* Xiaochi Qian (2022 - ) 
+
+### Alumni
+* Jiuqi Want (RA, 2022 - 2023, now PhD student at University of Virginia)
+* Zhengkun Xiao (Master 2022 - 2023, now PhD student at University of Florida)
