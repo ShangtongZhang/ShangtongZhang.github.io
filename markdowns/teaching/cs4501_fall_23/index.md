@@ -97,7 +97,7 @@ Nov 23: Thanksgiving recess, no lecture -->
 |-------| ----------|
 | 08/22 |  [Assignment 1](https://github.com/ShangtongZhang/ShangtongZhang.github.io/tree/master/assets/pdf/cs_4501_fall_23) released. |
 | 08/24 |  Reading: Section 3.1 - 3.6 of ATDO| 
-| 08/29 |  |
+| 08/29 |  Reading: [Matrix Calculus](https://atmos.washington.edu/~dennis/MatrixCalculus.pdf)|
 | 08/31 |  | 
 | 09/05 |  | 
 | 09/07 | |
