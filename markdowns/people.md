@@ -29,10 +29,13 @@ Please attach your CV and transcripts in your email. Due to the large volume of 
 * Shuze Liu (2022 - )
 
 ### Master Students
+* Licheng Luo (2023 - )
 * Kefan Song (2023 - )
 
 ### Undergraduates
-<!-- * Ryland Birchmeier (2023 - )  -->
+* Ryland Birchmeier (2023 - ) 
+* Cici Wang (2023 - )
+* Steve Zhou (2023 - )
 * Ja-Zhua Cheng (2022 - )
 
 ### Research Assistants
