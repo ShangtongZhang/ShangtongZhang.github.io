@@ -25,7 +25,7 @@ Please attach your CV and transcripts in your email. Due to the large volume of 
 
 ### PhD Students
 * Ethan Blaser (2023 - )
-* Jiuqi Wang (2023 -)
+* Jiuqi Wang (2023 - )
 * Shuze Liu (2022 - )
 
 ### Master Students
