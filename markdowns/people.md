@@ -24,19 +24,23 @@ Please attach your CV and transcripts in your email. Due to the large volume of 
 <!-- [*I, however, will put the same effort in replying to you as the effort you put in customizing your email for me.*](/blog/inquiry)  -->
 
 ### PhD Students
+* Ethan Blaser (2023 - )
+* Jiuqi Wang (2023 - )
 * Shuze Liu (2022 - )
-* Jiuqi Wang (2023 -)
 
 ### Master Students
+* Licheng Luo (2023 - )
 * Kefan Song (2023 - )
 
 ### Undergraduates
 * Ryland Birchmeier (2023 - ) 
+* Cici Wang (2023 - )
+* Steve Zhou (2023 - )
 * Ja-Zhua Cheng (2022 - )
 
 ### Research Assistants
 * Xiaochi Qian (2022 - ) 
 
 ### Alumni
-* Jiuqi Wang (RA, 2022 - 2023, now PhD student at University of Virginia)
-* Zhengkun Xiao (Master 2022 - 2023, now PhD student at University of Florida)
+* Jiuqi Wang (RA, 2022 - 2023, next stop: PhD student at University of Virginia)
+* Zhengkun Xiao (Master 2022 - 2023, next stop: PhD student at University of Florida)
