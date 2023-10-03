@@ -1,0 +1,154 @@
+\documentclass[11pt]{article}
+
+% Any additional packages needed should be included after jmlr2e.
+% Note that jmlr2e.sty includes epsfig, amssymb, natbib and graphicx,
+% and defines many common macros, such as 'proof' and 'example'.
+%
+% It also sets the bibliographystyle to plainnat; for more information on
+% natbib citation styles, see the natbib documentation, a copy of which
+% is archived at http://www.jmlr.org/format/natbib.pdf
+
+% \usepackage[preprint]{jmlr2e}
+\usepackage[margin=1in]{geometry}
+\usepackage{amssymb}
+\usepackage{natbib}
+\usepackage{color}
+% \usepackage{float}
+% \usepackage{hyperref}
+\usepackage[hidelinks,colorlinks=true,citecolor=blue]{hyperref}
+\usepackage{amsfonts}       
+\usepackage{url}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{wrapfig}
+\usepackage{mathtools}
+\usepackage{tikz}
+\usepackage{subfig}
+\usepackage{algorithmic}
+\usepackage{subfig}
+\usepackage{footmisc}
+\usepackage{bibentry}
+\usepackage{mathtools}
+\DeclarePairedDelimiter{\ceil}{\lceil}{\rceil}
+\usepackage{physics}
+\usepackage{mathrsfs}
+\mathtoolsset{showonlyrefs}
+\usepackage{etoolbox}
+\usepackage{makecell}
+\usepackage[ruled]{algorithm2e}
+\DontPrintSemicolon
+\usepackage{enumerate}
+\usepackage{booktabs}
+\usepackage{listings}
+
+\newcommand{\sz}[1]{({\color{blue} {SZ: #1}})}
+\newcommand{\rl}[1]{({\color{green} {RL: #1}})}
+\newcommand{\rt}[1]{({\color{red} {RT: #1}})}
+\newcommand{\fS}{\mathcal{S}}
+\newcommand{\fA}{\mathcal{A}}
+\newcommand{\fY}{\mathcal{Y}}
+\newcommand{\fX}{\mathcal{X}}
+\newcommand{\fN}{\mathcal{N}}
+\newcommand{\mY}{\mathbb{Y}}
+\newcommand{\mP}{\mathbb{P}}
+\newcommand{\fB}{\mathcal{B}}
+\newcommand{\mI}{\mathbb{I}}
+\newcommand{\fZ}{\mathcal{Z}}
+\newcommand{\mZ}{\mathbb{Z}}
+\newcommand{\fW}{\mathcal{W}}
+\newcommand{\fF}{\mathcal{F}}
+\newcommand{\fO}{\mathcal{O}}
+\newcommand{\fH}{\mathcal{H}}
+\newcommand{\mH}{\mathbb{H}}
+\newcommand{\fU}{\mathcal{U}}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\Q}{\mathbb{Q}}
+\newcommand{\E}{\mathbb{E}}
+\newcommand{\nsa}{{|\fS \times \fA|}}
+\newcommand{\ns}{{|\fS|}}
+\newcommand{\na}{{|\fA|}}
+\newcommand{\ny}{{|\fY|}}
+\newcommand{\tb}[1]{{\textbf{#1}}}
+\DeclarePairedDelimiter\floor{\lfloor}{\rfloor}
+
+\begin{document}
+
+\title{CS 4501: Optimization - Assignment 3}
+\author{Your name and email}
+\date{}
+\maketitle
+
+Use Projected Gradient Descent (PGD) to minimize $f(x)$ starting from a given $x_0$ for $n$ iterations.
+\begin{align}
+  x_{n+1} = P_C\left(x_n - \alpha_n \nabla f(x_n)\right).
+\end{align}
+
+\section*{Task 1}
+\paragraph*{Projection to a centered ball $(x \in \R^N, r > 0)$}
+\begin{align}
+  C = \qty{ x | \norm{x}_2 \leq r}
+\end{align}
+\begin{proof}
+  If $\norm{x}_2 \leq r$, then objectively we have
+  \begin{align}
+    P_C(x) = x.
+  \end{align}
+  Now suppose $\norm{x}_2 > r$.
+  Then we have $P_C(x) = y$, where $y$ is the solution for the following optimization problem.
+  \begin{align}
+    \min_y \quad & \norm{x - y}_2^2 \\
+    \qq{subject to}& \norm{y}_2^2 \leq r^2
+  \end{align}
+  The Lagrangian of this optimization problem is
+  \begin{align}
+    L(y, \lambda) \doteq& \norm{x - y}^2_2 + \lambda(\norm{y}^2_2 - r^2)
+  \end{align}
+  where $x \in \R^N, y \in \R^N, \lambda \in \R$.
+  Then we need to find $(y_*, \lambda_*)$ such that
+  \begin{align}
+    \nabla_y L(y_*, \lambda_*) =& 0, \\
+    \nabla_\lambda L(y_*, \lambda_*) =& 0.
+  \end{align}
+  Then this $y_*$ is the solution to the optimization problem,
+  i.e.,
+  \begin{align}
+    P_C(x) = \begin{cases}
+      x, &\norm{x}_2 \leq r, \\
+      y_*, &\norm{x}_2 > r
+    \end{cases}.
+  \end{align}
+  \sz{Please compute $y_*$ here}
+\end{proof}
+
+\section*{Task 2}
+\paragraph*{Projection to a noncentered ball $(x \in \R^N, c \in \R^N, r > 0)$}
+\begin{align}
+  C = \qty{ x | \norm{x - c}_2 \leq r}.
+\end{align}
+We have
+\begin{align}
+  P_C(x) = \begin{cases}
+    x, & \qq{$\norm{x-c}_2 \leq r$} \\
+    c + \frac{r}{\norm{x - c}_2}(x - c), &\qq{otherwise}
+  \end{cases}.
+\end{align}
+\sz{No proof is required.}
+
+\section*{Task 3}
+\paragraph*{Projection to column space ($A \in \R^{N \times M}$ has full column rank but not necessarily square)}
+\begin{align}
+  C = \qty{ x | \exists y \in \R^M \qq{such that} Ay = x}.
+\end{align}
+\begin{proof}
+\sz{Please compute the analytical expression of $P_C(x)$ here}
+\end{proof}
+
+\section*{Notes}
+\begin{enumerate}
+  \item Third-party packages, excluding numpy, are not allowed.
+  \item The proof of Task 1 is 4 points. The proof of Task 3 is 2 points. The points for implementation are documented in the python script.
+\end{enumerate}
+
+
+\end{document}
