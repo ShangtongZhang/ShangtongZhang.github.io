@@ -1,0 +1,144 @@
+\documentclass[11pt]{article}
+
+% Any additional packages needed should be included after jmlr2e.
+% Note that jmlr2e.sty includes epsfig, amssymb, natbib and graphicx,
+% and defines many common macros, such as 'proof' and 'example'.
+%
+% It also sets the bibliographystyle to plainnat; for more information on
+% natbib citation styles, see the natbib documentation, a copy of which
+% is archived at http://www.jmlr.org/format/natbib.pdf
+
+% \usepackage[preprint]{jmlr2e}
+\usepackage[margin=1in]{geometry}
+\usepackage{amssymb}
+\usepackage{natbib}
+\usepackage{color}
+% \usepackage{float}
+% \usepackage{hyperref}
+\usepackage[hidelinks,colorlinks=true,citecolor=blue]{hyperref}
+\usepackage{amsfonts}       
+\usepackage{url}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{wrapfig}
+\usepackage{mathtools}
+\usepackage{tikz}
+\usepackage{subfig}
+\usepackage{algorithmic}
+\usepackage{subfig}
+\usepackage{footmisc}
+\usepackage{bibentry}
+\usepackage{mathtools}
+\DeclarePairedDelimiter{\ceil}{\lceil}{\rceil}
+\usepackage{physics}
+\usepackage{mathrsfs}
+\mathtoolsset{showonlyrefs}
+\usepackage{etoolbox}
+\usepackage{makecell}
+\usepackage[ruled]{algorithm2e}
+\DontPrintSemicolon
+\usepackage{enumerate}
+\usepackage{booktabs}
+\usepackage{listings}
+
+\newcommand{\sz}[1]{({\color{blue} {SZ: #1}})}
+\newcommand{\rl}[1]{({\color{green} {RL: #1}})}
+\newcommand{\rt}[1]{({\color{red} {RT: #1}})}
+\newcommand{\fS}{\mathcal{S}}
+\newcommand{\fA}{\mathcal{A}}
+\newcommand{\fY}{\mathcal{Y}}
+\newcommand{\fX}{\mathcal{X}}
+\newcommand{\fN}{\mathcal{N}}
+\newcommand{\mY}{\mathbb{Y}}
+\newcommand{\mP}{\mathbb{P}}
+\newcommand{\fB}{\mathcal{B}}
+\newcommand{\mI}{\mathbb{I}}
+\newcommand{\fZ}{\mathcal{Z}}
+\newcommand{\mZ}{\mathbb{Z}}
+\newcommand{\fW}{\mathcal{W}}
+\newcommand{\fF}{\mathcal{F}}
+\newcommand{\fO}{\mathcal{O}}
+\newcommand{\fH}{\mathcal{H}}
+\newcommand{\mH}{\mathbb{H}}
+\newcommand{\fU}{\mathcal{U}}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\Q}{\mathbb{Q}}
+\newcommand{\E}{\mathbb{E}}
+\newcommand{\nsa}{{|\fS \times \fA|}}
+\newcommand{\ns}{{|\fS|}}
+\newcommand{\na}{{|\fA|}}
+\newcommand{\ny}{{|\fY|}}
+\newcommand{\tb}[1]{{\textbf{#1}}}
+\DeclarePairedDelimiter\floor{\lfloor}{\rfloor}
+
+\begin{document}
+
+\title{CS 4501: Optimization - Assignment 4}
+\author{Your name and email}
+\date{}
+\maketitle
+
+\section*{Task 1 (5 pts): Conjugate Function 1}
+Define 
+\begin{align}
+  \Delta_n \doteq \qty{ x \in \R^n \mid \sum_{i=1}^n x_i = 1, x_i > 0}.
+\end{align}
+% Define $f: \R^n \to (-\infty, +\infty]$ as
+Define $f: \Delta_n \to \R$ as
+\begin{align}
+  f(x) \doteq \sum_{i=1}^n x_i \ln x_i.
+\end{align}
+Then please compute the conjugate $f^*(y)$ of $f(x)$.
+\begin{proof}
+  \begin{align}
+    f^*(y) =& \max_{x \in \Delta_n}\qty{y^\top x - f(x)}.
+  \end{align}
+  Consider the Lagrangian
+  \begin{align}
+    L(x, \lambda) = y^\top x - \sum_{i=1}^n x_i \ln x_i - \lambda (\sum x_i - 1).
+  \end{align}
+  Let $(x_*, \lambda_*)$ satisfy
+  \begin{align}
+    \nabla_\lambda L(x_*, \lambda_*) =& 0, \\
+    \nabla_x L(x_*, \lambda_*) =& 0.
+  \end{align}
+  Then $x_*$ is the maximizer of the constrained optimization problem.
+  \sz{Please complete the rest.}
+\end{proof}
+
+
+\section*{Task 2 (5 pts): Conjugate Function 2}
+Define a function $f: \R^n \to \R$ as
+\begin{align}
+  f(x) = \ln\sum_{i=1}^n \exp(x_i).
+\end{align}
+Please compute the conjugate $f^*(y)$ of $f(x)$.
+
+\begin{proof}
+  \sz{Please compete the computation.}
+\end{proof}
+
+
+\section*{Task 3 (5 pts): Smoothness}
+Let $\norm{\cdot}$ be the $\ell_2$ norm.
+Let $C$ be a convex and closed set.
+Recall that
+\begin{align}
+  P_C(x) \doteq& \arg\min_{y\in C} \norm{y - x}, \\ 
+  d_C(x) \doteq& \min_{y \in C} \norm{y - x}, \\
+  \psi_C(x) \doteq& \frac{1}{2} d_C^2(x).
+\end{align}
+Please prove that $\psi_C(x)$ is 1-smooth in $\norm{\cdot}$.
+Hints:
+\begin{enumerate}
+  \item You can use the analytical expression of $\nabla \psi_C(x)$ directly. We computed this in a lecture. This is meant to reward those actually attending lectures.
+  \item You can use the fact that $P_C(x)$ is firmly nonexpansive directly. We never discussed this property in lecutre and this is meant to practice your skill of ``proof with Wikipedia'' (cf. ``coding with StackOverflow'').
+\end{enumerate}
+\begin{proof}
+  \sz{Please complete the proof.}
+\end{proof}
+
+
+
+\end{document}
