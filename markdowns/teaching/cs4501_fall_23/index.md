@@ -113,13 +113,13 @@ Nov 23: Thanksgiving recess, no lecture -->
 | 10/12 |  |
 | 10/17 |  Assignment 3 due. Assignment 4 released.                 |
 | 10/19 |   |
-| 10/24 | |
+| 10/24 | [Assignment 4](https://github.com/ShangtongZhang/ShangtongZhang.github.io/tree/master/assets/pdf/cs_4501_fall_23)|
 | 10/26 |  |
-| 10/31 |  Assignment 4 due. Assignment 5 released.                 |
+| 10/31 |  |
 | 11/02 |                   |
 | 11/07 | Election Day, no lecture  |
-| 11/09 |  |
-| 11/14 | Assignment 5 due. Assignments 6 & 7 released. |
+| 11/09 |  Assignment 4 due. Assignment 6 released.|
+| 11/14 | Assignments 7 released. |
 | 11/16 |  |
 | 11/21 |  |
 | 11/23 | Thanksgiving recess, no lecture  |
