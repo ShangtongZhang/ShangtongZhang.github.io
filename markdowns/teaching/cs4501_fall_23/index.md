@@ -123,7 +123,7 @@ Nov 23: Thanksgiving recess, no lecture -->
 | 11/16 |  |
 | 11/21 |  |
 | 11/23 | Thanksgiving recess, no lecture  |
-| 11/28 | Assignment 5 due. |
+| 11/28 | Assignment 5 due. Assignment 6 (conjugate gradient descent) is skipped due to time limit.|
 | 11/30 | |
 | 12/05 | Last lecture. |
 | 12/10 | Assignment 7 due.|
