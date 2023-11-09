@@ -1,0 +1,146 @@
+\documentclass[11pt]{article}
+
+% Any additional packages needed should be included after jmlr2e.
+% Note that jmlr2e.sty includes epsfig, amssymb, natbib and graphicx,
+% and defines many common macros, such as 'proof' and 'example'.
+%
+% It also sets the bibliographystyle to plainnat; for more information on
+% natbib citation styles, see the natbib documentation, a copy of which
+% is archived at http://www.jmlr.org/format/natbib.pdf
+
+% \usepackage[preprint]{jmlr2e}
+\usepackage[margin=1in]{geometry}
+\usepackage{amssymb}
+\usepackage{natbib}
+\usepackage{color}
+% \usepackage{float}
+% \usepackage{hyperref}
+\usepackage[hidelinks,colorlinks=true,citecolor=blue]{hyperref}
+\usepackage{amsfonts}       
+\usepackage{url}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{wrapfig}
+\usepackage{mathtools}
+\usepackage{tikz}
+\usepackage{subfig}
+\usepackage{algorithmic}
+\usepackage{subfig}
+\usepackage{footmisc}
+\usepackage{bibentry}
+\usepackage{mathtools}
+\DeclarePairedDelimiter{\ceil}{\lceil}{\rceil}
+\usepackage{physics}
+\usepackage{mathrsfs}
+\mathtoolsset{showonlyrefs}
+\usepackage{etoolbox}
+\usepackage{makecell}
+\usepackage[ruled]{algorithm2e}
+\DontPrintSemicolon
+\usepackage{enumerate}
+\usepackage{booktabs}
+\usepackage{listings}
+
+\newcommand{\sz}[1]{({\color{blue} {SZ: #1}})}
+\newcommand{\rl}[1]{({\color{green} {RL: #1}})}
+\newcommand{\rt}[1]{({\color{red} {RT: #1}})}
+\newcommand{\fS}{\mathcal{S}}
+\newcommand{\fA}{\mathcal{A}}
+\newcommand{\fY}{\mathcal{Y}}
+\newcommand{\fX}{\mathcal{X}}
+\newcommand{\fN}{\mathcal{N}}
+\newcommand{\mY}{\mathbb{Y}}
+\newcommand{\mP}{\mathbb{P}}
+\newcommand{\fB}{\mathcal{B}}
+\newcommand{\mI}{\mathbb{I}}
+\newcommand{\fZ}{\mathcal{Z}}
+\newcommand{\mZ}{\mathbb{Z}}
+\newcommand{\fW}{\mathcal{W}}
+\newcommand{\fF}{\mathcal{F}}
+\newcommand{\fO}{\mathcal{O}}
+\newcommand{\fH}{\mathcal{H}}
+\newcommand{\mH}{\mathbb{H}}
+\newcommand{\fU}{\mathcal{U}}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\Q}{\mathbb{Q}}
+\newcommand{\E}{\mathbb{E}}
+\newcommand{\nsa}{{|\fS \times \fA|}}
+\newcommand{\ns}{{|\fS|}}
+\newcommand{\na}{{|\fA|}}
+\newcommand{\ny}{{|\fY|}}
+\newcommand{\tb}[1]{{\textbf{#1}}}
+\DeclarePairedDelimiter\floor{\lfloor}{\rfloor}
+
+\begin{document}
+
+\title{CS 4501: Optimization - Assignment 5}
+\author{Your name and email}
+\date{}
+\maketitle
+
+\part{}
+
+The goal of this part is to implement mirror descent with $w: \R^n_+ \to \R$ defined as
+\begin{align}
+  w(x) = \sum_{i=1}^n x_i \ln x_i,
+\end{align}
+where $\R_+ \doteq (0, \infty)$
+
+\section*{Task 1 (1pt): Compute $\nabla w(x)$}
+  \sz{Complete the computation}
+\begin{align}
+  \pdv{w(x)}{x_i} = 
+\end{align}
+
+\section*{Task 2 (2pts): Compute $w^*(y)$}
+\begin{align}
+  w^*(y) \doteq \max_{x \in \R^n_+} y^\top x - w(x).
+\end{align}
+  \sz{Complete the computation}
+
+\section*{Task 3 (1pt): Compute $\nabla w^*(y)$}
+  \sz{Complete the computation}
+\begin{align}
+  \pdv{w^*(y)}{y_i} = 
+\end{align}
+
+\section*{Task 4 (2pt): Implement Mirror Descent w.r.t. $w$}
+Define 
+\begin{align}
+  f(x) = \norm{x}^2_2.
+\end{align}
+Then implement
+\begin{align}
+  x_{k+1} = \nabla w^*\left(\nabla w(x_k) + \alpha \nabla f(x_k)\right).
+\end{align}
+
+\part{}
+
+The goal of this part is to implement mirror descent with $w: \Delta_n \to \R$ defined as
+\begin{align}
+  w(x) = \sum_{i=1}^n x_i \ln x_i,
+\end{align}
+where 
+\begin{align}
+  \Delta_n \doteq \qty{ x \in \R^n \mid \sum_{i=1}^n x_i = 1, x_i > 0}.
+\end{align}
+
+\section*{Task 5 (2pt): Compute $\nabla w(x)$ and $\nabla w^*(y)$}
+\sz{You can use results from Assignment 4 directly.}
+\begin{proof}
+  \sz{Complete the computation}
+\end{proof}
+
+
+\section*{Task 6 (2pt): Implement Mirror Descent w.r.t. $w$}
+Define 
+\begin{align}
+  f(x) = \norm{x}^2_2.
+\end{align}
+Then implement
+\begin{align}
+  x_{k+1} = \nabla w^*\left(\nabla w(x_k) + \alpha \nabla f(x_k)\right).
+\end{align}
+
+\end{document}
