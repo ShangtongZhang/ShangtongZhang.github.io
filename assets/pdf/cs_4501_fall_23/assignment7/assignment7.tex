@@ -1,0 +1,122 @@
+\documentclass[11pt]{article}
+
+% Any additional packages needed should be included after jmlr2e.
+% Note that jmlr2e.sty includes epsfig, amssymb, natbib and graphicx,
+% and defines many common macros, such as 'proof' and 'example'.
+%
+% It also sets the bibliographystyle to plainnat; for more information on
+% natbib citation styles, see the natbib documentation, a copy of which
+% is archived at http://www.jmlr.org/format/natbib.pdf
+
+% \usepackage[preprint]{jmlr2e}
+\usepackage[margin=1in]{geometry}
+\usepackage{amssymb}
+\usepackage{natbib}
+\usepackage{color}
+% \usepackage{float}
+% \usepackage{hyperref}
+\usepackage[hidelinks,colorlinks=true,citecolor=blue]{hyperref}
+\usepackage{amsfonts}       
+\usepackage{url}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{wrapfig}
+\usepackage{mathtools}
+\usepackage{tikz}
+\usepackage{subfig}
+\usepackage{algorithmic}
+\usepackage{subfig}
+\usepackage{footmisc}
+\usepackage{bibentry}
+\usepackage{mathtools}
+\DeclarePairedDelimiter{\ceil}{\lceil}{\rceil}
+\usepackage{physics}
+\usepackage{mathrsfs}
+\mathtoolsset{showonlyrefs}
+\usepackage{etoolbox}
+\usepackage{makecell}
+\usepackage[ruled]{algorithm2e}
+\DontPrintSemicolon
+\usepackage{enumerate}
+\usepackage{booktabs}
+\usepackage{listings}
+
+\newcommand{\sz}[1]{({\color{blue} {SZ: #1}})}
+\newcommand{\rl}[1]{({\color{green} {RL: #1}})}
+\newcommand{\rt}[1]{({\color{red} {RT: #1}})}
+\newcommand{\fS}{\mathcal{S}}
+\newcommand{\fA}{\mathcal{A}}
+\newcommand{\fY}{\mathcal{Y}}
+\newcommand{\fX}{\mathcal{X}}
+\newcommand{\fN}{\mathcal{N}}
+\newcommand{\mY}{\mathbb{Y}}
+\newcommand{\mP}{\mathbb{P}}
+\newcommand{\fB}{\mathcal{B}}
+\newcommand{\mI}{\mathbb{I}}
+\newcommand{\fZ}{\mathcal{Z}}
+\newcommand{\mZ}{\mathbb{Z}}
+\newcommand{\fW}{\mathcal{W}}
+\newcommand{\fF}{\mathcal{F}}
+\newcommand{\fO}{\mathcal{O}}
+\newcommand{\fH}{\mathcal{H}}
+\newcommand{\mH}{\mathbb{H}}
+\newcommand{\fU}{\mathcal{U}}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\Q}{\mathbb{Q}}
+\newcommand{\E}{\mathbb{E}}
+\newcommand{\nsa}{{|\fS \times \fA|}}
+\newcommand{\ns}{{|\fS|}}
+\newcommand{\na}{{|\fA|}}
+\newcommand{\ny}{{|\fY|}}
+\newcommand{\tb}[1]{{\textbf{#1}}}
+\DeclarePairedDelimiter\floor{\lfloor}{\rfloor}
+
+\begin{document}
+
+\title{CS 4501: Optimization - Assignment 7}
+\author{Your name and email}
+\date{}
+\maketitle
+
+Consider an $n$-layer feedforward neural network (FNN) parameterized by 
+\begin{align}
+  W =& (W_0, W_1, \dots, W_{n-1}), \\
+  b =& (b_0, b_1, \dots, b_{n-1}),
+\end{align}
+where,
+\begin{align}
+  W_i \in& \R^{d_i \times d_{i+1}}, \\
+  b_i \in& \R^{d_{i+1}}, \quad i=0, 1, \dots, n-1.
+\end{align}
+Here the sequence $d \doteq \qty(d_0, d_1, \dots, d_n)$ specifies the number of units in each layer, 
+with $d_0$ being the size of the input $x$ and $d_n$ being the size of the output.
+Let $\sigma : \R \to \R$ be the activation function.
+Notably, we use the convention that if $x$ is matrix / vector,
+$\sigma(x)$ denotes a matrix / vector obtained by elementwise application of $\sigma$ in $x$.
+
+Given an input $x \in \R^{d_0}$, 
+the output $f(x; W, b) \in \R^{d_n}$ is given by
+\begin{align}
+  x_0 \doteq& x \\
+  z_{k+1} \doteq& W_k^\top x_k + b_k, \\
+  x_{k+1} \doteq& \sigma(z_{k+1}), \quad k=0, 1, \dots n-1, \\
+  f(x; W, b) \doteq& x_n.
+\end{align}
+Suppose the target output is $y \in \R^{d_n}$,
+the loss function is then defined as
+\begin{align}
+  L(x, y) =& \frac{1}{2}\norm{f(x; W, b) - y}^{2}_2.
+\end{align}
+\section*{Task 1 (5pt): Compute the gradients analytically}
+\begin{proof}
+  \sz{You can use recursive expression in expressing the gradients.}
+  \begin{align}
+    \dv{L(x, y)}{W_k} =& \\
+    \dv{L(x, y)}{b_k} =&
+  \end{align}
+\end{proof}
+\section*{Task 2 (25pt): Compute the gradients in python}
+\sz{You cannot use any auto-diff software in your submission. You can of course use auto-diff software to verify your computation. Just remember to delete them in your submission.}
+
+\end{document}
