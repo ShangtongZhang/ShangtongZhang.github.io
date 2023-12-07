@@ -33,10 +33,10 @@ Please attach your CV and transcripts in your email. Due to the large volume of 
 * Kefan Song (2023 - )
 
 ### Undergraduates
-* Ryland Birchmeier (2023 - ) 
+* Ja-Zhua Cheng (2022 - )
+* Pawan Jayakumar (2023 - )
 * Cici Wang (2023 - )
 * Steve Zhou (2023 - )
-* Ja-Zhua Cheng (2022 - )
 
 ### Research Assistants
 * Xiaochi Qian (2022 - ) 

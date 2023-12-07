@@ -15,9 +15,9 @@ we will cover theoretical foundations of ML, as well as several representative a
 - Instructor: [Shangtong Zhang](/)
 - Location: Mechanical Engineering Building 341    
 - Time: Tuesday & Thursday, 14:00 - 15:15  
-- TA: [TBA]() 
+- TA: [Ethan Blaser](ehb2bf@virginia.edu) 
 - Office Hour: 
-  - Shangtong: Tuesday & Thursday 15:15 - 16:15 (Rice Hall 422)
+  - Shangtong: Tuesday & Thursday 13:00 - 13:50 (Rice Hall 422)
 - UVACanvas: [24S CS6316 Machine Learning](https://canvas.its.virginia.edu/courses/104488)
 - Prerequisite:
   - Probability, Linear Algebra, Calculus, Python
