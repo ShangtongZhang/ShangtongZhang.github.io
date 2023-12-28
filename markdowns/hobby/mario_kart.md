@@ -4,5 +4,5 @@ title: Mario Kart
 permalink: /hobby/mario-kart
 ---
 
-Mario Kart 8 Deluxe  
+<!-- <img height="50" src="/assets/img/mario_time.png">   -->
 <img src="/assets/img/mario_kart.jpg">
