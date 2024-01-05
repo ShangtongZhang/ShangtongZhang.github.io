@@ -48,6 +48,7 @@ His work won the best paper award at AAMAS and his thesis is the runner-up for t
 He spent some time at Microsoft Research and DeepMind during his DPhil.
 
 ## News
+- 2024/01: I will serve as Area Chair for RL Conference 2024.  
 - 2023/12: I am recognized as a Rising Star in AI by [KAUST AI Initiative](https://cemse.kaust.edu.sa/ai).  
 - 2023/11: I serve as Area Chair for ICLR 2024.  
 - 2023/11: I serve as Area Chair for AISTATS 2024.  
