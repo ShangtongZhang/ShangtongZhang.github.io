@@ -63,9 +63,7 @@ The final letter grade is based on curved scores.
 |01/25||
 |01/30||
 |02/01||
-|02/04||
 |02/06||
-|02/08||
 |02/08||
 |02/11| HW 1 Due. Project proposal Due. |
 |02/15||
