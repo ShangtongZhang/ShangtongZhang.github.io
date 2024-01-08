@@ -44,7 +44,7 @@ That being said, **if you are not comfortable with whiteboards, it might not be 
 
 ## Grading
 - Homework (60%): There will be 6 homeworks (10% x 6), which are (possibly variants of) exercises from UML. Here are detailed requirements for the writeup.
-**Discussion with classmates are prohibited. Please, however, feel free to use Google.** This is to mimic the scenarios where you are leading a project in your senior years of your PhD. You are probably the only expert. Even your advisor does not know much about your project. Besides Google, you do not really have that many resources for help. **The writeup must be your own.**   
+<!-- **Discussion with classmates are prohibited. Please, however, feel free to use Google.** This is to mimic the scenarios where you are leading a project in your senior years of your PhD. You are probably the only expert. Even your advisor does not know much about your project. Besides Google, you do not really have that many resources for help. **The writeup must be your own.**    -->
 - Final Project: There will be one single course project. Here are detailed requirements for the project. The scores break down into 3 parts
   - Project proposal (10%)
   - Project presentation (10%)
