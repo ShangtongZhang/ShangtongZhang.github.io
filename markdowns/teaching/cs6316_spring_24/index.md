@@ -8,8 +8,6 @@ Machine Learning (ML) is, with no doubt, one of the most important aspects of ar
 In this course,
 we will cover theoretical foundations of ML, as well as several representative algorithms. 
 
-<!-- **WARNING**: This course is very mathy. -->
-
 ## Logistics:
 
 - Instructor: [Shangtong Zhang](/)
@@ -33,22 +31,20 @@ It is your responsibility to figure out which form to submit and where to submit
 
 ## Teaching:
 - Textbook: We will use [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/) (UML) as the textbook.
-<!-- We will also use [Algebra, Topology, Differential Calculus, and  Optimization Theory for Computer Science and Machine Learning](https://www.cis.upenn.edu/~jean/gbooks/geomath.html) (ATDO) for reference. -->
 You can download a free version of UML from the previous link.
 - Lectures: **All lectures are whiteboards. To encourage attendance, there will be no slides nor notes. But I am sure you can find everything in UML.**
 This is because I believe whiteboards are the most effective way for proof-based lectures, based on both my undergraduate study and past teaching experience.
 As a courtesy,
 I will try my best to record each lecture (though not guaranteed) and post the recordings in Canvas.
 That being said, **if you are not comfortable with whiteboards, it might not be wise to take this course**.
-- Course Plan: We will follow the recommended course plan "*A 14 Week Introduction Course for Graduate Students*" outlined in Section 1.5.1 of UML. The only difference is that we will **not** skip any proofs.
+- Course Plan: We will follow the recommended course plan "*A 14 Week Introduction Course for Graduate Students*" outlined in Section 1.5.1 of UML. The only difference is that we will **not** skip any proof.
 
 ## Grading
-- Homework (60%): There will be 6 homeworks (10% x 6), which are (possibly variants of) exercises from UML. Here are detailed requirements for the writeup.
-<!-- **Discussion with classmates are prohibited. Please, however, feel free to use Google.** This is to mimic the scenarios where you are leading a project in your senior years of your PhD. You are probably the only expert. Even your advisor does not know much about your project. Besides Google, you do not really have that many resources for help. **The writeup must be your own.**    -->
-- Final Project: There will be one single course project. Here are detailed requirements for the project. The scores break down into 3 parts
+- Homework (72%): There will be 6 homeworks (12% x 6), which are (possibly variants of) exercises from UML. [Here](/assets/pdf/cs_6316_spring_24/homework_requirements.pdf) are detailed requirements for the writeup.
+- Final Project: There will be one single course project. You can solo it or team up (up to four team members). [Here](/assets/pdf/cs_6316_spring_24/project_requirements.pdf) are detailed requirements for the project. The scores break down into 3 parts
   - Project proposal (10%)
-  - Project presentation (10%)
-  - Project writeup (20%)
+  - Project presentation (8%)
+  - Project writeup (10%)
 
 ## Roadmap:
  
