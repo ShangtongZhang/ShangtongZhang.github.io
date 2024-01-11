@@ -29,7 +29,7 @@ layout: home
     </tbody>
 </table>
 
-[[Google Scholar]](https://scholar.google.co.uk/citations?user=Pn7fj4IAAAAJ&hl=en) [[Twitter]](https://twitter.com/ShangtongZhang) [[Curriculum Vitae]](/assets/pdf/resume/resume.pdf) [[Github]](https://github.com/ShangtongZhang) [[SDM Lab]](https://github.com/SDM-LAB) [[PhD Thesis]](https://ora.ox.ac.uk/objects/uuid:2c410803-2141-41ed-b362-7f14723b2f17) [[Calendar]](https://outlook.office365.com/owa/calendar/28109e83b17a40a68df4687e82614ae6@virginia.edu/1cc980bd40644e17b99c52396532934416235907553762187423/calendar.html)  
+[[Google Scholar]](https://scholar.google.co.uk/citations?user=Pn7fj4IAAAAJ&hl=en) [[Twitter]](https://twitter.com/ShangtongZhang) [[Curriculum Vitae]](/assets/pdf/resume/resume.pdf) [[Github]](https://github.com/ShangtongZhang) [[SDM Lab]](https://github.com/SDM-LAB) [[PhD Thesis]](https://ora.ox.ac.uk/objects/uuid:2c410803-2141-41ed-b362-7f14723b2f17) [[Calendar]](https://outlook.office365.com/owa/calendar/28109e83b17a40a68df4687e82614ae6@virginia.edu/1cc980bd40644e17b99c52396532934416235907553762187423/calendar.html) [[Zoom]](https://virginia.zoom.us/my/shangtong)    
 <span style="color:red"> <a href="/people" style="color:red"> <u> I am looking for self-motivated students interested in RL at different levels! </u> </a> </span>
 ## Biography
 
