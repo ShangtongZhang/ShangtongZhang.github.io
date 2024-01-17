@@ -16,7 +16,7 @@ we will cover the theoretical foundations of ML, as well as several representati
 - Office Hours: 
   - Shangtong: Thursday 13:00 - 14:00 (Rice Hall 422)
   - [Ethan Blaser](ehb2bf@virginia.edu) (Head TA): Friday 10:00 - 11:00 (Rice Hall 442)
-  - [Ouyang Xu](ftp8nr@virginia.edu) (TA): Wednesday 15:00 - 16:00 (Rice Hall 442)
+  - [Xu Ouyang](ftp8nr@virginia.edu) (TA): Wednesday 15:00 - 16:00 (Rice Hall 442)
 - UVACanvas: [24S CS6316 Machine Learning](https://canvas.its.virginia.edu/courses/104488)
 - Prerequisite:
   - Probability, Linear Algebra, Calculus, Python
