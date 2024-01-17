@@ -4,14 +4,18 @@ title: Publications
 permalink: /publication/
 ---
 
-<sup>*</sup> indicates equal contribution. <sup>†</sup> indicates equal advising.
+<sup>*</sup> indicates equal contribution. <sup>†</sup> indicates equal advising. <u>Advisees</u> are underlined.
+
+- [The ODE Method for Stochastic Approximation and Reinforcement Learning with Markovian Noise](https://arxiv.org/abs/2401.07844).  
+<u>Shuze Liu</u>, Shuhang Chen, **Shangtong Zhang**.   
+arXiv:2401.07844, 2024  
 
 - [Direct Gradient Temporal Difference Learning](https://arxiv.org/abs/2308.01170).  
-Xiaochi Qian, **Shangtong Zhang**.   
+<u>Xiaochi Qian</u>, **Shangtong Zhang**.   
 arXiv:2308.01170, 2023  
 
 - [Improving Monte Carlo Evaluation with Offline Data](https://arxiv.org/abs/2301.13734).  
-Shuze Liu, **Shangtong Zhang**.   
+<u>Shuze Liu</u>, **Shangtong Zhang**.   
 arXiv:2301.13734, 2023.  
 
 - [A New Challenge in Policy Evaluation](https://ojs.aaai.org/index.php/AAAI/article/view/26832).  
