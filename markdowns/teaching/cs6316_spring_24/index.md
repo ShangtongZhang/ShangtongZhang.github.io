@@ -54,7 +54,7 @@ The final letter grade is based on curved scores.
 
 | Date  |  Comments |
 |-------| ----------|
-|01/18| First lecture.|
+|01/18| First lecture. Reading: Chapter 1 of UML.|
 |01/31| Last day to enroll.|
 |02/11| HW 1 Due. Project proposal Due. |
 |02/20| No lecture (tentative). |
