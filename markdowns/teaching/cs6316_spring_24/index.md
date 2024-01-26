@@ -55,16 +55,17 @@ The final letter grade is based on curved scores.
 | Date  |  Comments |
 |-------| ----------|
 |01/18| First lecture. Reading: Chapter 1 of UML.|
+|01/26| [HW1 released]().|
 |01/31| Last day to enroll.|
-|02/11| HW 1 Due. Project proposal Due. |
+|02/11| HW 1 due. Project proposal due. |
 |02/20| No lecture (tentative). |
-|02/25| HW 2 Due.|
+|02/25| HW 2 due.|
 |03/05| No lecture. Spring recess.|
 |03/07| No lecture. Spring recess.|
-|03/10| HW 3 Due.|
-|03/24| HW 4 Due.|
-|04/07| HW 5 Due.|
-|04/21| HW 6 Due.|
+|03/10| HW 3 due.|
+|03/24| HW 4 due.|
+|04/07| HW 5 due.|
+|04/21| HW 6 due.|
 |04/30| Last lecture.|
 |05/05| Project presentation and writeup due.
 
