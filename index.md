@@ -49,7 +49,7 @@ He spent some time at Microsoft Research and DeepMind during his DPhil.
 
 ## News
 - 2024/01: I will serve as Area Chair for RL Conference 2024.  
-- 2023/12: I am recognized as a Rising Star in AI by [KAUST AI Initiative](https://cemse.kaust.edu.sa/ai).  
+- 2023/12: I am recognized as a Rising Star in AI by [KAUST AI Initiative](https://cemse.kaust.edu.sa/ai/aii-symp-2024).  
 - 2023/11: I serve as Area Chair for ICLR 2024.  
 - 2023/11: I serve as Area Chair for AISTATS 2024.  
 - 2023/09: NSF funded our project [CRASH](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2331904).  
