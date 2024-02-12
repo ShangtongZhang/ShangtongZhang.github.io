@@ -58,7 +58,7 @@ The final letter grade is based on curved scores.
 |01/26| [HW1 released](https://github.com/ShangtongZhang/ShangtongZhang.github.io/tree/master/assets/pdf/cs_6316_spring_24).|
 |01/31| Last day to enroll.|
 |02/11| HW 1 due. Project proposal due. |
-|02/20| No lecture (tentative). |
+|02/20| HW 1 debrief + guest lecture on RL. |
 |02/25| HW 2 due.|
 |03/05| No lecture. Spring recess.|
 |03/07| No lecture. Spring recess.|
