@@ -18,7 +18,7 @@ UVA CS has both thesis- and course-based masters. If you are admitted and want t
 Due to limited bandwidth, I can only work with undergraduates who have taken an RL course (at either UVA or Coursera).
 If you want to email me, please describe the most interesting part (in your opinion) of the RL course you took.
 An exception is the distinguished major program, please feel free to email me with your proposal for DMP.
-* **research interns**
+* **research interns**   
 Due to limited bandwidth, I can only work with interns who already have papers that are highly related to my research.
 If you want to email me, please describe how your papers align with my papers.
 
