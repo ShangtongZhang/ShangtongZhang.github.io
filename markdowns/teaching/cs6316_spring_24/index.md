@@ -65,7 +65,7 @@ The final letter grade is based on curved scores.
 |03/05| No lecture. Spring recess.|
 |03/07| No lecture. Spring recess. [HW4 released](https://github.com/ShangtongZhang/ShangtongZhang.github.io/tree/master/assets/pdf/cs_6316_spring_24).|
 |03/19| HW 3 due.|
-|03/21| [HW5 released](https://github.com/ShangtongZhang/ShangtongZhang.github.io/tree/master/assets/pdf/cs_6316_spring_24)..|
+|03/21| [HW5 released](https://github.com/ShangtongZhang/ShangtongZhang.github.io/tree/master/assets/pdf/cs_6316_spring_24).|
 |03/24| HW 4 due.|
 |04/07| HW 5 due.|
 |04/21| HW 6 due.|
