@@ -1,17 +1,18 @@
 ---
 layout: page
-title: Machine Learning
+title: Reinforcement Learning
 permalink: /teaching/cs4501_fall_24/index
 ---
 
-Reinforcement Learning (RL) is, with no doubt, one of the most important aspects of artificial intelligence and has enjoyed great success in various domains. 
-This course is designed to cover basic but important ideas of RL. 
+Reinforcement learning (RL) is a powerful framework for solving sequential decision making problems
+and has enjoyed tremendous success, e.g., [playing the game of Go](https://www.nature.com/articles/nature16961) and [training ChatGPT](https://chat.openai.com/auth/login).
+This course is designed to cover basic but important ideas of RL, as well as milestone papers in deep RL, i.e., RL with deep neural networks.
 
 ## Logistics:
 
 - Instructor: [Shangtong Zhang](/)
 - Location: TBA
-- Time: Tuesday & Thursday, 14:00 - 15:15  
+- Time: Tuesday & Thursday, 11:00 - 12:15  
 - Office Hours: 
   - TBA 
 - UVACanvas: TBA 
@@ -28,8 +29,7 @@ It is your responsibility to figure out which form to submit and where to submit
 ## Teaching:
 - Textbook: We will use [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html) (RLAI) as the textbook.
 You can download a free version of RLAI from the previous link.
-<!-- - Lectures: **All lectures are whiteboards. To encourage attendance, there will be no slides or notes. But I am sure you can find everything in UML.** -->
-<!-- This is because I believe whiteboards are the most effective way for proof-based lectures, based on both my undergraduate study and past teaching experience. -->
+<!-- - Lectures: **All lectures are whiteboards. To encourage attendance, there will be no slides or notes. But I am sure you can find everything in RLAI.** -->
 <!-- As a courtesy, -->
 <!-- I will try my best to record each lecture (though not guaranteed) and post the recordings in Canvas. -->
 <!-- That being said, it might be good to factor this whiteboard format into consideration when enrolling in this course. -->
