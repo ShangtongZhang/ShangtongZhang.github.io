@@ -25,7 +25,7 @@ All the information I have about this course is available on this website,
 so please exercise your judgment.
 Different schools and colleges have different required forms.
 It is your responsibility to figure out which form to submit and where to submit it - this is another hidden prerequisite for this course.
-I will not manually enroll anyone until near the end of the enrollment deadline.
+I will not be able to manually enroll anyone until near the end of the enrollment deadline.
 
 ## Teaching:
 - Textbook: We will use [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html) (RLAI) as the textbook.
