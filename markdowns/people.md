@@ -6,17 +6,13 @@ permalink: /people/
 
 ### Recruiting
 
-<!-- I am looking for self-motivated students interested in RL at different levels. -->
-
-<!-- * **PhD students that are admitted to UVA and want to find places for rotation (fully funded)** -->
-<!-- You do not need to have RL background but please take my graduate-level RL course. Feel free to drop me a line. -->
 * **PhD applicants for Fall 2024 (fully funded)**  
-RL / optimization background is preferred but not necessary. You are welcome to email me but please be **specific** about why you think we are in good match. 
+RL background is not necessary. You are welcome to email me but please be **specific** about why you think we are in good match.
 * **master students**  
-UVA CS has both thesis- and course-based masters. If you are admitted and want to do your thesis / project with me, feel free to drop me a line. 
-Please indicate which year you are in and email me only in Aug or Sept.
+UVA CS has both thesis- and course-based master programs. If you are admitted and want to do your thesis / project with me, feel free to drop me a line. 
+Please email me only at the beginning of your first term at UVA.
 * **UVA undergraduates**  
-Due to limited bandwidth, I can only work with undergraduates who have taken an RL course (at either UVA or Coursera).
+Due to limited bandwidth, I can only work with undergraduates who have taken an RL course (at either UVA or Coursera; reading slides or watching YouTube videos does not count unless accompanied with some of your notes).
 If you want to email me, please describe the most interesting part (in your opinion) of the RL course you took.
 An exception is the distinguished major program, please feel free to email me with your proposal for DMP.
 * **research interns**   
