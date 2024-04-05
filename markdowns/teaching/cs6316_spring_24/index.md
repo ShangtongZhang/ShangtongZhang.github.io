@@ -67,8 +67,9 @@ The final letter grade is based on curved scores.
 |03/19| HW 3 due.|
 |03/21| [HW5 released](https://github.com/ShangtongZhang/ShangtongZhang.github.io/tree/master/assets/pdf/cs_6316_spring_24).|
 |03/24| HW 4 due.|
+|04/05| [Bonus HW released](https://github.com/ShangtongZhang/ShangtongZhang.github.io/tree/master/assets/pdf/cs_6316_spring_24). |
 |04/07| HW 5 due.|
-|04/21| HW 6 due.|
+|04/21| Bonus HW due.|
 |04/30| Last lecture.|
 |05/05| Project presentation and writeup due.
 
