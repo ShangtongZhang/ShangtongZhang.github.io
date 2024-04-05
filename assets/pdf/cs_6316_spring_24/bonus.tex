@@ -1,0 +1,43 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\usepackage{natbib}
+\usepackage{mathtools}
+\usepackage{physics}
+\usepackage{amsthm}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\geometry{letterpaper, margin=1in}
+\newcommand{\R}{\mathbb{R}}
+
+\title{Bonus}
+\author{Your name and email}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+We say a differentiable function $f: \R^N \to \R$ to be $L$-smooth if and only if
+\begin{align}
+    \norm{\nabla f(x) - \nabla f(y)} \leq L \norm{x - y},
+\end{align}
+where $\norm{\cdot}$ denotes the $\ell_2$ norm in $\R^N$.
+
+\section{log-sum-exp (6 points)}
+Consider the log-sum-exp function $f: \R^N \to \R$ defined as
+\begin{align}
+    f(x) = \ln\left(\sum_{i=1}^N\exp(x_i)\right).
+\end{align}
+Prove that $f$ is $1$-smooth.
+
+\section{Remarks}
+
+\begin{itemize}
+    \item You can use whatever sufficient conditions (e.g., conditions on Hessian) for proving $L$-smooth, as long as you clearly document where you get the sufficient condition from.
+    \item Since this is a bonus, I and TAs will not provide any hint other than clarification. 
+    \item The \LaTeX{} file for generating this PDF is provided in the same folder. Please use it for this homework.
+\end{itemize}
+
+
+\end{document}
