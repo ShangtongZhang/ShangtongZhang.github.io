@@ -30,10 +30,13 @@ International Conference on Machine Learning (**ICML**), 2023.
 **Shangtong Zhang**, Remi Tachet des Combes<sup>†</sup>, Romain Laroche<sup>†</sup>.  
 Journal of Machine Learning Research (**JMLR**), 2022.    
 
+- [StarCraft II Unplugged: Large Scale Offline Reinforcement Learning](https://arxiv.org/abs/2308.03526)  
+Michael Mathieu<sup>*</sup>, Sherjil Ozair<sup>*</sup>, Srivatsan Srinivasan<sup>*</sup>, Caglar Gulcehre<sup>*</sup>, **Shangtong Zhang**<sup>*</sup>, Ray Jiang<sup>*</sup>, Tom Le Paine<sup>*</sup>, Richard Powell, Konrad Zolna, Julian Schrittwieser, David Choi, Petko Georgiev, Daniel Toyama, Aja Huang, Roman Ring, Igor Babuschkin, Timo Ewalds, Mahyar Bordbar, Sarah Henderson, Sergio Gomez Colmenarejo, Aaron van den Oord, Wojciech Marian Czarnecki, Nando de Freitas, Oriol Vinyals.  
+arXiv:2308.03526, 2023  
+
 - [Truncated Emphatic Temporal Difference Methods for Prediction and Control](https://arxiv.org/abs/2108.05338).  
 **Shangtong Zhang**, Shimon Whiteson.  
 Journal of Machine Learning Research (**JMLR**), 2022.  
-
 
 - [A Deeper Look at Discounting Mismatch in Actor-Critic Algorithms](https://arxiv.org/abs/2010.01069).  
 **Shangtong Zhang**, Romain Laroche, Harm van Seijen, Shimon Whiteson, Remi Tachet des Combes.  
@@ -44,10 +47,7 @@ International Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)
 Ray Jiang, **Shangtong Zhang**, Veronica Chelu, Adam White, Hado van Hasselt.  
 AAAI Conference on Artificial Intelligence (**AAAI**), 2022.  
 
-- [StarCraft II Unplugged: Large Scale Offline Reinforcement Learning](https://arxiv.org/abs/2308.03526)  
-Michael Mathieu<sup>*</sup>, Sherjil Ozair<sup>*</sup>, Srivatsan Srinivasan<sup>*</sup>, Caglar Gulcehre<sup>*</sup>, **Shangtong Zhang**<sup>*</sup>, Ray Jiang<sup>*</sup>, Tom Le Paine<sup>*</sup>, Richard Powell, Konrad Zolna, Julian Schrittwieser, David Choi, Petko Georgiev, Daniel Toyama, Aja Huang, Roman Ring, Igor Babuschkin, Timo Ewalds, Mahyar Bordbar, Sarah Henderson, Sergio Gomez Colmenarejo, Aaron van den Oord, Wojciech Marian Czarnecki, Nando de Freitas, Oriol Vinyals.  
-arXiv:2308.03526, 2023  
-Deep RL Workshop at NeurIPS 2021
+
 
 - [Breaking the Deadly Triad with a Target Network](https://arxiv.org/abs/2101.08862).  
 **Shangtong Zhang**, Hengshuai Yao, Shimon Whiteson.  
