@@ -6,7 +6,7 @@ permalink: /people/
 
 ### Recruiting
 
-* **PhD applicants for Fall 2024 (fully funded)**  
+* **PhD applicants for Fall 2025 (fully funded)**  
 RL background is not necessary. You are welcome to email me but please be **specific** about why you think we are in good match.
 * **master students**  
 UVA CS has both thesis- and course-based master programs. If you are admitted and want to do your thesis / project with me, feel free to drop me a line. 
@@ -30,15 +30,8 @@ If you want to email me, please describe how your papers align with my papers.
 * Licheng Luo (2023 - )
 * Kefan Song (2023 - )
 
-### Undergraduates
-* Ja-Zhua Cheng (2022 - )
-* Pawan Jayakumar (2023 - )
-* Cici Wang (2023 - )
-* Steve Zhou (2023 - )
-
-### Research Assistants
-* Xiaochi Qian (2022 - ) 
-
-### Alumni
-* Jiuqi Wang (RA, 2022 - 2023, next stop: PhD student at University of Virginia)
-* Zhengkun Xiao (Master 2022 - 2023, next stop: PhD student at University of Florida)
+### Alumni with Theses or Publications
+* Xiaochi Qian (Undergraduate, 2022 - 2024)
+    - *Direct Gradient Temporal Difference Learning*
+* Steve Zhou (Undergraduate, 2023 - 2024)
+    - *Stock Trading with Reinforcement Learning: Average Reward Agent and Alpha Preservation* (DMP thesis)
