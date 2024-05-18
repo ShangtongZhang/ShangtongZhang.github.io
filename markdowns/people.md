@@ -22,16 +22,16 @@ If you want to email me, please describe how your papers align with my papers.
 > In any case, please add [e5274d52b4c6] in the subject of your email to indicate you have read the information above.
 
 ### PhD Students
-<!-- <ul> -->
-  <!-- <li class="people_container"> -->
-    <!-- <img class="image" src="/assets/img/people/uva.png"  width="60"/> -->
-    <!-- <span class="caption">Ethan Blaser</span> -->
-  <!-- </li> -->
-  <!-- <li class="people_container"> -->
-    <!-- <img class="image" src="/assets/img/people/uva.png"/> -->
-    <!-- <span class="caption">my caption</span> -->
-  <!-- </li> -->
-<!-- </ul> -->
+<ul style="list-style-type:none">
+  <li class="people_container">
+    <img class="image" src="/assets/img/people/uva.png"  width="100"/>
+    <span class="caption">Ethan Blaser (2023 - ) </span>
+  </li>
+  <li class="people_container">
+    <img class="image" src="/assets/img/people/uva.png" width="100">
+    <span class="caption">my caption</span>
+  </li>
+</ul>
 
 * Ethan Blaser (2023 - )
 * Jiuqi Wang (2023 - )
