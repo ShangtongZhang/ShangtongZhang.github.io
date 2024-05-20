@@ -4,7 +4,7 @@ title: People
 permalink: /people/
 ---
 
-### Graduate Students
+### Ph.D. Students
 <table class="phd_students">
   <tbody>
     <tr>
@@ -38,28 +38,13 @@ permalink: /people/
         </p>
       </td>
     </tr>
-    <tr>
-      <td> <img class="image" src="/assets/img/people/uva.png"  width="100"/>
-      </td>
-      <td>
-        <p>
-          <a> <b> Licheng Luo </b> </a>
-          <br> M.S. student, Fall 2023 - Now
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td> <img class="image" src="/assets/img/people/uva.png"  width="100"/>
-      </td>
-      <td>
-        <p>
-          <a> <b> Kefan Song </b> </a>
-          <br> M.S. student, Fall 2023 - Now
-        </p>
-      </td>
-    </tr>
   </tbody>
 </table>
+
+
+### Master Students
+* Kefan Song, Fall 2023 - Now
+* Licheng Luo, Fall 2023 - Now
 
 ### Alumni with Theses or Publications
 * Xiaochi Qian (Undergraduate, 2022 - 2024)
