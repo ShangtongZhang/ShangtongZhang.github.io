@@ -29,11 +29,11 @@ permalink: /people/
       </td>
     </tr>
     <tr>
-      <td> <img class="image" src="/assets/img/people/uva.png"  width="100"/>
+      <td> <img class="image" src="/assets/img/people/jiuqi.jpg"  width="100"/>
       </td>
       <td>
         <p>
-          <a> <b> Jiuqi Wang </b> </a>
+          <a target="_blank" rel="noopener noreferrer" href="https://leonardowjq.github.io/"> <b> Jiuqi Wang </b> </a>
           <br> Ph.D. student, Fall 2023 - Now
         </p>
       </td>
