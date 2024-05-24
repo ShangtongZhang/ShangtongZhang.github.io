@@ -6,6 +6,10 @@ permalink: /publication/
 
 <sup>*</sup> indicates equal contribution. <sup>†</sup> indicates equal advising. <u>Advisees</u> are underlined.
 
+- [Transformers Learn Temporal Difference Methods for In-Context Reinforcement Learning](https://arxiv.org/abs/2405.13861).  
+<u>Jiuqi Wang</u><sup>*</sup>, <u>Ethan Blaser</u><sup>*</sup>, Hadi Daneshmand, **Shangtong Zhang**.  
+arXiv:2405.13861, 2024.  
+
 - [Improving Monte Carlo Evaluation with Offline Data](https://arxiv.org/abs/2301.13734).  
 <u>Shuze Liu</u>, **Shangtong Zhang**.   
 International Conference on Machine Learning (**ICML**), 2024. 
