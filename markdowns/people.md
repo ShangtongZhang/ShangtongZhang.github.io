@@ -18,11 +18,11 @@ permalink: /people/
       </td>
     </tr>
     <tr>
-      <td> <img class="image" src="/assets/img/people/uva.png"  width="100"/>
+      <td> <img class="image" src="/assets/img/people/ethan.jpg"  width="100"/>
       </td>
       <td>
         <p>
-          <a> <b> Ethan Blaser </b> </a>
+          <a target="_blank" rel="noopener noreferrer" href="https://blaserethan.github.io/"> <b> Ethan Blaser </b> </a>
           <br> Ph.D. candidate, Fall 2023 - Now
           <br> NSF Graduate Research Fellowship
         </p>
