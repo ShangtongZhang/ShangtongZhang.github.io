@@ -29,11 +29,12 @@ layout: home
     </tbody>
 </table>
 
-[[Google Scholar]](https://scholar.google.co.uk/citations?user=Pn7fj4IAAAAJ&hl=en) [[Twitter]](https://twitter.com/ShangtongZhang) [[Curriculum Vitae]](/assets/pdf/resume/resume.pdf) [[Github]](https://github.com/ShangtongZhang) [[SIL]](https://github.com/Sequential-Intelligence-Lab) [[PhD Thesis]](https://ora.ox.ac.uk/objects/uuid:2c410803-2141-41ed-b362-7f14723b2f17) [[Calendar]](https://outlook.office365.com/owa/calendar/28109e83b17a40a68df4687e82614ae6@virginia.edu/1cc980bd40644e17b99c52396532934416235907553762187423/calendar.html) [[Zoom]](https://virginia.zoom.us/my/shangtong) [[Prospective Students]](/recruiting)    
+[[Google Scholar]](https://scholar.google.co.uk/citations?user=Pn7fj4IAAAAJ&hl=en) [[Twitter]](https://twitter.com/ShangtongZhang) [[Curriculum Vitae]](/assets/pdf/resume/resume.pdf) [[Github]](https://github.com/ShangtongZhang) [[PhD Thesis]](https://ora.ox.ac.uk/objects/uuid:2c410803-2141-41ed-b362-7f14723b2f17) [[Calendar]](https://outlook.office365.com/owa/calendar/28109e83b17a40a68df4687e82614ae6@virginia.edu/1cc980bd40644e17b99c52396532934416235907553762187423/calendar.html) [[Zoom]](https://virginia.zoom.us/my/shangtong) [[Prospective Students]](/recruiting)    
 <!-- <span style="color:red"> <a href="/people" style="color:red"> <u> I am looking for self-motivated students interested in RL at different levels! </u> </a> </span> -->
 ## Biography
 
-Shangtong Zhang is an Assistant Professor in the Department of Computer Science at the University of Virginia.
+Shangtong Zhang is an Assistant Professor in the Department of Computer Science at the University of Virginia,
+directing the [Sequential Intelligence Lab (SIL)](https://github.com/Sequential-Intelligence-Lab).
 His research focuses on both theoretical and empirical aspects of reinforcement learning,
 which has resulted in multiple scholarly articles in major AI venues, e.g., JMLR, ICML, NeurIPS,
 including one that won the best paper award at AAMAS.
@@ -46,14 +47,6 @@ His DPhil thesis was recognized as the runner-up for the IFAAMAS Victor Lesser D
 Prior to that,
 he received his MSc degree at the University of Alberta
 and BSc degree at Fudan University.
-
-<!-- Shangtong Zhang is an Assistant Professor in the Department of Computer Science at the University of Virginia.
-Prior to joining UVA, he received his DPhil degree at the University of Oxford, MSc degree at the University of Alberta,
-and BSc degree at Fudan University.
-The goal of his research is to solve sequential decision making problems in a scalable and reliable way. 
-Currently, he focuses on reinforcement learning as a solution method.
-His work won the best paper award at AAMAS and his thesis is the runner-up for the IFAAMAS Victor Lesser Dissertation Award.
-He spent some time at Microsoft Research and DeepMind during his DPhil. -->
 
 ## News
 - 2024/05: One paper is accepted at ICML 2024.  
