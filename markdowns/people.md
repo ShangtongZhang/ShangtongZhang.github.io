@@ -8,11 +8,11 @@ permalink: /people/
 <table class="phd_students">
   <tbody>
     <tr>
-      <td> <img class="image" src="/assets/img/people/uva.png"  width="100"/>
+      <td> <img class="image" src="/assets/img/people/shuze.jpg"  width="100"/>
       </td>
       <td>
         <p>
-          <a><b> Shuze Liu </b> </a>
+          <a target="_blank" rel="noopener noreferrer" href="https://shuzeliu.com/"><b> Shuze Liu </b> </a>
           <br> Ph.D. candidate, Fall 2022 - Now
         </p>
       </td>
