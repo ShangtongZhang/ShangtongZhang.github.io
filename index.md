@@ -49,6 +49,8 @@ he received his MSc degree at the University of Alberta
 and BSc degree at Fudan University.
 
 ## News
+- 2024/06: I give a [talk](/assets/pdf/talks/ode_in_context_td.pdf) at Tsinghua University.  
+- 2024/06: I will serve as Senior Program Committee for AAMAS 2025.  
 - 2024/05: One paper is accepted at ICML 2024.  
 - 2024/01: I will serve as Senior Area Chair for RL Conference 2024.  
 - 2023/12: I am recognized as a Rising Star in AI by [KAUST AI Initiative](https://cemse.kaust.edu.sa/ai/aii-symp-2024).  
