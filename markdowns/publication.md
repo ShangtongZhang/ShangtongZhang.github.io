@@ -103,12 +103,12 @@ A short version is accepted as an extended abstract at AAMAS 2019.
 
 - [ACE: An Actor Ensemble Algorithm for Continuous Control with Tree Search](https://arxiv.org/abs/1811.02696).  
 **Shangtong Zhang**, Hao Chen, Hengshuai Yao.  
-AAAI Conference on Artificial Intelligence (**AAAI**), 2019.
+AAAI Conference on Artificial Intelligence (**AAAI**), 2019.  
 **Spotlight Presentation**
 
 - [QUOTA: The Quantile Option Architecture for Reinforcement Learning](https://arxiv.org/abs/1811.02073).  
 **Shangtong Zhang**, Borislav Mavrin, Linglong Kong, Bo Liu, Hengshuai Yao.  
-AAAI Conference on Artificial Intelligence (**AAAI**), 2019.
+AAAI Conference on Artificial Intelligence (**AAAI**), 2019.  
 **Oral Presentation**
 
 - [MLPack 3: A Fast, Flexible Machine Learning Library](https://joss.theoj.org/papers/f9fb80cf56e79edd4d87e5cf7c5f1759).  
@@ -121,15 +121,15 @@ European Conference on Machine Learning and Principles and Practice of Knowledge
 
 - [A Deeper Look at Experience Replay](https://arxiv.org/abs/1712.01275).  
 **Shangtong Zhang**, Richard S. Sutton.  
-**Deep RL Symposium at NIPS**, 2017.
+Deep RL Symposium at NIPS, 2017.
 
 - [Comparing Deep Reinforcement Learning and Evolutionary Methods in Continuous Control](https://arxiv.org/abs/1712.00006).  
 **Shangtong Zhang**, Osmar R. Zaiane.  
-**Deep RL Symposium at NIPS**, 2017.
+Deep RL Symposium at NIPS, 2017.
 
 - [A Demon Control Architecture with Off-Policy Learning and Flexible Behavior Policy](https://drive.google.com/file/d/1tV1Lw1fIsQTihSzSvBT206XX2_6UjiRB/view).  
 **Shangtong Zhang**, Richard S. Sutton.  
-**Hierarchical RL Workshop at NIPS**, 2017.  
+Hierarchical RL Workshop at NIPS, 2017.  
 
 - [A Deep Neural Network for Modeling Music](https://dl.acm.org/citation.cfm?id=2749367).  
 Pengjing Zhang, Xiaoqing Zheng, Wenqiang Zhang, Siyan Li, Sheng Qian, Wenqi He, **Shangtong Zhang**, Ziyuan Wang.  
