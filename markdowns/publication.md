@@ -9,6 +9,8 @@ permalink: /publication/
 - [Transformers Learn Temporal Difference Methods for In-Context Reinforcement Learning](https://arxiv.org/abs/2405.13861).  
 <u>Jiuqi Wang</u><sup>*</sup>, <u>Ethan Blaser</u><sup>*</sup>, Hadi Daneshmand, **Shangtong Zhang**.  
 arXiv:2405.13861, 2024.  
+**Spotlight presentation** at the RLC Workshop on Training Agents with Foundation Models, 2024.  
+**Contributed talk** at the ICML Workshop on In-Context Learning, 2024.  
 
 - [Efficient Policy Evaluation with Offline Data Informed Behavior Policy Design](https://arxiv.org/abs/2301.13734).  
 <u>Shuze Liu</u>, **Shangtong Zhang**.   
@@ -102,10 +104,12 @@ A short version is accepted as an extended abstract at AAMAS 2019.
 - [ACE: An Actor Ensemble Algorithm for Continuous Control with Tree Search](https://arxiv.org/abs/1811.02696).  
 **Shangtong Zhang**, Hao Chen, Hengshuai Yao.  
 AAAI Conference on Artificial Intelligence (**AAAI**), 2019.
+**Spotlight Presentation**
 
 - [QUOTA: The Quantile Option Architecture for Reinforcement Learning](https://arxiv.org/abs/1811.02073).  
 **Shangtong Zhang**, Borislav Mavrin, Linglong Kong, Bo Liu, Hengshuai Yao.  
 AAAI Conference on Artificial Intelligence (**AAAI**), 2019.
+**Oral Presentation**
 
 - [MLPack 3: A Fast, Flexible Machine Learning Library](https://joss.theoj.org/papers/f9fb80cf56e79edd4d87e5cf7c5f1759).  
 Ryan R Curtin, Marcus Edel, Mikhail Lozhnikov, Yannis Mentekidis, Sumedh Ghaisas, **Shangtong Zhang**.  
