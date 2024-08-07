@@ -15,7 +15,7 @@ Due to limited bandwidth, I can only work with undergraduates who have taken an 
 If you want to email me, please describe the most interesting part (in your opinion) of the RL course you took.
 An exception is the distinguished major program, please feel free to email me with your proposal for DMP.
 * **Research interns**   
-Due to limited bandwidth, I can only work with interns who already have papers that are highly related to my research.
+Due to limited bandwidth, I can only work with interns who have demonstrated records that are highly related to my research.
 If you want to email me, please describe how I would benefit from this collaboration. 
 
 > In any case, please add [e5274d52b4c6] in the subject of your email to indicate you have read the information above.
