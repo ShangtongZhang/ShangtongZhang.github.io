@@ -35,7 +35,21 @@ You can download a free version of RLAI from the previous link.
 <!-- I will try my best to record each lecture (though not guaranteed) and post the recordings in Canvas. -->
 <!-- That being said, it might be good to factor this whiteboard format into consideration when enrolling in this course. -->
 
-## Grading (TBA):
+## Grading:
+
+Programming Task 1 (Bandit)
+* Reproduce Figure 2.3
+* Reproduce Figure 2.4
+* Reproduce Figure 2.5
+* Reproduce Figure 2.6
+
+Programming Task 2 (Dynamic Programming)
+* Reproduce Figure 3.2 (Policy Evaluation)
+* Reproduce Figure 4.1 (Policy Iteration)
+* Reproduce Figure 3.5 (Value Iteration)
+
+Programming Task 3 (Monte Carlo)
+
 
 ## Roadmap (TBA):
 
