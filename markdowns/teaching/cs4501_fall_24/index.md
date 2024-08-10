@@ -8,16 +8,20 @@ Reinforcement learning (RL) is a powerful framework for solving sequential decis
 and has enjoyed tremendous success, e.g., [playing the game of Go](https://www.nature.com/articles/nature16961) and [training ChatGPT](https://chat.openai.com/auth/login).
 This course is designed to cover basic but important ideas of RL, as well as milestone papers in deep RL if time permits.
 
-## Logistics:
+## Logistics
 
 - Instructor: [Shangtong Zhang](/)
-- Location: TBA
+- TAs:
+  - [Ethan Blaser](ehb2bf@virginia.edu) (head TA)
+  - [Jiuqi Wang](xgu3km@virginia.edu)
+  - [Shuze Liu](shuzeliu@virginia.edu)
+- Location: Thornton Hall E303
 - Time: Tuesday & Thursday, 11:00 - 12:15  
 - Office Hours: 
   - TBA 
-- UVACanvas: TBA 
+- [UVACanvas](https://canvas.its.virginia.edu/courses/115999)
 - Prerequisite:
-  This course will be light in math but still requires basic ideas of probability, linear algebra, and calculus. Many assignments will be programming-based so we also need Python.
+  This course will be light in math but still requires basic ideas of probability, linear algebra, and calculus. The homework is programming-based so you need to be proficient in Python.
 - If you need approval for registration,
 please move forward directly by submitting the proper forms,
 assuming I will approve it.
@@ -27,15 +31,15 @@ Different schools and colleges have different required forms.
 It is your responsibility to figure out which form to submit and where to submit it - this is another hidden prerequisite for this course.
 I will not be able to manually handle any individual enrollment / permission  request until near the end of the enrollment deadline.
 
-## Teaching:
+## Teaching
 - Textbook: We will use [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html) (RLAI) as the textbook.
 You can download a free version of RLAI from the previous link.
-<!-- - Lectures: **All lectures are whiteboards. To encourage attendance, there will be no slides or notes. But I am sure you can find everything in RLAI.** -->
-<!-- As a courtesy, -->
-<!-- I will try my best to record each lecture (though not guaranteed) and post the recordings in Canvas. -->
-<!-- That being said, it might be good to factor this whiteboard format into consideration when enrolling in this course. -->
+- Lectures: **All lectures are whiteboards. To encourage attendance, there will be no slides or notes. But I am sure you can find everything in RLAI.**
+As a courtesy,
+I will try my best to record each lecture (though not guaranteed) and post the recordings in Canvas.
+That being said, it might be good to factor this whiteboard format into consideration when enrolling in this course.
 
-## Grading:
+## Grading
 
 The homework of this course is to reproduce representative empirical results in the RLAI book. 
 You must use Python.
