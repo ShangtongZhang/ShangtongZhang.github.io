@@ -6,7 +6,7 @@ permalink: /teaching/cs4501_fall_24/index
 
 Reinforcement learning (RL) is a powerful framework for solving sequential decision making problems
 and has enjoyed tremendous success, e.g., [playing the game of Go](https://www.nature.com/articles/nature16961) and [training ChatGPT](https://chat.openai.com/auth/login).
-This course is designed to cover basic but important ideas of RL, as well as milestone papers in deep RL, i.e., RL with deep neural networks.
+This course is designed to cover basic but important ideas of RL, as well as milestone papers in deep RL if time permits.
 
 ## Logistics:
 
@@ -37,21 +37,56 @@ You can download a free version of RLAI from the previous link.
 
 ## Grading:
 
-Programming Task 1 (Bandit)
-* Reproduce Figure 2.3
-* Reproduce Figure 2.4
-* Reproduce Figure 2.5
-* Reproduce Figure 2.6
+The homework of this course is to reproduce representative empirical results in the RLAI book. 
+You must use Python.
+There are 20 tasks (figures / examples) in total.
+Each task has 5 points.
+The due date for each task is to be determined according to the course progress.
+If we are not able to cover some necessary background of a task, the points of that task will be given for free.
+Similarly, if we are able to cover all,
+we will additionally discuss deep RL and have some corresponding bonus tasks.
+There is no exam or project, no written homework.
+The programming tasks are the only way to earn points.
 
-Programming Task 2 (Dynamic Programming)
-* Reproduce Figure 3.2 (Policy Evaluation)
-* Reproduce Figure 4.1 (Policy Iteration)
-* Reproduce Figure 3.5 (Value Iteration)
-
-Programming Task 3 (Monte Carlo)
+The workload seems heavy but is definitely doable. When I took my first RL course, I reproduced ALL the figures, not just the selected ones below.
+I will curve (towards higher points) to give letter grades if necessary.
 
 
-## Roadmap (TBA):
+Homework 1 (Bandit)
+* 1.1 Reproduce Figure 2.3 (optimistic initialization)
+* 1.2 Reproduce Figure 2.4 (UCB)
+* 1.3 Reproduce Figure 2.5 (gradient)
+* 1.4 Reproduce Figure 2.6 (parameter study)
+
+Homework 2 (Dynamic Programming)
+* 2.1 Reproduce Figure 3.2 (policy evaluation)
+* 2.2 Reproduce Figure 4.1 (policy iteration)
+* 2.3 Reproduce Figure 3.5 (value iteration)
+
+Homework 3 (Monte Carlo)
+* 3.1 Reproduce Figure 5.1 (on-policy)
+* 3.2 Reproduce Figure 5.3 (off-policy)
+* 3.3 Reproduce Figure 5.4 (off-policy)
+
+Homework 4 (Temporal Difference)
+* 4.1 Reproduce Example 6.2 (TD)
+* 4.2 Reproduce Figure 6.2 (TD v.s. Monte Carlo)
+* 4.3 Reproduce Example 6.5 (SARSA)
+* 4.4 Reproduce Example 6.6 (SARSA v.s. Q-learning)
+* 4.5 Reproduce Figure 6.5 (double Q-learning)
+
+Homework 5 (N-Step TD)
+* Reproduce Figure 7.2
+
+Homework 6 (Approximate Methods)
+* 6.1 Reproduce Figure 9.1 (state aggregation)
+* 6.2 Reproduce Figure 9.2 (linear function approximation)
+
+Homework 7 (Policy Gradient)
+* 7.1 Reproduce Example 13.1 (stochastic policy)
+* 7.2 Reproduce Figure 13.1 (REINFORCE)
+
+<!-- ## Roadmap (TBA): -->
 
 <!-- | Date  |  Comments |
 |-------| ----------|
@@ -101,4 +136,4 @@ Late submission within 48 hours loses 66% of the scores.
 Late submission after 48 hours loses all scores.
 No late submission is allowed for the final projection presentation and writeup.
 No exception will be made unless doctor notes or [SDAC](https://www.studenthealth.virginia.edu/SDAC) notifications are provided.
-- Regrading Policy: For every assignment, one regrading request is allowed. I will regrade the **entire** assignment and there is no guarantee that the score will not decrease.
+- Regrading Policy: For every task, one regrading request is allowed. 
