@@ -134,10 +134,8 @@ Homework 7 (Policy Gradient)
 ## Policies:
 
 - Late Policy:
-Late submission within 8 hours (a grace period) has no penalty.
-Late submission within 24 hours loses 33% of the scores.
-Late submission within 48 hours loses 66% of the scores.
-Late submission after 48 hours loses all scores.
-No late submission is allowed for the final projection presentation and writeup.
+You have a quota of 72 hours for late submission for all but the last task. 
+Late submission within 8 hours (a grace period) has no penalty and does not consume the quota.
+No late submission is allowed for the last task because SEAS does not grant me a late submission privilege for the final grades.
 No exception will be made unless doctor notes or [SDAC](https://www.studenthealth.virginia.edu/SDAC) notifications are provided.
 - Regrading Policy: For every task, one regrading request is allowed. 
