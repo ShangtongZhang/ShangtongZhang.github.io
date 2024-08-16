@@ -18,7 +18,7 @@ This course is designed to cover basic but important ideas of RL, as well as mil
 - Location: Thornton Hall E303
 - Time: Tuesday & Thursday, 11:00 - 12:15  
 - Office Hours: 
-  - Shangtong Zhang: 10:00 - 11:00 Tuesday, Rice 422
+  - Shangtong Zhang: 9:50 - 10:50 Tuesday, Rice 422
 - [UVACanvas](https://canvas.its.virginia.edu/courses/115999)
 - Prerequisite:
   This course will be light in math but still requires basic ideas of probability, linear algebra, and calculus. The homework is programming-based so you need to be proficient in Python.
