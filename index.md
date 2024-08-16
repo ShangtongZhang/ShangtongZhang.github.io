@@ -49,6 +49,7 @@ he received his MSc degree at the University of Alberta
 and BSc degree at Fudan University.
 
 ## News
+- 2024/08: I will serve as Meta Reviewer for L4DC 2025.  
 - 2024/08: I will serve as Area Chair for ICLR 2025.  
 - 2024/06: I give a [talk](/assets/pdf/talks/ode_in_context_td.pdf) at Tsinghua University.  
 - 2024/06: I will serve as Senior Program Committee for AAMAS 2025.  
