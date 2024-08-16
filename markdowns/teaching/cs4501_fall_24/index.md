@@ -18,7 +18,7 @@ This course is designed to cover basic but important ideas of RL, as well as mil
 - Location: Thornton Hall E303
 - Time: Tuesday & Thursday, 11:00 - 12:15  
 - Office Hours: 
-  - TBA 
+  - Shangtong Zhang: 10:00 - 11:00 Tuesday, Rice 422
 - [UVACanvas](https://canvas.its.virginia.edu/courses/115999)
 - Prerequisite:
   This course will be light in math but still requires basic ideas of probability, linear algebra, and calculus. The homework is programming-based so you need to be proficient in Python.
@@ -47,14 +47,22 @@ There are 20 tasks (figures / examples) in total.
 Each task has 5 points.
 The due date for each task is to be determined according to the course progress.
 If we are not able to cover some necessary background of a task, the points of that task will be given for free.
-Similarly, if we are able to cover all,
+So the more questions you ask in lectures,
+(likely) the slower the course progress is,
+and the fewer homework you have.
+If no one interacts with me in lectures, 
+I will just go with my pace.
+So please ask questions.
+If we are able to cover all,
 we will additionally discuss deep RL and have some corresponding bonus tasks.
 There is no exam or project, no written homework.
 The programming tasks are the only way to earn points.
 
 The workload seems heavy but is definitely doable. When I took my first RL course, I reproduced ALL the figures, not just the selected ones below.
 I will curve (towards higher points) to give letter grades if necessary.
-
+There is indeed reference Python implementation available in the Internet, e.g., my GitHub.
+You are welcome to learn from those.
+But you need to write your code on your own in a highly modularized way (I will provide a demo).
 
 Homework 1 (Bandit)
 * 1.1 Reproduce Figure 2.3 (optimistic initialization)
@@ -89,6 +97,16 @@ Homework 6 (Approximate Methods)
 Homework 7 (Policy Gradient)
 * 7.1 Reproduce Example 13.1 (stochastic policy)
 * 7.2 Reproduce Figure 13.1 (REINFORCE)
+
+Rubrics for each task (5 pt)
+* Visual inspection of your generated figures (2 pt)
+* Correctness of your implementation (1 pt)
+* Code style of your implementation (2 pt)
+  * Comments (1 pt)
+  * Modularization (1 pt)
+
+For each task, please only submit a **SINGLE** self-contained Python file, together with the generated figure.
+Auto-differentiation packages (e.g., PyTorch) are not allowed.
 
 <!-- ## Roadmap (TBA): -->
 
