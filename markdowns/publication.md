@@ -6,6 +6,10 @@ permalink: /publication/
 
 <sup>*</sup> indicates equal contribution. <sup>†</sup> indicates equal advising. <u>Advisees</u> are underlined.
 
+- [Efficient Multi-Policy Evaluation for Reinforcement Learning](https://arxiv.org/abs/2408.08706).  
+<u>Shuze Liu</u>, <u>Yuxin Chen</u>, **Shangtong Zhang**.  
+arXiv:2408.08706, 2024.  
+
 - [Transformers Learn Temporal Difference Methods for In-Context Reinforcement Learning](https://arxiv.org/abs/2405.13861).  
 <u>Jiuqi Wang</u><sup>*</sup>, <u>Ethan Blaser</u><sup>*</sup>, Hadi Daneshmand, **Shangtong Zhang**.  
 arXiv:2405.13861, 2024.  
