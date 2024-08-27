@@ -38,6 +38,30 @@ permalink: /people/
         </p>
       </td>
     </tr>
+    <tr>
+      <td> <img class="image" src="/assets/img/people/xinyu.jpeg"  width="100"/>
+      </td>
+      <td>
+        <p>
+          <!-- <a target="_blank" rel="noopener noreferrer" href=""> <b> Xinyu Liu </b> </a> -->
+          <a> <b> Xinyu Liu </b> </a>
+          <br> Ph.D. student, Fall 2024 - Now
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td> <img class="image" src="/assets/img/people/zixuan.jpeg"  width="100"/>
+      </td>
+      <td>
+        <p>
+          <!-- <a target="_blank" rel="noopener noreferrer" href=""> <b> Xinyu Liu </b> </a> -->
+          <a> <b> Zixuan Xie </b> </a>
+          <br> Ph.D. student, Fall 2024 - Now
+          <br> UVA Provost’s Fellowship
+          <br> UVA Engineering Distinguished Fellowship
+        </p>
+      </td>
+    </tr>
   </tbody>
 </table>
 
