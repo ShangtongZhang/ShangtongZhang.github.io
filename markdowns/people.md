@@ -62,6 +62,17 @@ permalink: /people/
         </p>
       </td>
     </tr>
+    <tr>
+      <td> <img class="image" src="/assets/img/people/amir.jpg"  width="100"/>
+      </td>
+      <td>
+        <p>
+          <!-- <a target="_blank" rel="noopener noreferrer" href=""> <b> Xinyu Liu </b> </a> -->
+          <a> <b> Amir Moeini</b> </a>
+          <br> Ph.D. student, Fall 2024 - Now
+        </p>
+      </td>
+    </tr>
   </tbody>
 </table>
 

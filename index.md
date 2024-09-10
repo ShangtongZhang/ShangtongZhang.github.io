@@ -49,22 +49,22 @@ he received his MSc degree at the University of Alberta
 and BSc degree at Fudan University.
 
 ## News
-- 2024/08: I will serve as Meta Reviewer for L4DC 2025.  
-- 2024/08: I will serve as Area Chair for ICLR 2025.  
+<!-- - 2024/08: I will serve as Meta Reviewer for L4DC 2025.   -->
+<!-- - 2024/08: I will serve as Area Chair for ICLR 2025.   -->
 - 2024/06: I give a [talk](/assets/pdf/talks/ode_in_context_td.pdf) at Tsinghua University.  
-- 2024/06: I will serve as Senior Program Committee for AAMAS 2025.  
+<!-- - 2024/06: I will serve as Senior Program Committee for AAMAS 2025.   -->
 - 2024/05: One paper is accepted at ICML 2024.  
 - 2024/02: I give a [talk](/assets/pdf/talks/offline_rl_cheats.pdf) at KAUST.  
-- 2024/01: I will serve as Area Chair for RL Conference 2024.  
+<!-- - 2024/01: I will serve as Area Chair for RL Conference 2024.   -->
 - 2023/12: I am recognized as a Rising Star in AI by [KAUST AI Initiative](https://cemse.kaust.edu.sa/ai/aii-symp-2024).  
-- 2023/11: I serve as Area Chair for ICLR 2024.  
-- 2023/11: I serve as Area Chair for AISTATS 2024.  
+<!-- - 2023/11: I serve as Area Chair for ICLR 2024.   -->
+<!-- - 2023/11: I serve as Area Chair for AISTATS 2024.   -->
 - 2023/09: NSF funded our project [CRASH](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2331904).  
 - 2023/04: One paper is accepted at ICML 2023.  
 - 2023/02: I gave a [talk](/assets/pdf/talks/AAAI23_faculty_highlight.pdf) at AAAI 23 New Faculty Highlights.  
 - 2022/12: My PhD thesis is recognized as the runner-up for the IFAAMAS Victor Lesser Dissertation Award.  
 - 2022/10: One paper is accepted by JMLR.   
-- 2022/08: I am offering [CS6501: Topics in Reinforcement Learning](/teaching/cs6501_fall_22/index) this fall.
+<!-- - 2022/08: I am offering [CS6501: Topics in Reinforcement Learning](/teaching/cs6501_fall_22/index) this fall. -->
 - 2022/08: I joined UVA!  
 - 2022/06: I defended my DPhil!  
 - 2022/05: One paper is accepted by JMLR.   
