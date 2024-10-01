@@ -6,6 +6,10 @@ permalink: /publication/
 
 <sup>*</sup> indicates equal contribution. <sup>†</sup> indicates equal advising. <u>Advisees</u> are underlined.
 
+- [Almost Sure Convergence of Average Reward Temporal Difference Learning](https://arxiv.org/abs/2409.19546).  
+<u>Ethan Blaser</u>, **Shangtong Zhang**.  
+arXiv:2409.19546, 2024.  
+
 - [Almost Sure Convergence of Linear Temporal Difference Learning with Arbitrary Features](https://arxiv.org/abs/2409.12135).  
 <u>Jiuqi Wang</u>, **Shangtong Zhang**.  
 arXiv:2409.12135, 2024.  
