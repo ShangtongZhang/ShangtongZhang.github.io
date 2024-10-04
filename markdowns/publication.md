@@ -6,6 +6,10 @@ permalink: /publication/
 
 <sup>*</sup> indicates equal contribution. <sup>†</sup> indicates equal advising. <u>Advisees</u> are underlined.
 
+- [Doubly Optimal Policy Evaluation for Reinforcement Learning](https://arxiv.org/abs/2410.02226).  
+<u>Shuze Liu</u>, <u>Yuxin Chen</u>, **Shangtong Zhang**.  
+arXiv:2410.02226, 2024.
+
 - [Almost Sure Convergence of Average Reward Temporal Difference Learning](https://arxiv.org/abs/2409.19546).  
 <u>Ethan Blaser</u>, **Shangtong Zhang**.  
 arXiv:2409.19546, 2024.  
