@@ -7,7 +7,7 @@ permalink: /publication/
 <sup>*</sup> indicates equal contribution. <sup>†</sup> indicates equal advising. <u>Advisees</u> are underlined.
 
 - [Doubly Optimal Policy Evaluation for Reinforcement Learning](https://arxiv.org/abs/2410.02226).  
-<u>Shuze Liu</u>, <u>Yuxin Chen</u>, **Shangtong Zhang**.  
+<u>Shuze Liu</u>, <u>Claire Chen</u>, **Shangtong Zhang**.  
 arXiv:2410.02226, 2024.
 
 - [Almost Sure Convergence of Average Reward Temporal Difference Learning](https://arxiv.org/abs/2409.19546).  
@@ -19,7 +19,7 @@ arXiv:2409.19546, 2024.
 arXiv:2409.12135, 2024.  
 
 - [Efficient Multi-Policy Evaluation for Reinforcement Learning](https://arxiv.org/abs/2408.08706).  
-<u>Shuze Liu</u>, <u>Yuxin Chen</u>, **Shangtong Zhang**.  
+<u>Shuze Liu</u>, <u>Claire Chen</u>, **Shangtong Zhang**.  
 arXiv:2408.08706, 2024.  
 
 - [Transformers Learn Temporal Difference Methods for In-Context Reinforcement Learning](https://arxiv.org/abs/2405.13861).  
