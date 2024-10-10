@@ -6,6 +6,10 @@ permalink: /publication/
 
 <sup>*</sup> indicates equal contribution. <sup>†</sup> indicates equal advising. <u>Advisees</u> are underlined.
 
+- [Efficient Policy Evaluation with Safety Constraint for Reinforcement Learning](https://arxiv.org/abs/2410.05655).  
+<u>Claire Chen</u><sup>*</sup>, <u>Shuze Liu</u><sup>*</sup>, **Shangtong Zhang**.  
+arXiv:2410.05655, 2024.
+
 - [Doubly Optimal Policy Evaluation for Reinforcement Learning](https://arxiv.org/abs/2410.02226).  
 <u>Shuze Liu</u>, <u>Claire Chen</u>, **Shangtong Zhang**.  
 arXiv:2410.02226, 2024.
