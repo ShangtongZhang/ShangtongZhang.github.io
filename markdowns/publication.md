@@ -30,7 +30,7 @@ arXiv:2408.08706, 2024.
 <u>Jiuqi Wang</u><sup>*</sup>, <u>Ethan Blaser</u><sup>*</sup>, Hadi Daneshmand, **Shangtong Zhang**.  
 arXiv:2405.13861, 2024.  
 Contributed talk at the RLC Workshop on Training Agents with Foundation Models, 2024.  
-**Spotlight Award** at the ICML Workshop on In-Context Learning, 2024.  
+**Best Paper Award** at the ICML Workshop on In-Context Learning, 2024.  
 
 - [Efficient Policy Evaluation with Offline Data Informed Behavior Policy Design](https://arxiv.org/abs/2301.13734).  
 <u>Shuze Liu</u>, **Shangtong Zhang**.   
