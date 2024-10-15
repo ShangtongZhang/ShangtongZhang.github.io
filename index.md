@@ -37,7 +37,7 @@ Shangtong Zhang is an Assistant Professor in the Department of Computer Science 
 directing the [Sequential Intelligence Lab (SIL)](https://github.com/Sequential-Intelligence-Lab).
 His research focuses on both theoretical and empirical aspects of reinforcement learning,
 which has resulted in multiple scholarly articles in major AI venues, e.g., JMLR, ICML, NeurIPS,
-including those recognized by paper awards at ICML workshops and AAMAS.
+including those recognized by best paper awards at ICML workshops and AAMAS.
 He also regularly serves as Area Chair in major AI venues, e.g., ICLR, AISTATS, and panelists for major federal funding agencies, e.g., NSF.
 His research was recognized by the AAAI New Faculty Highlights program
 and he was selected as a Rising Star in AI by KAUST AI Initiative.
