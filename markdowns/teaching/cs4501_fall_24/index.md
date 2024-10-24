@@ -79,14 +79,14 @@ Homework 2 (Dynamic Programming)
 * 2.3 Reproduce Figure 3.5 (value iteration)
 
 Homework 3 (Monte Carlo)
-* 3.1 Reproduce Figure 5.1 (on-policy)
-* 3.2 Reproduce Figure 5.3 (off-policy)
-* 3.3 Reproduce Figure 5.4 (off-policy)
+* ~~3.1 Reproduce Figure 5.1 (on-policy)~~
+* ~~3.2 Reproduce Figure 5.3 (off-policy)~~
+* 3.3 Reproduce Figure 5.4 (off-policy) (with both OIS and WIS)
 
 Homework 4 (Temporal Difference)
-* 4.1 Reproduce Example 6.2 (TD)
-* 4.2 Reproduce Figure 6.2 (TD v.s. Monte Carlo)
-* 4.3 Reproduce Example 6.5 (SARSA)
+* 4.1 Reproduce Example 6.2 (TD v.s. Monte Carlo)
+* ~~4.2 Reproduce Figure 6.2 (TD v.s. Monte Carlo in batch setting)~~
+* ~~4.3 Reproduce Example 6.5 (SARSA)~~
 * 4.4 Reproduce Example 6.6 (SARSA v.s. Q-learning)
 * 4.5 Reproduce Figure 6.5 (double Q-learning)
 
@@ -94,11 +94,11 @@ Homework 5 (N-Step TD)
 * Reproduce Figure 7.2
 
 Homework 6 (Approximate Methods)
-* 6.1 Reproduce Figure 9.1 (state aggregation)
+* ~~6.1 Reproduce Figure 9.1 (state aggregation)~~
 * 6.2 Reproduce Figure 9.2 (linear function approximation)
 
 Homework 7 (Policy Gradient)
-* 7.1 Reproduce Example 13.1 (stochastic policy)
+* ~~7.1 Reproduce Example 13.1 (stochastic policy)~~
 * 7.2 Reproduce Figure 13.1 (REINFORCE)
 
 Rubrics for each task (5 pt)
