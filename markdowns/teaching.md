@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-CS6316: Machine Learning (Spring 2025)  
+CS6316: [Machine Learning](/teaching/cs6316_spring_25/index) (Spring 2025)  
 CS4501: [Reinforcement Learning](/teaching/cs4501_fall_24/index) (Fall 2024)  
 CS6316: [Machine Learning](/teaching/cs6316_spring_24/index) (Spring 2024)  
 CS4501: [Optimization](/teaching/cs4501_fall_23/index) (Fall 2023)  
