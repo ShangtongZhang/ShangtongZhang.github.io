@@ -7,10 +7,11 @@ permalink: /teaching/cs6316_spring_25/index
 **This site is still under construction and may be subject to significant updates.**
 
 Machine Learning (ML) is, with no doubt, one of the most important aspects of artificial intelligence and has enjoyed great success in various domains. 
-In this course,
-we will cover the theoretical foundations of ML, as well as several representative algorithms. 
+In this course, we will cover basics of ML. Notably, this edition of the course will be much easier than [the previous edition](https://shangtongzhang.github.io/teaching/cs6316_spring_24/index).
+The previous edition focuses on statistical learning theory and is pretty mathy. 
+This edition is still mathy, but much less than the previous.
 
-## Logistics:
+## Logistics
 
 - Instructor: [Shangtong Zhang](/)
 - Location: Mechanical Engineering Building 339    
@@ -30,11 +31,15 @@ It is your responsibility to figure out which form to submit and where to submit
 Due to the giant amount of forms I receive, I am not able to check the status of individual forms.
 If you believe one form should have been signed, just send it again.
 
-## Topics:
-- The statistical learning framework (e.g., PAC learning, VC dimension, etc)
-  - [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/index.html) (UML)
-- First order optimization methods (e.g., gradient descent, mirror descent, etc)
-  - [First-Order Methods in Optimization](https://epubs.siam.org/doi/book/10.1137/1.9781611974997) (FOMO)
-- Stochastic approximation and reinforcement learning (e.g., Q-learning, linear TD, etc)
-- TBA
+## Teaching
+- Textbook: We will follow the [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) (PRML) textbook. 
+We aim to cover all chapters of the textbook. 
+So we will move forward roughly with 1 chapter per week.
+- Lectures: All lectures are whiteboards. To encourage attendance, there will be no slides or notes. But I am sure you can find everything in PRML. As a courtesy, I will try my best to record each lecture (though not guaranteed) and post the recordings via email. That being said, it might be good to factor this whiteboard format into consideration when enrolling in this course.
 
+## Grading
+There will be no exam and no final project. Grading is based only on homeworks, which are exercises of PRML.
+
+## Policies
+- Late Policy: You have a quota of 72 hours for late submission for all but the last task. Late submission within 8 hours (a grace period) has no penalty and does not consume the quota. No late submission is allowed for the last task because SEAS does not grant me a late submission privilege for the final grades. No exception will be made unless doctor notes or SDAC notifications are provided.
+- Regrading Policy: For every task, one regrading request is allowed.
