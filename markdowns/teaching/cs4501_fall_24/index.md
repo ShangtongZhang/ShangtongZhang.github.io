@@ -99,7 +99,7 @@ Homework 6 (Approximate Methods)
 
 Homework 7 (Policy Gradient)
 * ~~7.1 Reproduce Example 13.1 (stochastic policy)~~
-* 7.2 Reproduce Figure 13.1 (REINFORCE)
+* 7.2 Reproduce Figure 13.2 (REINFORCE)
 
 Rubrics for each task (5 pt)
 * Visual inspection of your generated figures (2 pt)
