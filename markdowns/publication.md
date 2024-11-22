@@ -6,6 +6,10 @@ permalink: /publication/
 
 <sup>*</sup> indicates equal contribution. <sup>†</sup> indicates equal advising. <u>Advisees</u> are underlined.
 
+- [Almost Sure Convergence Rates and Concentration of Stochastic Approximation and Reinforcement Learning with Markovian Noise](https://arxiv.org/abs/2411.13711).  
+<u>Xiaochi Qian</u><sup>*</sup>, <u>Zixuan Xie</u><sup>*</sup>, <u>Xinyu Liu</u><sup>*</sup>, **Shangtong Zhang**.  
+arXiv:2411.13711, 2024.  
+
 - [Efficient Policy Evaluation with Safety Constraint for Reinforcement Learning](https://arxiv.org/abs/2410.05655).  
 <u>Claire Chen</u><sup>*</sup>, <u>Shuze Liu</u><sup>*</sup>, **Shangtong Zhang**.  
 arXiv:2410.05655, 2024.
