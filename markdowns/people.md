@@ -54,8 +54,7 @@ permalink: /people/
       </td>
       <td>
         <p>
-          <!-- <a target="_blank" rel="noopener noreferrer" href=""> <b> Xinyu Liu </b> </a> -->
-          <a> <b> Zixuan Xie </b> </a>
+          <a target="_blank" rel="noopener noreferrer" href="https://wennyxie.github.io/"> <b> Zixuan Xie </b> </a>
           <br> Ph.D. student, Fall 2024 - Now
           <br> UVA Provost’s Fellowship
           <br> UVA Engineering Distinguished Fellowship
