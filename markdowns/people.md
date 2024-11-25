@@ -43,8 +43,7 @@ permalink: /people/
       </td>
       <td>
         <p>
-          <!-- <a target="_blank" rel="noopener noreferrer" href=""> <b> Xinyu Liu </b> </a> -->
-          <a> <b> Xinyu Liu </b> </a>
+          <a target="_blank" rel="noopener noreferrer" href="https://saodimao20.github.io/"> <b> Xinyu Liu </b> </a>
           <br> Ph.D. student, Fall 2024 - Now
         </p>
       </td>
