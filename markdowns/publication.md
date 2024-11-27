@@ -44,7 +44,7 @@ International Conference on Machine Learning (**ICML**), 2024.
 <u>Shuze Liu</u>, Shuhang Chen, **Shangtong Zhang**.   
 arXiv:2401.07844, 2024  
 
-- [Direct Gradient Temporal Difference Learning](https://arxiv.org/abs/2308.01170).  
+- [Revisiting a Design Choice in Gradient Temporal Difference Learning](https://arxiv.org/abs/2308.01170).  
 <u>Xiaochi Qian</u>, **Shangtong Zhang**.   
 arXiv:2308.01170, 2023  
 
