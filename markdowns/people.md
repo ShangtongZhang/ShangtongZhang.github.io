@@ -81,6 +81,7 @@ permalink: /people/
 
 ### Alumni with Theses or Publications
 * Xiaochi Qian (Undergraduate, 2022 - 2024)
-    - *Direct Gradient Temporal Difference Learning*
+    - *Almost Sure Convergence Rates and Concentration of Stochastic Approximation and Reinforcement Learning with Markovian Noise*
+    - *Revisiting a Design Choice in Gradient Temporal Difference Learning*
 * Steve Zhou (Undergraduate, 2023 - 2024)
     - *Stock Trading with Reinforcement Learning: Average Reward Agent and Alpha Preservation* (DMP thesis)
