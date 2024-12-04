@@ -11,7 +11,7 @@ This includes not only how you can benefit from me but also how I can benefit fr
 UVA CS has both thesis- and course-based master programs. If you are admitted and want to do your thesis / project with me, feel free to drop me a line. 
 Please email me only at the beginning of your first term at UVA, 
 otherwise it would be too late to start because the master program is very short. Plan early.
-* **UVA undergraduates**
+* **UVA undergraduates**  
 If you are a UVA undergraduate and want to do your capstone project / DMP thesis / ... with SIL, please feel free to contact me. I will then forward your dossier to my PhD students. They will decide whether they want to work with you, probably through additional interviews. You will primarily work with my PhD students and we will only have ad-hoc meetings.
 * **Research interns**   
 Due to limited bandwidth, I can only work with interns who have demonstrated records that are highly related to my research.
