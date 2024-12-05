@@ -74,11 +74,9 @@ permalink: /people/
   </tbody>
 </table>
 
-
-### Master Students
-* Kefan Song, Fall 2023 - Now
-
 ### Alumni with Theses or Publications
+* Kefan Song (Master, 2023 - 2024)
+    - *Group Fairness in Reinforcement Learning and Large Language Models* (Master thesis)
 * Licheng Luo (Master, 2023 - 2024)
     - *Policy Optimization in Robust Markov Decision Processes with Transition Gradient Theorem* (Master thesis)
 * Xiaochi Qian (Undergraduate, 2022 - 2024)
