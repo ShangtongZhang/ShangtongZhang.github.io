@@ -6,6 +6,10 @@ permalink: /publication/
 
 <sup>*</sup> indicates equal contribution. <sup>†</sup> indicates equal advising. <u>Advisees</u> are underlined.
 
+- [Efficient Multi-Policy Evaluation for Reinforcement Learning](https://arxiv.org/abs/2408.08706).  
+<u>Shuze Liu</u>, <u>Claire Chen</u>, **Shangtong Zhang**.  
+AAAI Conference on Artificial Intelligence (**AAAI**), 2025.  
+
 - [CRASH: Challenging Reinforcement-Learning Based Adversarial Scenarios For Safety Hardening](https://arxiv.org/abs/2411.16996).  
 Amar Kulkarni, **Shangtong Zhang**, Madhur Behl.  
 arXiv:2411.16996, 2024.  
@@ -30,10 +34,6 @@ arXiv:2409.19546, 2024.
 <u>Jiuqi Wang</u>, **Shangtong Zhang**.  
 arXiv:2409.12135, 2024.  
 
-- [Efficient Multi-Policy Evaluation for Reinforcement Learning](https://arxiv.org/abs/2408.08706).  
-<u>Shuze Liu</u>, <u>Claire Chen</u>, **Shangtong Zhang**.  
-arXiv:2408.08706, 2024.  
-
 - [Transformers Learn Temporal Difference Methods for In-Context Reinforcement Learning](https://arxiv.org/abs/2405.13861).  
 <u>Jiuqi Wang</u><sup>*</sup>, <u>Ethan Blaser</u><sup>*</sup>, Hadi Daneshmand, **Shangtong Zhang**.  
 arXiv:2405.13861, 2024.  
@@ -54,7 +54,7 @@ arXiv:2308.01170, 2023
 
 - [A New Challenge in Policy Evaluation](https://ojs.aaai.org/index.php/AAAI/article/view/26832).  
 **Shangtong Zhang**.  
-New Faculty Highlights at AAAI Conference on Artificial Intelligence (**AAAI**), 2023.  
+AAAI Conference on Artificial Intelligence (**AAAI**), 2023.  
 
 - [On the Convergence of SARSA with Linear Function Approximation](https://arxiv.org/abs/2202.06828).  
 **Shangtong Zhang**, Remi Tachet des Combes, Romain Laroche.  
@@ -80,8 +80,6 @@ International Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)
 - [Learning Expected Emphatic Traces for Deep RL](https://arxiv.org/abs/2107.05405).  
 Ray Jiang, **Shangtong Zhang**, Veronica Chelu, Adam White, Hado van Hasselt.  
 AAAI Conference on Artificial Intelligence (**AAAI**), 2022.  
-
-
 
 - [Breaking the Deadly Triad with a Target Network](https://arxiv.org/abs/2101.08862).  
 **Shangtong Zhang**, Hengshuai Yao, Shimon Whiteson.  
