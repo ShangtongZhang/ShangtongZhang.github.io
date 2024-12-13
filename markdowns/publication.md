@@ -4,7 +4,20 @@ title: Publications
 permalink: /publication/
 ---
 
-<sup>*</sup> indicates equal contribution. <sup>†</sup> indicates equal advising. <u>Advisees</u> are underlined.
+<sup>*</sup> indicates equal contribution. <sup>†</sup> indicates equal advising. <u>Advisees</u> are underlined. The works I like most are in deep blue.
+
+- [<span class=rep_pub>Almost Sure Convergence Rates and Concentration of Stochastic Approximation and Reinforcement Learning with Markovian Noise</span>](https://arxiv.org/abs/2411.13711).  
+<u>Xiaochi Qian</u><sup>*</sup>, <u>Zixuan Xie</u><sup>*</sup>, <u>Xinyu Liu</u><sup>*</sup>, **Shangtong Zhang**.  
+arXiv:2411.13711, 2024.  
+
+- [<span class=rep_pub>The ODE Method for Stochastic Approximation and Reinforcement Learning with Markovian Noise</span>](https://arxiv.org/abs/2401.07844).  
+<u>Shuze Liu</u>, Shuhang Chen, **Shangtong Zhang**.   
+arXiv:2401.07844, 2024  
+
+- [<span class=rep_pub>Transformers Learn Temporal Difference Methods for In-Context Reinforcement Learning</span>](https://arxiv.org/abs/2405.13861).  
+<u>Jiuqi Wang</u><sup>*</sup>, <u>Ethan Blaser</u><sup>*</sup>, Hadi Daneshmand, **Shangtong Zhang**.  
+arXiv:2405.13861, 2024.  
+**Best Paper Award** at the ICML Workshop on In-Context Learning, 2024.  
 
 - [Efficient Multi-Policy Evaluation for Reinforcement Learning](https://arxiv.org/abs/2408.08706).  
 <u>Shuze Liu</u>, <u>Claire Chen</u>, **Shangtong Zhang**.  
@@ -13,10 +26,6 @@ AAAI Conference on Artificial Intelligence (**AAAI**), 2025.
 - [CRASH: Challenging Reinforcement-Learning Based Adversarial Scenarios For Safety Hardening](https://arxiv.org/abs/2411.16996).  
 Amar Kulkarni, **Shangtong Zhang**, Madhur Behl.  
 arXiv:2411.16996, 2024.  
-
-- [Almost Sure Convergence Rates and Concentration of Stochastic Approximation and Reinforcement Learning with Markovian Noise](https://arxiv.org/abs/2411.13711).  
-<u>Xiaochi Qian</u><sup>*</sup>, <u>Zixuan Xie</u><sup>*</sup>, <u>Xinyu Liu</u><sup>*</sup>, **Shangtong Zhang**.  
-arXiv:2411.13711, 2024.  
 
 - [Efficient Policy Evaluation with Safety Constraint for Reinforcement Learning](https://arxiv.org/abs/2410.05655).  
 <u>Claire Chen</u><sup>*</sup>, <u>Shuze Liu</u><sup>*</sup>, **Shangtong Zhang**.  
@@ -34,19 +43,11 @@ arXiv:2409.19546, 2024.
 <u>Jiuqi Wang</u>, **Shangtong Zhang**.  
 arXiv:2409.12135, 2024.  
 
-- [Transformers Learn Temporal Difference Methods for In-Context Reinforcement Learning](https://arxiv.org/abs/2405.13861).  
-<u>Jiuqi Wang</u><sup>*</sup>, <u>Ethan Blaser</u><sup>*</sup>, Hadi Daneshmand, **Shangtong Zhang**.  
-arXiv:2405.13861, 2024.  
-Contributed talk at the RLC Workshop on Training Agents with Foundation Models, 2024.  
-**Best Paper Award** at the ICML Workshop on In-Context Learning, 2024.  
 
 - [Efficient Policy Evaluation with Offline Data Informed Behavior Policy Design](https://arxiv.org/abs/2301.13734).  
 <u>Shuze Liu</u>, **Shangtong Zhang**.   
 International Conference on Machine Learning (**ICML**), 2024. 
 
-- [The ODE Method for Stochastic Approximation and Reinforcement Learning with Markovian Noise](https://arxiv.org/abs/2401.07844).  
-<u>Shuze Liu</u>, Shuhang Chen, **Shangtong Zhang**.   
-arXiv:2401.07844, 2024  
 
 - [Revisiting a Design Choice in Gradient Temporal Difference Learning](https://arxiv.org/abs/2308.01170).  
 <u>Xiaochi Qian</u>, **Shangtong Zhang**.   
