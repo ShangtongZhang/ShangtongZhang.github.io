@@ -4,17 +4,17 @@ title: Publications
 permalink: /publication/
 ---
 
-<sup>*</sup> indicates equal contribution. <sup>†</sup> indicates equal advising. <u>Advisees</u> are underlined. The works I like most are in black.
+<sup>*</sup> indicates equal contribution. <sup>†</sup> indicates equal advising. <u>Advisees</u> are underlined. &#127881; indicates the work I like most.
 
-- [<span class=rep_pub>Almost Sure Convergence Rates and Concentration of Stochastic Approximation and Reinforcement Learning with Markovian Noise</span>](https://arxiv.org/abs/2411.13711).  
+- [Almost Sure Convergence Rates and Concentration of Stochastic Approximation and Reinforcement Learning with Markovian Noise](https://arxiv.org/abs/2411.13711). &#127881;  
 <u>Xiaochi Qian</u><sup>*</sup>, <u>Zixuan Xie</u><sup>*</sup>, <u>Xinyu Liu</u><sup>*</sup>, **Shangtong Zhang**.  
 arXiv:2411.13711, 2024.  
 
-- [<span class=rep_pub>The ODE Method for Stochastic Approximation and Reinforcement Learning with Markovian Noise</span>](https://arxiv.org/abs/2401.07844).  
+- [The ODE Method for Stochastic Approximation and Reinforcement Learning with Markovian Noise](https://arxiv.org/abs/2401.07844). &#127881;  
 <u>Shuze Liu</u>, Shuhang Chen, **Shangtong Zhang**.   
 arXiv:2401.07844, 2024  
 
-- [<span class=rep_pub>Transformers Learn Temporal Difference Methods for In-Context Reinforcement Learning</span>](https://arxiv.org/abs/2405.13861).  
+- [Transformers Learn Temporal Difference Methods for In-Context Reinforcement Learning](https://arxiv.org/abs/2405.13861). &#127881;  
 <u>Jiuqi Wang</u><sup>*</sup>, <u>Ethan Blaser</u><sup>*</sup>, Hadi Daneshmand, **Shangtong Zhang**.  
 arXiv:2405.13861, 2024.  
 **Best Paper Award** at the ICML Workshop on In-Context Learning, 2024.  
