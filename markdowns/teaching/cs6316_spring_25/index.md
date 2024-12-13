@@ -14,7 +14,7 @@ This edition is still mathy, but much less than the previous.
 ## Logistics
 
 - Instructor: [Shangtong Zhang](/)
-- Location: Mechanical Engineering Building 339    
+- Location: Rice Hall 340      
 - Time: Tuesday & Thursday, 9:30 - 10:45  
 - Office Hours: 
   - Shangtong: TBA (Rice Hall 422)

@@ -4,7 +4,7 @@ title: Publications
 permalink: /publication/
 ---
 
-<sup>*</sup> indicates equal contribution. <sup>†</sup> indicates equal advising. <u>Advisees</u> are underlined. The works I like most are in deep blue.
+<sup>*</sup> indicates equal contribution. <sup>†</sup> indicates equal advising. <u>Advisees</u> are underlined. The works I like most are in black.
 
 - [<span class=rep_pub>Almost Sure Convergence Rates and Concentration of Stochastic Approximation and Reinforcement Learning with Markovian Noise</span>](https://arxiv.org/abs/2411.13711).  
 <u>Xiaochi Qian</u><sup>*</sup>, <u>Zixuan Xie</u><sup>*</sup>, <u>Xinyu Liu</u><sup>*</sup>, **Shangtong Zhang**.  
