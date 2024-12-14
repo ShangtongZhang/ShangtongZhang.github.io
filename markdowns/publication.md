@@ -1,18 +1,18 @@
 ---
-layout: info
+layout: publications 
 title: Publications 
 permalink: /publication/
 ---
 
 <sup>*</sup> indicates equal contribution. <sup>†</sup> indicates equal advising. <u>Advisees</u> are underlined. &#127881; indicates the works I like most.
 
-- [arXiv 2024] [Almost Sure Convergence Rates and Concentration of Stochastic Approximation and Reinforcement Learning with Markovian Noise](https://arxiv.org/abs/2411.13711). &#127881;  
+- [arXiv 2024] [Almost Sure Convergence Rates and Concentration of Stochastic Approximation and Reinforcement Learning with Markovian Noise](https://arxiv.org/abs/2411.13711).  
 <u>Xiaochi Qian</u><sup>*</sup>, <u>Zixuan Xie</u><sup>*</sup>, <u>Xinyu Liu</u><sup>*</sup>, **Shangtong Zhang**.  
 
-- [arXiv 2024] [The ODE Method for Stochastic Approximation and Reinforcement Learning with Markovian Noise](https://arxiv.org/abs/2401.07844). &#127881;  
+- [arXiv 2024] [The ODE Method for Stochastic Approximation and Reinforcement Learning with Markovian Noise](https://arxiv.org/abs/2401.07844).  
 <u>Shuze Liu</u>, Shuhang Chen, **Shangtong Zhang**.   
 
-- [arXiv 2024] [Transformers Learn Temporal Difference Methods for In-Context Reinforcement Learning](https://arxiv.org/abs/2405.13861). &#127881;  
+- [arXiv 2024] [Transformers Learn Temporal Difference Methods for In-Context Reinforcement Learning](https://arxiv.org/abs/2405.13861).   
 <u>Jiuqi Wang</u><sup>*</sup>, <u>Ethan Blaser</u><sup>*</sup>, Hadi Daneshmand, **Shangtong Zhang**.  
 **Best Paper Award** at the ICML Workshop on In-Context Learning, 2024.  
 
