@@ -4,7 +4,8 @@ title: Publications
 permalink: /publication/
 ---
 
-<sup>*</sup> indicates equal contribution. <sup>†</sup> indicates equal advising. <u>Advisees</u> are underlined. &#127881; indicates the works I like most.
+<sup>*</sup> indicates equal contribution.  <u>Advisees</u> are underlined. &#127881; indicates the works I like most.
+<!-- <sup>†</sup> indicates equal advising. -->
 
 - [arXiv 2024] [Almost Sure Convergence Rates and Concentration of Stochastic Approximation and Reinforcement Learning with Markovian Noise](https://arxiv.org/abs/2411.13711).  
 <u>Xiaochi Qian</u><sup>*</sup>, <u>Zixuan Xie</u><sup>*</sup>, <u>Xinyu Liu</u><sup>*</sup>, **Shangtong Zhang**.  
@@ -50,7 +51,7 @@ Amar Kulkarni, **Shangtong Zhang**, Madhur Behl.
 Michael Mathieu<sup>*</sup>, Sherjil Ozair<sup>*</sup>, Srivatsan Srinivasan<sup>*</sup>, Caglar Gulcehre<sup>*</sup>, **Shangtong Zhang**<sup>*</sup>, Ray Jiang<sup>*</sup>, Tom Le Paine<sup>*</sup>, Richard Powell, Konrad Zolna, Julian Schrittwieser, David Choi, Petko Georgiev, Daniel Toyama, Aja Huang, Roman Ring, Igor Babuschkin, Timo Ewalds, Mahyar Bordbar, Sarah Henderson, Sergio Gomez Colmenarejo, Aaron van den Oord, Wojciech Marian Czarnecki, Nando de Freitas, Oriol Vinyals.  
 
 - [JMLR 2022] [Global Optimality and Finite Sample Analysis of Softmax Off-Policy Actor Critic under State Distribution Mismatch](https://arxiv.org/abs/2111.02997).  
-**Shangtong Zhang**, Remi Tachet des Combes<sup>†</sup>, Romain Laroche<sup>†</sup>.  
+**Shangtong Zhang**, Remi Tachet des Combes, Romain Laroche.  
 
 - [JMLR 2022] [Truncated Emphatic Temporal Difference Methods for Prediction and Control](https://arxiv.org/abs/2108.05338).  
 **Shangtong Zhang**, Shimon Whiteson.  
