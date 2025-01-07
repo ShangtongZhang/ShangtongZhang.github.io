@@ -14,10 +14,12 @@ This edition is still mathy, but much less than the previous.
 ## Logistics
 
 - Instructor: [Shangtong Zhang](/)
+- TA: [Shuze Liu](https://shuzeliu.com)
 - Location: Rice Hall 340      
 - Time: Tuesday & Thursday, 9:30 - 10:45  
 - Office Hours: 
-  - Shangtong: TBA (Rice Hall 422)
+  - Shangtong: Tuesday & Thursday, 10:45 - 11:15 (Rice Hall 422)
+  - Shuze: TBA
 - UVACanvas: [25S CS6316 Machine Learning]()
 - Prerequisite:
   - (Basics of) Probability, Linear Algebra, Calculus, and Python
@@ -37,8 +39,14 @@ We aim to cover all chapters of the textbook.
 So we will move forward roughly with 1 chapter per week.
 - Lectures: All lectures are whiteboards. To encourage attendance, there will be no slides or notes. But I am sure you can find everything in PRML. As a courtesy, I will try my best to record each lecture (though not guaranteed) and post the recordings via email. That being said, it might be good to factor this whiteboard format into consideration when enrolling in this course.
 
-## Grading
-There will be no exam and no final project. Grading is based only on homeworks, which are exercises of PRML.
+## Roadmap
+- Week of Jan 13:
+- Week of Jan 20:
+- Week of Jan 27:
+- Week of Feb 3:
+- Week of Feb 10:
+- Week of Feb 17:
+- Week of Feb 24:
 
 ## Policies
 - Late Policy: You have a quota of 72 hours for late submission for all but the last task. Late submission within 8 hours (a grace period) has no penalty and does not consume the quota. No late submission is allowed for the last task because SEAS does not grant me a late submission privilege for the final grades. No exception will be made unless doctor notes or SDAC notifications are provided.
