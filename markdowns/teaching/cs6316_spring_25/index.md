@@ -40,13 +40,24 @@ So we will move forward roughly with 1 chapter per week.
 - Lectures: All lectures are whiteboards. To encourage attendance, there will be no slides or notes. But I am sure you can find everything in PRML. As a courtesy, I will try my best to record each lecture (though not guaranteed) and post the recordings via email. That being said, it might be good to factor this whiteboard format into consideration when enrolling in this course.
 
 ## Roadmap
-- Week of Jan 13:
-- Week of Jan 20:
-- Week of Jan 27:
-- Week of Feb 3:
-- Week of Feb 10:
-- Week of Feb 17:
-- Week of Feb 24:
+- Week of Jan 13: Chapter 1
+- Week of Jan 20: Chapter 2
+- Week of Jan 27: Chapter 3
+- Week of Feb 3: Chapter 4
+  - HW1: Figures 1.2, 1.3, 1.4, 1.5, 1.6, 1.7, 1.8
+- Week of Feb 10: Chapter 5
+  - 
+- Week of Feb 17: Chapter 6
+- Week of Feb 24: Chapter 7
+- Week of Mar 3: Chapter 8
+- Week of Mar 10: Spring recess, no course
+- Week of Mar 17: Chapter 9
+- Week of Mar 24: Chapter 10
+- Week of Mar 31: Chapter 11
+- Week of Apr 7: Chapter 12
+- Week of Apr 14: Chapter 13
+- Week of Apr 21: Chapter 14
+- Apr 29: Last lecture
 
 ## Policies
 - Late Policy: You have a quota of 72 hours for late submission for all but the last task. Late submission within 8 hours (a grace period) has no penalty and does not consume the quota. No late submission is allowed for the last task because SEAS does not grant me a late submission privilege for the final grades. No exception will be made unless doctor notes or SDAC notifications are provided.
