@@ -46,7 +46,6 @@ So we will move forward roughly with 1 chapter per week.
 - Week of Feb 3: Chapter 4
   - HW1: Figures 1.2, 1.3, 1.4, 1.5, 1.6, 1.7, 1.8
 - Week of Feb 10: Chapter 5
-  - 
 - Week of Feb 17: Chapter 6
 - Week of Feb 24: Chapter 7
 - Week of Mar 3: Chapter 8
