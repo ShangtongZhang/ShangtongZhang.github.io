@@ -18,7 +18,7 @@ This edition is still mathy, but much less than the previous.
 - Office Hours: 
   - Shangtong: Tuesday & Thursday, 10:45 - 11:15 (Rice Hall 422)
   - Shuze: TBA
-- UVACanvas: [25S CS6316 Machine Learning]()
+- UVACanvas: [25S CS6316 Machine Learning](https://canvas.its.virginia.edu/courses/132919)
 - Prerequisite:
   - (Basics of) Probability, Linear Algebra, Calculus, and Python
 - Undergraduates: I am in general not against undergraduates taking this course. If you are a UVA undergraduate and believe you fulfill all the prerequisites and the textbook seems interesting and readable to you, 
