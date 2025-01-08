@@ -38,7 +38,10 @@ So we will move forward roughly with 1 chapter per week.
 - Lectures: All lectures are whiteboards. To encourage attendance, there will be no slides or notes. But I am sure you can find everything in PRML. As a courtesy, I will try my best to record each lecture (though not guaranteed) and post the recordings via email. That being said, it might be good to factor this whiteboard format into consideration when enrolling in this course.
 
 ## Roadmap
+You are expected to read each chapter for each week. 
+
 - Week of Jan 13: Chapter 1
+  - different paradigms of ML, curve fitting example, frequentisit v.s. Bayesian, model selection, curse of dimensionality
 - Week of Jan 20: Chapter 2
 - Week of Jan 27: Chapter 3
 - Week of Feb 3: Chapter 4
@@ -70,8 +73,6 @@ So we will move forward roughly with 1 chapter per week.
  
 ## Grading
 There are 13 assignments and each assignment has 8 points. So 104 points in total. I will use the standard scheme to translate the points into letter grades and will curve if necessary. There is no exam and no project. The assignments are the only way to gain points. The deadline for each assignment is 11:59pm Sunday. For example, the deadline of HW1 is 11:59pm Feb 9. 
-
-
 
 The assignment can be either to reproduce figures or to solve exercises. 
 - For figure assignments, you need to upload a single Jupyter Notebook file (.ipynb) containing the generated figures and the code. The code needs to be executable.
