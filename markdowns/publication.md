@@ -14,7 +14,7 @@ permalink: /publication/
 
 - <span class="rep_pub"></span> [arXiv 2024] [Transformers Learn Temporal Difference Methods for In-Context Reinforcement Learning](https://arxiv.org/abs/2405.13861).   
 <u>Jiuqi Wang</u><sup>*</sup>, <u>Ethan Blaser</u><sup>*</sup>, Hadi Daneshmand, **Shangtong Zhang**.  
-**Best Paper Award** at the ICML Workshop on In-Context Learning, 2024.  
+**QuantCo Spotlight Award** at the ICML Workshop on In-Context Learning, 2024.  
 
 - [AAAI 2025] [Efficient Multi-Policy Evaluation for Reinforcement Learning](https://arxiv.org/abs/2408.08706).  
 <u>Shuze Liu</u>, <u>Claire Chen</u>, **Shangtong Zhang**.  
