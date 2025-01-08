@@ -41,7 +41,7 @@ So we will move forward roughly with 1 chapter per week.
 You are expected to read each chapter for each week. 
 
 - Week of Jan 13: Chapter 1
-  - different paradigms of ML, curve fitting example, frequentisit v.s. Bayesian, model selection, curse of dimensionality
+  - different paradigms of ML, curve fitting example, frequentisit v.s. Bayesian, model selection, curse of dimensionality, decision theory
 - Week of Jan 20: Chapter 2
 - Week of Jan 27: Chapter 3
 - Week of Feb 3: Chapter 4
