@@ -17,7 +17,7 @@ This edition is still mathy, but much less than the previous.
 - Time: Tuesday & Thursday, 9:30 - 10:45  
 - Office Hours: 
   - Shangtong: Tuesday & Thursday, 10:45 - 11:15 (Rice Hall 422)
-  - Shuze: TBA
+  - Shuze: Monday, 15:30 - 16:30
 - UVACanvas: [25S CS6316 Machine Learning](https://canvas.its.virginia.edu/courses/132919)
 - Prerequisite:
   - (Basics of) Probability, Linear Algebra, Calculus, and Python
