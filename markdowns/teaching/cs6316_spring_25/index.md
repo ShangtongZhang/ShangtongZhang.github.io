@@ -17,7 +17,7 @@ This edition is still mathy, but much less than the previous.
 - Time: Tuesday & Thursday, 9:30 - 10:45  
 - Office Hours: 
   - Shangtong: Tuesday & Thursday, 10:45 - 11:15 (Rice Hall 422)
-  - Shuze: Monday, 15:30 - 16:30
+  - Shuze: Monday, 15:30 - 16:30, [Zoom](https://virginia.zoom.us/j/99478615149?pwd=bauulK8wplaTP7z4eUVwCEfStGNrMh.1) with in-person meetings upon request
 - UVACanvas: [25S CS6316 Machine Learning](https://canvas.its.virginia.edu/courses/132919)
 - Prerequisite:
   - (Basics of) Probability, Linear Algebra, Calculus, and Python
@@ -35,7 +35,7 @@ If you believe one form should have been signed, just send it again.
 - Textbook: We will follow the [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) (PRML) textbook. 
 We aim to cover all chapters of the textbook. 
 So we will move forward roughly with 1 chapter per week.
-- Lectures: All lectures are whiteboards. To encourage attendance, there will be no slides or notes. But I am sure you can find everything in PRML. As a courtesy, I will try my best to record each lecture (though not guaranteed) and post the recordings via email. That being said, it might be good to factor this whiteboard format into consideration when enrolling in this course.
+- Lectures: **All lectures are whiteboards.** To encourage attendance, there will be no slides or notes. But I am sure you can find everything in PRML. As a courtesy, I will try my best to record each lecture (though not guaranteed) and post the recordings via email. That being said, it might be good to factor this whiteboard format into consideration when enrolling in this course.
 
 ## Roadmap
 You are expected to read each chapter for each week. 
