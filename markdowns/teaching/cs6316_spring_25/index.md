@@ -29,7 +29,7 @@ so please exercise your judgment.
 Different schools and colleges have different required forms.
 It is your responsibility to figure out which form to submit and where to submit it - this is another hidden prerequisite for this course.
 Due to the giant amount of forms I receive, I am not able to check the status of individual forms.
-If you believe one form should have been signed, just send it again.
+If you believe one form should have been signed, just send it again. **The classroom Rice 340 has reached its capacity of 38 students according to the fire code. At the moment only the fire department is able to overwrite this and I cannot enrol students even manually.** 
 
 ## Teaching
 - Textbook: We will follow the [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) (PRML) textbook. 
