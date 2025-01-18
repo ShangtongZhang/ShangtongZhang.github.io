@@ -18,6 +18,7 @@ permalink: /publication/
 
 - [AAAI 2025] [Efficient Multi-Policy Evaluation for Reinforcement Learning](https://arxiv.org/abs/2408.08706).  
 <u>Shuze Liu</u>, <u>Claire Chen</u>, **Shangtong Zhang**.  
+**Oral Presentation**  
 
 - [arXiv 2024] [CRASH: Challenging Reinforcement-Learning Based Adversarial Scenarios For Safety Hardening](https://arxiv.org/abs/2411.16996).  
 Amar Kulkarni, **Shangtong Zhang**, Madhur Behl.  
