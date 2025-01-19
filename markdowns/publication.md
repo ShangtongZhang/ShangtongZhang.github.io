@@ -6,11 +6,12 @@ permalink: /publication/
 
 <sup>*</sup> indicates equal contribution.  <u>Advisees</u> are underlined. <sup>†</sup> indicates equal advising.  &#127881; indicates the works I like most.  
 
-- <span class="rep_pub"></span> [arXiv 2024] [Almost Sure Convergence Rates and Concentration of Stochastic Approximation and Reinforcement Learning with Markovian Noise](https://arxiv.org/abs/2411.13711).  
-<u>Xiaochi Qian</u><sup>*</sup>, <u>Zixuan Xie</u><sup>*</sup>, <u>Xinyu Liu</u><sup>*</sup>, **Shangtong Zhang**.  
 
 - <span class="rep_pub"></span> [JMLR 2025] [The ODE Method for Stochastic Approximation and Reinforcement Learning with Markovian Noise](https://arxiv.org/abs/2401.07844).  
-<u>Shuze Liu</u>, Shuhang Chen, **Shangtong Zhang**.   
+<u>Shuze Liu</u>, Shuhang Chen, **Shangtong Zhang**.
+
+- <span class="rep_pub"></span> [arXiv 2024] [Almost Sure Convergence Rates and Concentration of Stochastic Approximation and Reinforcement Learning with Markovian Noise](https://arxiv.org/abs/2411.13711).  
+<u>Xiaochi Qian</u><sup>*</sup>, <u>Zixuan Xie</u><sup>*</sup>, <u>Xinyu Liu</u><sup>*</sup>, **Shangtong Zhang**.  
 
 - <span class="rep_pub"></span> [arXiv 2024] [Transformers Learn Temporal Difference Methods for In-Context Reinforcement Learning](https://arxiv.org/abs/2405.13861).   
 <u>Jiuqi Wang</u><sup>*</sup>, <u>Ethan Blaser</u><sup>*</sup>, Hadi Daneshmand, **Shangtong Zhang**.  
