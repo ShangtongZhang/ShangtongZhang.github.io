@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 This page lists selected publications grouped by topics. Please refer to my [CV](/assets/pdf/resume/resume.pdf) for a full list of publications in a reverse chronological order.  
-<sup>*</sup> indicates equal contribution.  <u>Advisees</u> are underlined. <sup>†</sup> indicates equal advising.  &#127881; indicates the works I like most.  
+<sup>*</sup> indicates equal contribution.  <u>Advisees</u> are underlined. <sup>†</sup> indicates equal advising.  &#127881; indicates highlighted works.  
 
 #### Stochastic Approximation Theory and Convergence of Reinforcement Learning 
 - <span class="rep_pub"></span> [JMLR 2025] [The ODE Method for Stochastic Approximation and Reinforcement Learning with Markovian Noise](https://arxiv.org/abs/2401.07844).  
@@ -14,8 +14,8 @@ This page lists selected publications grouped by topics. Please refer to my [CV]
 - <span class="rep_pub"></span> [arXiv 2024] [Almost Sure Convergence Rates and Concentration of Stochastic Approximation and Reinforcement Learning with Markovian Noise](https://arxiv.org/abs/2411.13711).  
 <u>Xiaochi Qian</u><sup>*</sup>, <u>Zixuan Xie</u><sup>*</sup>, <u>Xinyu Liu</u><sup>*</sup>, **Shangtong Zhang**.  
 
-<!-- - [arXiv 2024] [Almost Sure Convergence of Average Reward Temporal Difference Learning](https://arxiv.org/abs/2409.19546).   -->
-<!-- <u>Ethan Blaser</u>, **Shangtong Zhang**.   -->
+- [arXiv 2024] [Almost Sure Convergence of Average Reward Temporal Difference Learning](https://arxiv.org/abs/2409.19546).  
+<u>Ethan Blaser</u>, **Shangtong Zhang**.  
 
 - [arXiv 2024] [Almost Sure Convergence of Linear Temporal Difference Learning with Arbitrary Features](https://arxiv.org/abs/2409.12135).  
 <u>Jiuqi Wang</u>, **Shangtong Zhang**.  
@@ -85,6 +85,15 @@ Michael Mathieu<sup>*</sup>, Sherjil Ozair<sup>*</sup>, Srivatsan Srinivasan<sup
 - [NeurIPS 2019] [Generalized Off-Policy Actor-Critic](https://arxiv.org/abs/1903.11329).  
 **Shangtong Zhang**, Wendelin Boehmer, Shimon Whiteson.  
 
+#### Risk-Averse Reinforcement Learning
+
+- [AAAI 2021] [Mean-Variance Policy Iteration for Risk-Averse Reinforcement Learning](https://arxiv.org/abs/2004.10888).  
+**Shangtong Zhang**, Bo Liu, Shimon Whiteson.  
+
+#### Predictive Knowledge and General Value Function
+
+- [NeurIPS 2020] [Learning Retrospective Knowledge with Reverse Reinforcement Learning](https://arxiv.org/abs/2007.06703).  
+**Shangtong Zhang**, Vivek Veeriah, Shimon Whiteson.  
 
 #### Hierarchical Reinforcement Learning
 
@@ -99,7 +108,11 @@ Michael Mathieu<sup>*</sup>, Sherjil Ozair<sup>*</sup>, Srivatsan Srinivasan<sup
 **Shangtong Zhang**, Borislav Mavrin, Linglong Kong, Bo Liu, Hengshuai Yao.  
 **Oral Presentation**
 
-#### Risk-Averse Reinforcement Learning
+#### A Deeper Look at Something
 
-- [AAAI 2021] [Mean-Variance Policy Iteration for Risk-Averse Reinforcement Learning](https://arxiv.org/abs/2004.10888).  
-**Shangtong Zhang**, Bo Liu, Shimon Whiteson.  
+- [AAMAS 2022] [A Deeper Look at Discounting Mismatch in Actor-Critic Algorithms](https://arxiv.org/abs/2010.01069).  
+**Shangtong Zhang**, Romain Laroche, Harm van Seijen, Shimon Whiteson, Remi Tachet des Combes.  
+**Oral Presentation**
+
+- [Deep RL Symposium, NIPS 2017] [A Deeper Look at Experience Replay](https://arxiv.org/abs/1712.01275).  
+**Shangtong Zhang**, Richard S. Sutton.  
