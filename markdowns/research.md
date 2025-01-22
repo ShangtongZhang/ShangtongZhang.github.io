@@ -8,10 +8,10 @@ This page lists selected publications grouped by topics. Please refer to my [CV]
 <sup>*</sup> indicates equal contribution.  <u>Advisees</u> are underlined. <sup>†</sup> indicates equal advising.  &#127881; indicates highlighted works.  
 
 #### Stochastic Approximation Theory and Convergence of Reinforcement Learning 
-- <span class="rep_pub"></span> [JMLR 2025] [The ODE Method for Stochastic Approximation and Reinforcement Learning with Markovian Noise](https://arxiv.org/abs/2401.07844).  
+- <span class="rep_pub"></span>[JMLR 2025] [The ODE Method for Stochastic Approximation and Reinforcement Learning with Markovian Noise](https://arxiv.org/abs/2401.07844).  
 <u>Shuze Liu</u>, Shuhang Chen, **Shangtong Zhang**.
 
-- <span class="rep_pub"></span> [arXiv 2024] [Almost Sure Convergence Rates and Concentration of Stochastic Approximation and Reinforcement Learning with Markovian Noise](https://arxiv.org/abs/2411.13711).  
+- <span class="rep_pub"></span>[arXiv 2024] [Almost Sure Convergence Rates and Concentration of Stochastic Approximation and Reinforcement Learning with Markovian Noise](https://arxiv.org/abs/2411.13711).  
 <u>Xiaochi Qian</u><sup>*</sup>, <u>Zixuan Xie</u><sup>*</sup>, <u>Xinyu Liu</u><sup>*</sup>, **Shangtong Zhang**.  
 
 - [arXiv 2024] [Almost Sure Convergence of Average Reward Temporal Difference Learning](https://arxiv.org/abs/2409.19546).  
@@ -28,7 +28,7 @@ This page lists selected publications grouped by topics. Please refer to my [CV]
 
 #### In-Context Reinforcement Learning
 
-- <span class="rep_pub"></span> [ICLR 2025] [Transformers Learn Temporal Difference Methods for In-Context Reinforcement Learning](https://arxiv.org/abs/2405.13861).   
+- <span class="rep_pub"></span>[ICLR 2025] [Transformers Learn Temporal Difference Methods for In-Context Reinforcement Learning](https://arxiv.org/abs/2405.13861).   
 <u>Jiuqi Wang</u><sup>*</sup>, <u>Ethan Blaser</u><sup>*</sup>, Hadi Daneshmand, **Shangtong Zhang**.  
 **QuantCo Spotlight Award** at the ICML Workshop on In-Context Learning, 2024.  
 
@@ -44,7 +44,7 @@ This page lists selected publications grouped by topics. Please refer to my [CV]
 <u>Shuze Liu</u>, <u>Claire Chen</u>, **Shangtong Zhang**.  
 **Oral Presentation**  
 
-- <span class="rep_pub"></span> [ICML 2024] [Efficient Policy Evaluation with Offline Data Informed Behavior Policy Design](https://arxiv.org/abs/2301.13734).  
+- <span class="rep_pub"></span>[ICML 2024] [Efficient Policy Evaluation with Offline Data Informed Behavior Policy Design](https://arxiv.org/abs/2301.13734).  
 <u>Shuze Liu</u>, **Shangtong Zhang**.   
 
 - [AAAI 2023] [A New Challenge in Policy Evaluation](https://ojs.aaai.org/index.php/AAAI/article/view/26832).  
@@ -55,7 +55,7 @@ This page lists selected publications grouped by topics. Please refer to my [CV]
 - [arXiv 2024] [CRASH: Challenging Reinforcement-Learning Based Adversarial Scenarios For Safety Hardening](https://arxiv.org/abs/2411.16996).  
 Amar Kulkarni, **Shangtong Zhang**, Madhur Behl.  
 
-- <span class="rep_pub"></span> [arXiv 2023] [StarCraft II Unplugged: Large Scale Offline Reinforcement Learning](https://arxiv.org/abs/2308.03526)  
+- <span class="rep_pub"></span>[arXiv 2023] [StarCraft II Unplugged: Large Scale Offline Reinforcement Learning](https://arxiv.org/abs/2308.03526)  
 Michael Mathieu<sup>*</sup>, Sherjil Ozair<sup>*</sup>, Srivatsan Srinivasan<sup>*</sup>, Caglar Gulcehre<sup>*</sup>, **Shangtong Zhang**<sup>*</sup>, Ray Jiang<sup>*</sup>, Tom Le Paine<sup>*</sup>, Richard Powell, Konrad Zolna, Julian Schrittwieser, David Choi, Petko Georgiev, Daniel Toyama, Aja Huang, Roman Ring, Igor Babuschkin, Timo Ewalds, Mahyar Bordbar, Sarah Henderson, Sergio Gomez Colmenarejo, Aaron van den Oord, Wojciech Marian Czarnecki, Nando de Freitas, Oriol Vinyals.  
 
 #### Breaking the Deadly Triad
