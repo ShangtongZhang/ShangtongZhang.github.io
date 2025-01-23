@@ -46,13 +46,13 @@ You are expected to read each chapter for each week.
   - Gaussian distribution, exponential family, conjugate priors
 - Week of Jan 27: Chapter 3
 - Week of Feb 3: Chapter 4
-  - HW1: Figures 1.2, 1.3, 1.4, 1.5
+  - HW1: Figures 1.4, 1.5
 - Week of Feb 10: Chapter 5
   - HW2: Figures 3.5, 3.6
 - Week of Feb 17: Chapter 6
-  - HW3: Exercises 4.7, 4.12, 4.13, 4.17
+  - HW3: Exercises 4.13, 4.17
 - Week of Feb 24: Chapter 7
-  - HW4: Exercises 5.2, 5.5, 5.6
+  - HW4: Exercises 5.2, 5.5
 - Week of Mar 3: Chapter 8
   - HW5: TBA
 - Week of Mar 10: Spring recess, no course
