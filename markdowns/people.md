@@ -80,6 +80,6 @@ permalink: /people/
     - *Policy Optimization in Robust Markov Decision Processes with Transition Gradient Theorem* (Master thesis)
 * Xiaochi Qian (Undergraduate, 2022 - 2024)
     - *Almost Sure Convergence Rates and Concentration of Stochastic Approximation and Reinforcement Learning with Markovian Noise*
-    - *Revisiting a Design Choice in Gradient Temporal Difference Learning*
+    - *Revisiting a Design Choice in Gradient Temporal Difference Learning* (ICLR 2025)
 * Steve Zhou (Undergraduate, 2023 - 2024)
     - *Stock Trading with Reinforcement Learning: Average Reward Agent and Alpha Preservation* (DMP thesis)
