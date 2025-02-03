@@ -60,6 +60,9 @@ Michael Mathieu<sup>*</sup>, Sherjil Ozair<sup>*</sup>, Srivatsan Srinivasan<sup
 
 #### Breaking the Deadly Triad
 
+- <span class="rep_pub"></span>[ArXiv 2025] [Linear Q-Learning Does Not Diverge: Convergence Rates to a Bounded Set](https://arxiv.org/abs/2501.19254).  
+Xinyu Liu<sup>\*</sup>, Zixuan Xie<sup>\*</sup>, Shangtong Zhang.
+
 - [ICLR 2025] [Revisiting a Design Choice in Gradient Temporal Difference Learning](https://arxiv.org/abs/2308.01170).  
 <u>Xiaochi Qian</u>, **Shangtong Zhang**. 
 
