@@ -14,7 +14,7 @@ This page lists selected publications grouped by topics. Please refer to my [CV]
 - <span class="rep_pub"></span>[arXiv 2024] [Almost Sure Convergence Rates and Concentration of Stochastic Approximation and Reinforcement Learning with Markovian Noise](https://arxiv.org/abs/2411.13711).  
 <u>Xiaochi Qian</u><sup>*</sup>, <u>Zixuan Xie</u><sup>*</sup>, <u>Xinyu Liu</u><sup>*</sup>, **Shangtong Zhang**.  
 
-- [arXiv 2024] [Almost Sure Convergence of Average Reward Temporal Difference Learning](https://arxiv.org/abs/2409.19546).  
+- [arXiv 2024] [Asymptotic and Finite Sample Analysis of Nonexpansive Stochastic Approximations with Markovian Noise](https://arxiv.org/abs/2409.19546).  
 <u>Ethan Blaser</u>, **Shangtong Zhang**.  
 
 - [arXiv 2024] [Almost Sure Convergence of Linear Temporal Difference Learning with Arbitrary Features](https://arxiv.org/abs/2409.12135).  
