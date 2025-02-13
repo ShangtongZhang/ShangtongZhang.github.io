@@ -41,13 +41,13 @@ So we will move forward roughly with 1 chapter per week.
 You are expected to read each chapter for each week. 
 
 - Week of Jan 13: Chapter 1
-- Week of Jan 20: Chapter 2
+- Week of Jan 20: Chapters 1, 2 
 - Week of Jan 27: Chapter 3
-- Week of Feb 3: Chapter 4
+- Week of Feb 3: Chapters 4, 5, Transformer
   - HW1: Figures 1.4, 1.5
-- Week of Feb 10: Chapter 5
+- Week of Feb 10: Transformer 
   - HW2: Figures 3.5, 3.6
-- Week of Feb 17: Chapter 6
+- Week of Feb 17: GAN / VAE / Diffusion 
   - HW3: Exercises 4.13, 4.17
 - Week of Feb 24: Chapter 7
   - HW4: Exercises 5.2, 5.5
