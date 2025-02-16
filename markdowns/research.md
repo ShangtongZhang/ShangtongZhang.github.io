@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-This page lists research topics I worked on / am working on. Please refer to my [CV](/assets/pdf/resume/resume.pdf) for a full list of publications in a reverse chronological order.  
+This page lists research topics I am working or worked on. Please refer to my [CV](/assets/pdf/resume/resume.pdf) for a full list of publications in a reverse chronological order.  
 <sup>*</sup> indicates equal contribution.  <u>Advisees</u> are underlined. <sup>†</sup> indicates equal advising.  &#127881; indicates highlighted works.  
 
 #### Stochastic Approximation Theory and Convergence of Reinforcement Learning 
