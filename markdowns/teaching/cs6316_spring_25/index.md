@@ -49,11 +49,11 @@ You are expected to read each chapter for each week.
   - HW2: Figures 3.5, 3.6
 - Week of Feb 17: GAN / VAE / Diffusion 
   - HW3: Exercises 4.13, 4.17
-- Week of Feb 24: Chapter 7
-  - HW4: Exercises 5.2, 5.5
+- Week of Feb 24: **No lecture**
+  - HW4: Free points
 - Week of Mar 3: Chapter 8
-  - HW5: TBA
-- Week of Mar 10: Spring recess, no course
+  - HW5: Exercises 5.2, 5.5
+- Week of Mar 10: Spring recess, no lecture
   - HW6: TBA
 - Week of Mar 17: Chapter 9
   - HW7: TBA
