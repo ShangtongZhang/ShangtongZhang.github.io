@@ -33,20 +33,13 @@ layout: home
 <!-- <span style="color:red"> <a href="/people" style="color:red"> <u> I am looking for self-motivated students interested in RL at different levels! </u> </a> </span> -->
 ## Biography
 
-Shangtong Zhang is an Assistant Professor in the Department of Computer Science at the University of Virginia,
+Shangtong Zhang is an Alf Weaver Assistant Professor in the Department of Computer Science at the University of Virginia,
 directing the [Sequential Intelligence Lab (SIL)](https://github.com/Sequential-Intelligence-Lab).
 His research focuses on both theoretical and empirical aspects of reinforcement learning,
-which has resulted in multiple scholarly articles in major AI venues,
-including those recognized by best paper awards at ICML workshops and AAMAS.
+resulting in multiple scholarly articles in major AI venues, e.g., JMLR, NeurIPS, ICML, and ICLR.
 He also regularly serves as Area Chair in major AI venues, e.g., ICML, ICLR, AISTATS, Senior Area Chair in RL Conference, and panelists for major federal funding agencies, e.g., NSF.
-His research was recognized by the AAAI New Faculty Highlights program
-and he was selected as a Rising Star in AI by KAUST AI Initiative.
-He obtained his DPhil at the University of Oxford,
-during which time he spent some time with the DeepMind AlphaStar group.
-His DPhil thesis was recognized as the runner-up for the IFAAMAS Victor Lesser Dissertation Award.
-Prior to that,
-he received his MSc degree at the University of Alberta
-and BSc degree at Fudan University.
+He and his research are recognized by multiple awards and honors, including best paper awards at ICML workshop and AAMAS, AAAI New Faculty Highlights, Rising Star in AI, IFAAMAS Victor Lesser Dissertation Award.
+He obtained his DPhil at the University of Oxford, MSc at the University of Alberta, and BSc at Fudan University.
 
 ## News
 - 2025/01: Four papers are accepted at ICLR 2025.    
