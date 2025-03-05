@@ -54,9 +54,9 @@ You are expected to read each chapter for each week.
 - Week of Mar 3: Chapter 8
   - HW5: Exercises 5.2, 5.5
 - Week of Mar 10: Spring recess, no lecture
-  - HW6: TBA
+  - HW6: Free points
 - Week of Mar 17: Chapter 9
-  - HW7: TBA
+  - HW7: Exercises 6.7, 6.20
 - Week of Mar 24: Chapter 10
   - HW8: TBA
 - Week of Mar 31: Chapter 11
