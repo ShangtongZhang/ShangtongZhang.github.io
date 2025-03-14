@@ -58,7 +58,7 @@ This page lists research topics I am working or worked on. Please refer to my [C
 - [arXiv 2024] [CRASH: Challenging Reinforcement-Learning Based Adversarial Scenarios For Safety Hardening](https://arxiv.org/abs/2411.16996).  
 Amar Kulkarni, **Shangtong Zhang**, Madhur Behl.  
 
-- <span class="rep_pub"></span>[arXiv 2023] [StarCraft II Unplugged: Large Scale Offline Reinforcement Learning](https://arxiv.org/abs/2308.03526)  
+- <span class="rep_pub"></span>[arXiv 2023] [AlphaStar Unplugged: Large Scale Offline Reinforcement Learning](https://arxiv.org/abs/2308.03526)  
 Michael Mathieu<sup>*</sup>, Sherjil Ozair<sup>*</sup>, Srivatsan Srinivasan<sup>*</sup>, Caglar Gulcehre<sup>*</sup>, **Shangtong Zhang**<sup>*</sup>, Ray Jiang<sup>*</sup>, Tom Le Paine<sup>*</sup>, Richard Powell, Konrad Zolna, Julian Schrittwieser, David Choi, Petko Georgiev, Daniel Toyama, Aja Huang, Roman Ring, Igor Babuschkin, Timo Ewalds, Mahyar Bordbar, Sarah Henderson, Sergio Gomez Colmenarejo, Aaron van den Oord, Wojciech Marian Czarnecki, Nando de Freitas, Oriol Vinyals.  
 
 #### Breaking the Deadly Triad
