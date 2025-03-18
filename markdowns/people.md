@@ -65,7 +65,7 @@ permalink: /people/
       </td>
       <td>
         <p>
-          <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/amoeini/?originalSubdomain=ir"> <b> Amir Moeini </b> </a>
+          <a target="_blank" rel="noopener noreferrer" href="https://moeiniamir.github.io"> <b> Amir Moeini </b> </a>
           <br> Ph.D. student, Fall 2024 - Now
         </p>
       </td>
