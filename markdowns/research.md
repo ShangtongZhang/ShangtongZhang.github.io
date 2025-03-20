@@ -7,7 +7,10 @@ permalink: /research/
 This page lists research topics I am working or worked on. Please refer to my [CV](/assets/pdf/resume/resume.pdf) for a full list of publications in a reverse chronological order.  
 <sup>*</sup> indicates equal contribution.  <u>Advisees</u> are underlined. <sup>†</sup> indicates equal advising.  &#127881; indicates highlighted works.  
 
-#### Stochastic Approximation Theory and Convergence of Reinforcement Learning 
+#### Stochastic Approximation Theory and Its Applications in Reinforcement Learning 
+- <span class="rep_pub"></span>[arXiv 2025] [Linear $Q$-Learning Does Not Diverge in $L^2$: Convergence Rates to a Bounded Set](https://arxiv.org/abs/2501.19254).  
+<u>Xinyu Liu</u><sup>\*</sup>, <u>Zixuan Xie</u><sup>\*</sup>, Shangtong Zhang.  
+
 - <span class="rep_pub"></span>[JMLR 2025] [The ODE Method for Stochastic Approximation and Reinforcement Learning with Markovian Noise](https://arxiv.org/abs/2401.07844).  
 <u>Shuze Liu</u>, Shuhang Chen, **Shangtong Zhang**.
 
@@ -62,9 +65,6 @@ Amar Kulkarni, **Shangtong Zhang**, Madhur Behl.
 Michael Mathieu<sup>*</sup>, Sherjil Ozair<sup>*</sup>, Srivatsan Srinivasan<sup>*</sup>, Caglar Gulcehre<sup>*</sup>, **Shangtong Zhang**<sup>*</sup>, Ray Jiang<sup>*</sup>, Tom Le Paine<sup>*</sup>, Richard Powell, Konrad Zolna, Julian Schrittwieser, David Choi, Petko Georgiev, Daniel Toyama, Aja Huang, Roman Ring, Igor Babuschkin, Timo Ewalds, Mahyar Bordbar, Sarah Henderson, Sergio Gomez Colmenarejo, Aaron van den Oord, Wojciech Marian Czarnecki, Nando de Freitas, Oriol Vinyals.  
 
 #### Breaking the Deadly Triad
-
-- <span class="rep_pub"></span>[arXiv 2025] [Linear $Q$-Learning Does Not Diverge in $L^2$: Convergence Rates to a Bounded Set](https://arxiv.org/abs/2501.19254).  
-<u>Xinyu Liu</u><sup>\*</sup>, <u>Zixuan Xie</u><sup>\*</sup>, Shangtong Zhang.
 
 - [ICLR 2025] [Revisiting a Design Choice in Gradient Temporal Difference Learning](https://arxiv.org/abs/2308.01170).  
 <u>Xiaochi Qian</u>, **Shangtong Zhang**. 
