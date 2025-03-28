@@ -57,9 +57,9 @@ You are expected to read each chapter for each week.
   - HW6: Free points
 - Week of Mar 17: Chapter 8
   - HW7: Exercises 6.7, 6.20 (you can use the results in Chapter 2 directly)
-- Week of Mar 24: Chapter 9 
+- Week of Mar 24: Chapters 8, 9 
   - HW8: Exercises 8.8, 8.9 
-- Week of Mar 31: Chapter 10 
+- Week of Mar 31: Chapters 9, 10 
   - HW9: Exercises 8.12, 8.15
 - Week of Apr 7: Chapter 11
   - HW10: TBA
