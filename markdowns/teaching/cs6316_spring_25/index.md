@@ -62,7 +62,7 @@ You are expected to read each chapter for each week.
 - Week of Mar 31: Chapters 9, 10 
   - HW9: Exercises 8.12, 8.15
 - Week of Apr 7: Chapter 11
-  - HW10: TBA
+  - HW10: Exercises 9.15, 9.26 
 - Week of Apr 14: Chapter 12
   - HW11: TBA
 - Week of Apr 21: Chapter 13
