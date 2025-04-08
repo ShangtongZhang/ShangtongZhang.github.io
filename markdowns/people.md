@@ -7,7 +7,7 @@ permalink: /people/
 ### Ph.D. Students
 <table class="phd_students">
   <tbody>
-    <tr>
+    <!-- <tr>
       <td> <img class="image" src="/assets/img/people/shuze.jpg"  width="100"/>
       </td>
       <td>
@@ -16,7 +16,7 @@ permalink: /people/
           <br> Ph.D. candidate, Fall 2022 - Now
         </p>
       </td>
-    </tr>
+    </tr>  -->
     <tr>
       <td> <img class="image" src="/assets/img/people/ethan.jpg"  width="100"/>
       </td>
@@ -74,6 +74,8 @@ permalink: /people/
 </table>
 
 ### Alumni with Theses or Publications
+* [Shuze Liu](https://shuzeliu.com/) (PhD, 2022 - 2025)  
+    - *Efficient and Robust Policy Evaluation for Reinforcement Learning* (PhD thesis)
 * Kefan Song (Master, 2023 - 2024)
     - *Group Fairness in Reinforcement Learning and Large Language Models* (Master thesis)
 * Licheng Luo (Master, 2023 - 2024)
