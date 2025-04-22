@@ -21,7 +21,11 @@
 .personal-info img {
   width: 170px;
   height: 255px;
-  max-width: fit-content;
+}
+
+.personal-info tr td {
+  min-width: 170px;
+  min-height: 255px;
 }
 
 // .personal-info p {
