@@ -68,7 +68,7 @@ You are expected to read each chapter for each week.
 - Week of Apr 21: Chapter 11, 13
   - HW12: Free points
 - Apr 29: Last lecture
-  - HW13: TBA
+  - HW13: Figure 13.8, Exercise 13.8
  
 ## Grading
 There are 13 assignments and each assignment has 8 points. So 104 points in total. I will use the standard scheme to translate the points into letter grades and will curve if necessary. There is no exam and no project. The assignments are the only way to gain points. The deadline for each assignment is 11:59pm Sunday. For example, the deadline of HW1 is 11:59pm Feb 9. 
