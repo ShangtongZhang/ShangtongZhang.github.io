@@ -23,7 +23,7 @@
   height: 255px;
 }
 
-.personal-info tr td {
+.personal-info tr td:has(img) {
   min-width: 170px;
   min-height: 255px;
 }
