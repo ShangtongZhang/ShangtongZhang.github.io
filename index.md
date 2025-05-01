@@ -42,10 +42,12 @@ He and his research are recognized by multiple awards and honors, including best
 He obtained his DPhil at the University of Oxford, MSc at the University of Alberta, and BSc at Fudan University.
 
 ## News
+- 2025/05: One paper is accepted at ICML 2025.    
 - 2025/01: Four papers are accepted at ICLR 2025.    
 - 2025/01: One paper is accepted by JMLR.  
 - 2024/12: One paper is accepted at AAAI 2025.  
 - 2024/06: I give a [talk](/assets/pdf/talks/ode_in_context_td.pdf) at Tsinghua University.  
+- 2024/06: One paper wins the best paper award at ICML In-Context Learning Workshop 2024.  
 - 2024/05: One paper is accepted at ICML 2024.  
 - 2024/02: I give a [talk](/assets/pdf/talks/offline_rl_cheats.pdf) at KAUST.  
 - 2023/12: I am recognized as a Rising Star in AI by [KAUST AI Initiative](https://cemse.kaust.edu.sa/ai/aii-symp-2024).  
