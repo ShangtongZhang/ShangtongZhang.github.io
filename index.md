@@ -42,6 +42,7 @@ He and his research are recognized by multiple awards and honors, including best
 He obtained his DPhil at the University of Oxford, MSc at the University of Alberta, and BSc at Fudan University.
 
 ## News
+- 2025/05: One paper is accepted at RLC 2025.    
 - 2025/05: One paper is accepted at ICML 2025.    
 - 2025/01: Four papers are accepted at ICLR 2025.    
 - 2025/01: One paper is accepted by JMLR.  
