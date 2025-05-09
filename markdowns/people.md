@@ -80,6 +80,8 @@ permalink: /people/
     - *Group Fairness in Reinforcement Learning and Large Language Models* (Master thesis)
 * Licheng Luo (Master, 2023 - 2024)
     - *Policy Optimization in Robust Markov Decision Processes with Transition Gradient Theorem* (Master thesis)
+* Vikram Ostrander (Undergraduate, 2024 - 2025, DMP thesis) 
+* Vagul Mahadevan (Undergraduate, 2023 - 2025, DMP thesis) 
 * Xiaochi Qian (Undergraduate, 2022 - 2024)
     - *Almost Sure Convergence Rates and Concentration of Stochastic Approximation and Reinforcement Learning with Markovian Noise*
     - *Revisiting a Design Choice in Gradient Temporal Difference Learning* (ICLR 2025)
