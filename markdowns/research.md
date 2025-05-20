@@ -58,6 +58,9 @@ This page lists research topics I am working or worked on. Please refer to my [C
 
 #### Applications
 
+- [IJCAI 2025] [Counterfactual Explanations for Continuous Action Reinforcement Learning](https://arxiv.org/abs/2505.12701).  
+Shuyang Dong, **Shangtong Zhang**, Lu Feng.  
+
 - [arXiv 2024] [CRASH: Challenging Reinforcement-Learning Based Adversarial Scenarios For Safety Hardening](https://arxiv.org/abs/2411.16996).  
 Amar Kulkarni, **Shangtong Zhang**, Madhur Behl.  
 
