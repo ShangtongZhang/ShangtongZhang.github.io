@@ -8,6 +8,9 @@ This page lists research topics I am working or worked on. Please refer to my [C
 <sup>*</sup> indicates equal contribution.  <u>Advisees</u> are underlined. <sup>†</sup> indicates equal advising.  &#127881; indicates highlighted works.  
 
 #### Stochastic Approximation Theory and Its Applications in Reinforcement Learning 
+- [arXiv 2025] [Finite Sample Analysis of Linear Temporal Difference Learning with Arbitrary Features](https://arxiv.org/abs/2505.21391).  
+<u>Zixuan Xie</u><sup>*</sup>, <u>Xinyu Liu</u><sup>*</sup>, Rohan Chandra, **Shangtong Zhang**.  
+
 - <span class="rep_pub"></span>[ICML 2025] [Linear $Q$-Learning Does Not Diverge in $L^2$: Convergence Rates to a Bounded Set](https://arxiv.org/abs/2501.19254).  
 <u>Xinyu Liu</u><sup>\*</sup>, <u>Zixuan Xie</u><sup>\*</sup>, **Shangtong Zhang**.  
 
