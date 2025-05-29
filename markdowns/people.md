@@ -74,8 +74,7 @@ permalink: /people/
 </table>
 
 ### Alumni with Theses or Publications
-> Please refer to my [CV](/assets/pdf/resume/resume.pdf) for their placements.
-
+Please refer to my [CV](/assets/pdf/resume/resume.pdf) for their placements.
 * [Shuze Liu](https://shuzeliu.com/), PhD, 2022 - 2025
     - *Efficient and Robust Policy Evaluation for Reinforcement Learning* (PhD thesis)
 * Kefan Song, Master, 2023 - 2025
@@ -90,3 +89,4 @@ permalink: /people/
     <!-- - *Revisiting a Design Choice in Gradient Temporal Difference Learning* (ICLR 2025) -->
 * Steve Zhou, Undergraduate (DMP thesis), 2023 - 2024
     <!-- - *Stock Trading with Reinforcement Learning: Average Reward Agent and Alpha Preservation* (DMP thesis) -->
+
