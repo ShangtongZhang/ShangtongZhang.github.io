@@ -74,7 +74,7 @@ permalink: /people/
 </table>
 
 ### Alumni with Theses or Publications
-> Please refer to my [CV](/assets/pdf/resume/resume.pdf) for placement.
+> Please refer to my [CV](/assets/pdf/resume/resume.pdf) for their placements.
 
 * [Shuze Liu](https://shuzeliu.com/), PhD, 2022 - 2025
     - *Efficient and Robust Policy Evaluation for Reinforcement Learning* (PhD thesis)
