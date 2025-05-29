@@ -74,16 +74,17 @@ permalink: /people/
 </table>
 
 ### Alumni with Theses or Publications
-* [Shuze Liu](https://shuzeliu.com/) (PhD, 2022 - 2025)  
+* [Shuze Liu](https://shuzeliu.com/), PhD, 2022 - 2025
     - *Efficient and Robust Policy Evaluation for Reinforcement Learning* (PhD thesis)
-* Kefan Song (Master, 2023 - 2024)
-    - *Group Fairness in Reinforcement Learning and Large Language Models* (Master thesis)
-* Licheng Luo (Master, 2023 - 2024)
-    - *Policy Optimization in Robust Markov Decision Processes with Transition Gradient Theorem* (Master thesis)
-* Vikram Ostrander (Undergraduate, 2024 - 2025, DMP thesis) 
-* Vagul Mahadevan (Undergraduate, 2023 - 2025, DMP thesis) 
-* Xiaochi Qian (Undergraduate, 2022 - 2024)
-    - *Almost Sure Convergence Rates and Concentration of Stochastic Approximation and Reinforcement Learning with Markovian Noise*
-    - *Revisiting a Design Choice in Gradient Temporal Difference Learning* (ICLR 2025)
-* Steve Zhou (Undergraduate, 2023 - 2024)
-    - *Stock Trading with Reinforcement Learning: Average Reward Agent and Alpha Preservation* (DMP thesis)
+* Kefan Song, Master, 2023 - 2025
+    <!-- - *Group Fairness in Reinforcement Learning and Large Language Models* (Master thesis) -->
+* Licheng Luo, Master, 2023 - 2024
+    <!-- - *Policy Optimization in Robust Markov Decision Processes with Transition Gradient Theorem* (Master thesis) -->
+* Claire Chen, Undergraduate, 2023 - 2025
+* Vikram Ostrander, Undergraduate (DMP thesis), 2024 - 2025
+* Vagul Mahadevan, Undergraduate (DMP thesis), 2023 - 2025
+* Xiaochi Qian, Undergraduate, 2022 - 2024
+    <!-- - *Almost Sure Convergence Rates and Concentration of Stochastic Approximation and Reinforcement Learning with Markovian Noise* -->
+    <!-- - *Revisiting a Design Choice in Gradient Temporal Difference Learning* (ICLR 2025) -->
+* Steve Zhou, Undergraduate (DMP thesis), 2023 - 2024
+    <!-- - *Stock Trading with Reinforcement Learning: Average Reward Agent and Alpha Preservation* (DMP thesis) -->
