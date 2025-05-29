@@ -75,6 +75,7 @@ permalink: /people/
 
 ### Alumni with Theses or Publications
 > Please refer to my [CV](/assets/pdf/resume/resume.pdf) for placement.
+
 * [Shuze Liu](https://shuzeliu.com/), PhD, 2022 - 2025
     - *Efficient and Robust Policy Evaluation for Reinforcement Learning* (PhD thesis)
 * Kefan Song, Master, 2023 - 2025
