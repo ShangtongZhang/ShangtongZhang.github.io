@@ -34,7 +34,7 @@ This page lists research topics I am working or worked on. Please refer to my [C
 
 #### In-Context Reinforcement Learning
 
-- <span class="rep_pub"></span>[arXiv 2025] [Reward Is Enough: LLMs Are In-Context Reinforcement Learners](https://doi.org/10.18130/j11w-tm37).  
+- <span class="rep_pub"></span>[arXiv 2025] [Reward Is Enough: LLMs Are In-Context Reinforcement Learners](https://arxiv.org/abs/2506.06303).  
 <u>Kefan Song</u>, <u>Amir Moeini</u>, Peng Wang, Lei Gong, Rohan Chandra, Yanjun Qi, **Shangtong Zhang**.  
 
 - [arXiv 2025] [A Survey of In-Context Reinforcement Learning](https://arxiv.org/abs/2502.07978).  
