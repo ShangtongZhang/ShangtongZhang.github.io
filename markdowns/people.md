@@ -74,19 +74,18 @@ permalink: /people/
 </table>
 
 ### Alumni with Theses or Publications
-Please refer to my [CV](/assets/pdf/resume/resume.pdf) for their placements.
-* [Shuze Liu](https://shuzeliu.com/), PhD, 2022 - 2025
+* [Shuze Liu](https://shuzeliu.com/), PhD, 2022 - 2025 &rarr; Research Scientist at Meta 
     - *Efficient and Robust Policy Evaluation for Reinforcement Learning* (PhD thesis)
-* Kefan Song, Master, 2023 - 2025
+* Kefan Song, Master, 2023 - 2025 &rarr; PhD at UVA
     <!-- - *Group Fairness in Reinforcement Learning and Large Language Models* (Master thesis) -->
-* Licheng Luo, Master, 2023 - 2024
+* Licheng Luo, Master, 2023 - 2024 &rarr; PhD at UC Riverside
     <!-- - *Policy Optimization in Robust Markov Decision Processes with Transition Gradient Theorem* (Master thesis) -->
-* Claire Chen, Undergraduate, 2023 - 2025
-* Vikram Ostrander, Undergraduate (DMP thesis), 2024 - 2025
-* Vagul Mahadevan, Undergraduate (DMP thesis), 2023 - 2025
-* Xiaochi Qian, Undergraduate, 2022 - 2024
+* Claire Chen, Undergraduate, 2023 - 2025 &rarr; Undergraduate at Caltech
+* Vikram Ostrander, Undergraduate (DMP thesis), 2024 - 2025 &rarr; Software Engineer at Palantir
+* Vagul Mahadevan, Undergraduate (DMP thesis), 2023 - 2025 &rarr; Software Engineer at Metron
+* Xiaochi Qian, Undergraduate (Oxford), 2022 - 2024 &rarr; Quantitative Researcher at Marshall Wace
     <!-- - *Almost Sure Convergence Rates and Concentration of Stochastic Approximation and Reinforcement Learning with Markovian Noise* -->
     <!-- - *Revisiting a Design Choice in Gradient Temporal Difference Learning* (ICLR 2025) -->
-* Steve Zhou, Undergraduate (DMP thesis), 2023 - 2024
+* Steve Zhou, Undergraduate (DMP thesis), 2023 - 2024 &rarr; Master at MIT
     <!-- - *Stock Trading with Reinforcement Learning: Average Reward Agent and Alpha Preservation* (DMP thesis) -->
 
