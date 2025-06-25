@@ -83,9 +83,9 @@ permalink: /people/
 * Claire Chen, Undergraduate, 2023 - 2025 &rarr; Undergraduate at Caltech
 * Vikram Ostrander, Undergraduate (DMP thesis), 2024 - 2025 &rarr; Software Engineer at Palantir
 * Vagul Mahadevan, Undergraduate (DMP thesis), 2023 - 2025 &rarr; Software Engineer at Metron
-* Xiaochi Qian, Undergraduate (Oxford), 2022 - 2024 &rarr; Quantitative Researcher at Marshall Wace
     <!-- - *Almost Sure Convergence Rates and Concentration of Stochastic Approximation and Reinforcement Learning with Markovian Noise* -->
     <!-- - *Revisiting a Design Choice in Gradient Temporal Difference Learning* (ICLR 2025) -->
 * Steve Zhou, Undergraduate (DMP thesis), 2023 - 2024 &rarr; Master at MIT
+* Xiaochi Qian, Undergraduate (Oxford), 2022 - 2024 &rarr; Quantitative Researcher at Marshall Wace
     <!-- - *Stock Trading with Reinforcement Learning: Average Reward Agent and Alpha Preservation* (DMP thesis) -->
 
