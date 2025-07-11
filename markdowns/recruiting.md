@@ -4,7 +4,7 @@ title: Prospective Students
 permalink: /recruiting/
 ---
 
-* My current group of PhD students are fantastic and I am happy with the size of my group. I will **NOT** hire new students for Fall 25 or 26.
+* My current group of PhD students are fantastic and I am happy with the size of my group. I will **NOT** hire new PhD students for Fall 25 or 26.
 
 <!-- * **PhD students for Fall 2025 (fully funded)**  
 RL background is not necessary but you need to have a good understanding of math. You are welcome to email me with your CV and transcript. I read every CV I receive. If I feel we are in a potential match, I will reply with the template reply below and we can move forward to the next stage. If you do not hear back from me within 3 - 4 business days, it is not because I missed your email (my mailbox, including junk folder, has zero unread email). Instead, it is because I feel we might not be in a good match -- I apologize that I am not able to reply to your email in this case due to the large volume of emails I receive. I believe this protocol can save time for both of us. Below is the template reply when I feel we are in a potential match:
