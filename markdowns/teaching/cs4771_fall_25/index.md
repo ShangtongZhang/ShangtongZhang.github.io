@@ -22,7 +22,7 @@ This course is designed to cover basic but important ideas of RL, as well as mil
   - Jiuqi: TBA
   - Amir: TBA
   - Xinyu: TBA
-- [UVACanvas]()
+- [UVACanvas](https://canvas.its.virginia.edu/courses/158223)
 - Prerequisite:
   This course will be light in math but still requires basic ideas of probability, linear algebra, and calculus. The homework is programming-based so you need to be proficient in Python.
 - **If you need approval for enrollment,
@@ -43,7 +43,6 @@ I will try my best to record each lecture (though not guaranteed) and post the r
 That being said, it might be good to factor this whiteboard format into consideration when enrolling in this course.
 
 ## Grading 
-> This section is copied from last year and is subject to revision.
 
 The homework of this course is to reproduce representative empirical results in the RLAI book. 
 You must use Python.
@@ -62,45 +61,47 @@ we will additionally discuss deep RL and have some corresponding bonus tasks.
 There is no exam or project, no written homework.
 The programming tasks are the only way to earn points.
 
-The workload seems heavy but is definitely doable. When I took my first RL course, I reproduced ALL the figures, not just the selected ones below.
 I will curve (towards higher points) to give letter grades if necessary.
 There is indeed reference Python implementation available in the Internet, e.g., my GitHub.
 You are welcome to learn from those.
 But you need to write your code on your own in a highly modularized way (I will provide a demo).
 
-Homework 1 (Bandit)
-* 1.1 Reproduce Figure 2.3 (optimistic initialization)
-* 1.2 Reproduce Figure 2.4 (UCB)
-* ~~1.3 Reproduce Figure 2.5 (gradient)~~
-* 1.4 Reproduce Figure 2.6 (parameter study)
+Bandit
+* HW 1.1 Reproduce Figure 2.3 (optimistic initialization)
+* HW 1.2 Reproduce Figure 2.4 (UCB)
+* HW 1.3 Reproduce Figure 2.5 (gradient)
+* HW 1.4 Reproduce Figure 2.6 (parameter study)
 
-Homework 2 (Dynamic Programming)
-* 2.1 Reproduce Figure 3.2 (policy evaluation)
-* 2.2 Reproduce Figure 4.1 (policy iteration)
-* 2.3 Reproduce Figure 3.5 (value iteration)
+Dynamic Programming
+* HW 2.1 Reproduce Figure 3.2 (policy evaluation)
+* HW 2.2 Reproduce Figure 4.1 (policy iteration)
+* HW 2.3 Reproduce Figure 3.5 (value iteration)
 
-Homework 3 (Monte Carlo)
-* ~~3.1 Reproduce Figure 5.1 (on-policy)~~
-* ~~3.2 Reproduce Figure 5.3 (off-policy)~~
-* 3.3 Reproduce Figure 5.4 (off-policy) (with both OIS and WIS)
+Monte Carlo
+* HW 3.1 Reproduce Figure 5.1 (on-policy)
+* HW 3.2 Reproduce Figure 5.3 (off-policy)
+* HW 3.3 Reproduce Figure 5.4 (off-policy) (with both OIS and WIS)
 
-Homework 4 (Temporal Difference)
-* 4.1 Reproduce Example 6.2 (TD v.s. Monte Carlo)
-* ~~4.2 Reproduce Figure 6.2 (TD v.s. Monte Carlo in batch setting)~~
-* ~~4.3 Reproduce Example 6.5 (SARSA)~~
-* 4.4 Reproduce Example 6.6 (SARSA v.s. Q-learning)
-* 4.5 Reproduce Figure 6.5 (double Q-learning)
+Temporal Difference
+* HW 4.1 Reproduce Example 6.2 (TD v.s. Monte Carlo)
+* HW 4.2 Reproduce Figure 6.2 (TD v.s. Monte Carlo in batch setting)
+* HW 4.3 Reproduce Example 6.5 (SARSA)
+* HW 4.4 Reproduce Example 6.6 (SARSA v.s. Q-learning)
+* HW 4.5 Reproduce Figure 6.5 (double Q-learning)
 
-Homework 5 (N-Step TD)
-* Reproduce Figure 7.2
+N-Step TD
+* HW 5 Reproduce Figure 7.2
 
-Homework 6 (Approximate Methods)
-* ~~6.1 Reproduce Figure 9.1 (state aggregation)~~
-* 6.2 Reproduce Figure 9.2 (linear function approximation)
+Approximate Methods
+* HW 6.1 Reproduce Figure 9.1 (state aggregation)
+* HW 6.2 Reproduce Figure 9.2 (linear function approximation)
 
-Homework 7 (Policy Gradient)
-* ~~7.1 Reproduce Example 13.1 (stochastic policy)~~
-* 7.2 Reproduce Figure 13.2 (REINFORCE)
+Policy Gradient
+* HW 7.1 Reproduce Example 13.1 (stochastic policy)
+* HW 7.2 Reproduce Figure 13.2 (REINFORCE)
+
+Bonus
+* Fill the course evaluation at the end of the semester (5 pt)
 
 Rubrics for each task (5 pt)
 * Visual inspection of your generated figures (2 pt)
@@ -109,7 +110,7 @@ Rubrics for each task (5 pt)
   * Comments (1 pt)
   * Modularization (1 pt)
 
-For each task, please only submit a **SINGLE** self-contained Python file, together with the generated figure.
+For each task, please only submit a **SINGLE** self-contained jupyter notebook file (**.ipynb**). This notebook must contain **both the generated figure and the code**. The code must be executable to generate the figure.
 Auto-differentiation packages (e.g., PyTorch) are not allowed.
 
 
@@ -118,5 +119,5 @@ Auto-differentiation packages (e.g., PyTorch) are not allowed.
 - Late Policy:
 Each assignment has an 8-hour graceful period without any penalty. 
 If you need extensions for career development purposes (e.g., attending a conference, preparing an important interview), you need to email me one week before the homework deadline. 
-Everyone has a single chance for an 1-week late submission without any penalty (note that this cannot be used for HW13). **No other hindsight extension is possible unless doctor notes or SDAC notifications are provided.** 
+Everyone has a single chance for an 1-week late submission without any penalty (note that this cannot be used for HW 7.2). **No other hindsight extension is possible unless doctor notes or SDAC notifications are provided.** 
 - Regrading Policy: For every task, one regrading request is allowed. 
