@@ -11,11 +11,17 @@ This course is designed to cover basic but important ideas of RL, as well as mil
 ## Logistics
 
 - Instructor: [Shangtong Zhang](/)
-- TAs: TBA
+- TAs:
+  - [Jiuqi Wang](https://leonardowjq.github.io/) (Head TA)
+  - [Amir Moeini](https://moeiniamir.github.io/)
+  - [Xinyu Liu](https://saodimao20.github.io/)
 - Location: Rice Hall 130
 - Time: Mon, Wed, Fri, 10:00 - 10:50  
 - Office Hours: 
-  - Shangtong Zhang: TBA, Rice 422
+  - Shangtong: 10:50 - 11:50, Monday, Rice 422
+  - Jiuqi: TBA
+  - Amir: TBA
+  - Xinyu: TBA
 - [UVACanvas]()
 - Prerequisite:
   This course will be light in math but still requires basic ideas of probability, linear algebra, and calculus. The homework is programming-based so you need to be proficient in Python.
