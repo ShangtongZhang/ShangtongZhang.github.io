@@ -12,15 +12,13 @@ This course is designed to cover basic but important ideas of RL, as well as mil
 
 - Instructor: [Shangtong Zhang](/)
 - TAs:
-  - [Jiuqi Wang](https://leonardowjq.github.io/) (Head TA)
-  - [Amir Moeini](https://moeiniamir.github.io/)
+  - [Amir Moeini](https://moeiniamir.github.io/) (Head TA)
   - [Xinyu Liu](https://saodimao20.github.io/)
 - Location: Rice Hall 130
 - Time: Mon, Wed, Fri, 10:00 - 10:50  
 - Office Hours: 
   - Shangtong: 10:50 - 11:50, Monday, Rice 422
   - Amir: 17:00 - 18:00, Tuesday, Rice 442
-  - Jiuqi: 11:00 - 12:00, Wednesday, Rice 442
   - Xinyu: 13:00 - 14:00, Thursday, Rice 442
 - [UVACanvas](https://canvas.its.virginia.edu/courses/158223)
 - Prerequisite:
