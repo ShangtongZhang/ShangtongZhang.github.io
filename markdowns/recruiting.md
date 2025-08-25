@@ -8,9 +8,9 @@ permalink: /recruiting/
 
 * **PhD students for Fall 2026 (fully funded)**  
 RL background is not necessary but you need to have a good understanding of math. You are welcome to email me with your CV and transcript. I read every CV I receive. If I feel we are in a potential match, I will reply with the template reply below and we can move forward to the next stage. If you do not hear back from me within 3 - 4 business days, it is not because I missed your email (my mailbox, including junk folder, has zero unread email). Instead, it is because I feel we might not be in a good match -- I apologize that I am not able to reply to your email in this case due to the large volume of emails I receive. I believe this protocol can save time for both of us. Below is the template reply when I feel we are in a potential match:
-> Dear XXX,
+> Hi XXX,
 > 
-> It is very nice to hear from you. I think you have a competitive background but it's too early now to say anything about Fall 2X. If you are interested in working with me, please apply officially when the portal opens and mention me as your potential advisor (please input my name as Shangtong Zhang, not Zhang, Shangtong, or any other possible combinations with titles). I remember the application fee and GRE should be waived automatically, at least it is the case last year. I usually meet with short-listed applicants after the application deadline. Wish you all the best for your career!
+> It is very nice to hear from you. I think you have a competitive background but it’s too early now to make a final decision for either of us. So please apply officially when the portal opens and mention me as your potential advisor (please input my name as Shangtong Zhang, not Zhang, Shangtong, or any other possible combinations with titles). I remember the application fee and GRE should be waived automatically, at least it is the case last year. I usually meet with short-listed applicants after the application deadline. Wish you all the best for your career!
 >
 > Best,  
 > Shangtong
