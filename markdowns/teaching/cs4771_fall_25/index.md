@@ -8,6 +8,9 @@ Reinforcement learning (RL) is a powerful framework for solving sequential decis
 and has enjoyed tremendous success, e.g., [playing the game of Go](https://www.nature.com/articles/nature16961) and [training ChatGPT](https://chat.openai.com/auth/login).
 This course is designed to cover basic but important ideas of RL, as well as milestone papers in deep RL if time permits.
 
+## News
+- There will be no lecture on Labor Day
+
 ## Logistics
 
 - Instructor: [Shangtong Zhang](/)
