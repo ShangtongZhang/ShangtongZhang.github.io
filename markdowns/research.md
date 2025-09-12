@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-This page lists research topics I am working or worked on. Please refer to my [CV](/assets/pdf/resume/resume.pdf) for a full list of publications in a reverse chronological order.  
+This page lists research topics I am working or worked on with selected publications. Please refer to my [CV](/assets/pdf/resume/resume.pdf) for a full list of publications in a reverse chronological order.  
 <sup>*</sup> indicates equal contribution.  <u>Advisees</u> are underlined. <sup>†</sup> indicates equal advising.
 
 #### Stochastic Approximation Theory and Its Applications in Reinforcement Learning 
@@ -25,9 +25,6 @@ This page lists research topics I am working or worked on. Please refer to my [C
 
 - [arXiv 2024] [Almost Sure Convergence of Linear Temporal Difference Learning with Arbitrary Features](https://arxiv.org/abs/2409.12135).  
 <u>Jiuqi Wang</u>, **Shangtong Zhang**.  
-
-- [ICML 2023] [On the Convergence of SARSA with Linear Function Approximation](https://arxiv.org/abs/2202.06828).  
-**Shangtong Zhang**, Remi Tachet des Combes, Romain Laroche.  
 
 - [JMLR 2022] [Global Optimality and Finite Sample Analysis of Softmax Off-Policy Actor Critic under State Distribution Mismatch](https://arxiv.org/abs/2111.02997).  
 **Shangtong Zhang**, Remi Tachet des Combes<sup>†</sup>, Romain Laroche<sup>†</sup>.  
