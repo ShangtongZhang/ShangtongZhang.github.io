@@ -5,19 +5,19 @@ permalink: /research/
 ---
 
 This page lists research topics I am working or worked on. Please refer to my [CV](/assets/pdf/resume/resume.pdf) for a full list of publications in a reverse chronological order.  
-<sup>*</sup> indicates equal contribution.  <u>Advisees</u> are underlined. <sup>†</sup> indicates equal advising.  &#127881; indicates highlighted works.  
+<sup>*</sup> indicates equal contribution.  <u>Advisees</u> are underlined. <sup>†</sup> indicates equal advising.
 
 #### Stochastic Approximation Theory and Its Applications in Reinforcement Learning 
 - [arXiv 2025] [Finite Sample Analysis of Linear Temporal Difference Learning with Arbitrary Features](https://arxiv.org/abs/2505.21391).  
 <u>Zixuan Xie</u><sup>*</sup>, <u>Xinyu Liu</u><sup>*</sup>, Rohan Chandra, **Shangtong Zhang**.  
 
-- <span class="rep_pub"></span>[ICML 2025] [Linear $Q$-Learning Does Not Diverge in $L^2$: Convergence Rates to a Bounded Set](https://arxiv.org/abs/2501.19254).  
+- [ICML 2025] [Linear $Q$-Learning Does Not Diverge in $L^2$: Convergence Rates to a Bounded Set](https://arxiv.org/abs/2501.19254).  
 <u>Xinyu Liu</u><sup>\*</sup>, <u>Zixuan Xie</u><sup>\*</sup>, **Shangtong Zhang**.  
 
-- <span class="rep_pub"></span>[JMLR 2025] [The ODE Method for Stochastic Approximation and Reinforcement Learning with Markovian Noise](https://arxiv.org/abs/2401.07844).  
+- [JMLR 2025] [The ODE Method for Stochastic Approximation and Reinforcement Learning with Markovian Noise](https://arxiv.org/abs/2401.07844).  
 <u>Shuze Liu</u>, Shuhang Chen, **Shangtong Zhang**.
 
-- <span class="rep_pub"></span>[arXiv 2024] [Almost Sure Convergence Rates and Concentration of Stochastic Approximation and Reinforcement Learning with Markovian Noise](https://arxiv.org/abs/2411.13711).  
+- [arXiv 2024] [Almost Sure Convergence Rates and Concentration of Stochastic Approximation and Reinforcement Learning with Markovian Noise](https://arxiv.org/abs/2411.13711).  
 <u>Xiaochi Qian</u><sup>*</sup>, <u>Zixuan Xie</u><sup>*</sup>, <u>Xinyu Liu</u><sup>*</sup>, **Shangtong Zhang**.  
 
 - [arXiv 2024] [Asymptotic and Finite Sample Analysis of Nonexpansive Stochastic Approximations with Markovian Noise](https://arxiv.org/abs/2409.19546).  
@@ -34,13 +34,13 @@ This page lists research topics I am working or worked on. Please refer to my [C
 
 #### In-Context Reinforcement Learning
 
-- <span class="rep_pub"></span>[arXiv 2025] [Reward Is Enough: LLMs Are In-Context Reinforcement Learners](https://arxiv.org/abs/2506.06303).  
+- [arXiv 2025] [Reward Is Enough: LLMs Are In-Context Reinforcement Learners](https://arxiv.org/abs/2506.06303).  
 <u>Kefan Song</u>, <u>Amir Moeini</u>, Peng Wang, Lei Gong, Rohan Chandra, Yanjun Qi, **Shangtong Zhang**.  
 
 - [arXiv 2025] [A Survey of In-Context Reinforcement Learning](https://arxiv.org/abs/2502.07978).  
 <u>Amir Moeini</u>, <u>Jiuqi Wang</u>, Jacob Beck, <u>Ethan Blaser</u>, Shimon Whiteson, Rohan Chandra, **Shangtong Zhang**.  
 
-- <span class="rep_pub"></span>[ICLR 2025] [Transformers Can Learn Temporal Difference Methods for In-Context Reinforcement Learning](https://arxiv.org/abs/2405.13861).   
+- [ICLR 2025] [Transformers Can Learn Temporal Difference Methods for In-Context Reinforcement Learning](https://arxiv.org/abs/2405.13861).   
 <u>Jiuqi Wang</u><sup>*</sup>, <u>Ethan Blaser</u><sup>*</sup>, Hadi Daneshmand, **Shangtong Zhang**.  
 **QuantCo Spotlight Award** at the ICML Workshop on In-Context Learning, 2024.  
 
@@ -56,7 +56,7 @@ This page lists research topics I am working or worked on. Please refer to my [C
 <u>Shuze Liu</u>, <u>Claire Chen</u>, **Shangtong Zhang**.  
 **Oral Presentation**  
 
-- <span class="rep_pub"></span>[ICML 2024] [Efficient Policy Evaluation with Offline Data Informed Behavior Policy Design](https://arxiv.org/abs/2301.13734).  
+- [ICML 2024] [Efficient Policy Evaluation with Offline Data Informed Behavior Policy Design](https://arxiv.org/abs/2301.13734).  
 <u>Shuze Liu</u>, **Shangtong Zhang**.   
 
 - [AAAI 2023] [A New Challenge in Policy Evaluation](https://ojs.aaai.org/index.php/AAAI/article/view/26832).  
