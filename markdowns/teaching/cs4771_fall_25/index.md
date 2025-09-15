@@ -21,8 +21,7 @@ This course is designed to cover basic but important ideas of RL, as well as mil
 - Time: Mon, Wed, Fri, 10:00 - 10:50  
 - Office Hours: 
   - Shangtong: 10:50 - 11:50, Monday, Rice 422
-  - Amir: 17:00 - 18:00, Tuesday, Rice 442
-  - Xinyu: 13:00 - 14:00, Thursday, Rice 442
+  - Amir & Xinyu: 17:00 - 18:00, Tuesday, Rice 442
 - [UVACanvas](https://canvas.its.virginia.edu/courses/158223)
 - Prerequisite:
   This course will be light in math but still requires basic ideas of probability, linear algebra, and calculus. The homework is programming-based so you need to be proficient in Python.
