@@ -8,7 +8,7 @@ This page lists research topics I am working or worked on with selected publicat
 <sup>*</sup> indicates equal contribution.  <u>Advisees</u> are underlined. <sup>†</sup> indicates equal advising.
 
 #### Stochastic Approximation Theory and Its Applications in Reinforcement Learning 
-- [arXiv 2025] [Finite Sample Analysis of Linear Temporal Difference Learning with Arbitrary Features](https://arxiv.org/abs/2505.21391).  
+- [NeurIPS 2025] [Finite Sample Analysis of Linear Temporal Difference Learning with Arbitrary Features](https://arxiv.org/abs/2505.21391).  
 <u>Zixuan Xie</u><sup>*</sup>, <u>Xinyu Liu</u><sup>*</sup>, Rohan Chandra, **Shangtong Zhang**.  
 
 - [ICML 2025] [Linear $Q$-Learning Does Not Diverge in $L^2$: Convergence Rates to a Bounded Set](https://arxiv.org/abs/2501.19254).  
@@ -30,6 +30,9 @@ This page lists research topics I am working or worked on with selected publicat
 **Shangtong Zhang**, Remi Tachet des Combes<sup>†</sup>, Romain Laroche<sup>†</sup>.  
 
 #### In-Context Reinforcement Learning
+
+- [NeurIPS 2025] [Towards Provable Emergence of In-Context Reinforcement Learning]().  
+<u>Jiuqi Wang</u>, Rohan Chandra, **Shangtong Zhang**.  
 
 - [arXiv 2025] [Reward Is Enough: LLMs Are In-Context Reinforcement Learners](https://arxiv.org/abs/2506.06303).  
 <u>Kefan Song</u>, <u>Amir Moeini</u>, Peng Wang, Lei Gong, Rohan Chandra, Yanjun Qi, **Shangtong Zhang**.  
