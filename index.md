@@ -42,6 +42,7 @@ He and his research are recognized by multiple awards and honors, including best
 He obtained his DPhil at the University of Oxford, MSc at the University of Alberta, and BSc at Fudan University.
 
 ## News
+- 2025/09: Two papers are accepted at NeurIPS 2025.  
 - 2025/08: Thanks CCI CVN for supporting our project.    
 - 2025/07: I receive the [NSF CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2442098)!
 - 2025/06: Thanks Nvidia for supporting our project with GPU credits.  
