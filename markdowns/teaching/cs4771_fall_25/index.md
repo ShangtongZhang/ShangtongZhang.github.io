@@ -67,7 +67,7 @@ You are welcome to learn from those.
 But you need to write your code on your own in a highly modularized way (I will provide a demo).
 
 Bandit
-* HW 1.1 Reproduce Figure 2.3 (optimistic initialization)
+* HW 1.1 Reproduce ~~Figure 2.3 (optimistic initialization)~~ Figure 2.2 (epsilon-greedy)
 * HW 1.2 Reproduce Figure 2.4 (UCB)
 * HW 1.3 Reproduce Figure 2.5 (gradient)
 * HW 1.4 Reproduce Figure 2.6 (parameter study)
