@@ -10,6 +10,8 @@ This course is designed to cover basic but important ideas of RL, as well as mil
 
 ## News
 - There will be no lecture on Labor Day
+- There will be no lecture on Oct 13, Nov 26, Nov 28,
+- There will be no lecture on Dec 3 and Dec 5 (due to NeurIPS)
 
 ## Logistics
 
