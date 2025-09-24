@@ -31,7 +31,7 @@ This page lists research topics I am working or worked on with selected publicat
 
 #### In-Context Reinforcement Learning
 
-- [NeurIPS 2025] [Towards Provable Emergence of In-Context Reinforcement Learning]().  
+- [NeurIPS 2025] [Towards Provable Emergence of In-Context Reinforcement Learning](https://arxiv.org/abs/2509.18389).  
 <u>Jiuqi Wang</u>, Rohan Chandra, **Shangtong Zhang**.  
 
 - [arXiv 2025] [Reward Is Enough: LLMs Are In-Context Reinforcement Learners](https://arxiv.org/abs/2506.06303).  
