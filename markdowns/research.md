@@ -8,11 +8,14 @@ This page lists research topics I am working or worked on with selected publicat
 <sup>*</sup> indicates equal contribution.  <u>Advisees</u> are underlined. <sup>†</sup> indicates equal advising.
 
 #### Stochastic Approximation Theory and Its Applications in Reinforcement Learning 
+- [arXiv 2025] [Extensions of Robbins-Siegmund Theorem with Applications in Reinforcement Learning](https://arxiv.org/abs/2509.26442).  
+<u>Xinyu Liu</u>, <u>Zixuan Xie</u>, **Shangtong Zhang**.
+
 - [NeurIPS 2025] [Finite Sample Analysis of Linear Temporal Difference Learning with Arbitrary Features](https://arxiv.org/abs/2505.21391).  
 <u>Zixuan Xie</u><sup>*</sup>, <u>Xinyu Liu</u><sup>*</sup>, Rohan Chandra, **Shangtong Zhang**.  
 
 - [ICML 2025] [Linear $Q$-Learning Does Not Diverge in $L^2$: Convergence Rates to a Bounded Set](https://arxiv.org/abs/2501.19254).  
-<u>Xinyu Liu</u><sup>\*</sup>, <u>Zixuan Xie</u><sup>\*</sup>, **Shangtong Zhang**.  
+<u>Xinyu Liu</u><sup>*</sup>, <u>Zixuan Xie</u><sup>*</sup>, **Shangtong Zhang**.  
 
 - [JMLR 2025] [The ODE Method for Stochastic Approximation and Reinforcement Learning with Markovian Noise](https://arxiv.org/abs/2401.07844).  
 <u>Shuze Liu</u>, Shuhang Chen, **Shangtong Zhang**.
@@ -30,6 +33,8 @@ This page lists research topics I am working or worked on with selected publicat
 **Shangtong Zhang**, Remi Tachet des Combes<sup>†</sup>, Romain Laroche<sup>†</sup>.  
 
 #### In-Context Reinforcement Learning
+- [arXiv 2025] [Safe In-Context Reinforcement Learning](https://arxiv.org/abs/2509.25582)  
+<u>Amir Moeini</u><sup>*</sup>, Minjae Kwon<sup>*</sup>, Alper Kamil Bozkurt, Yuichi Motai, Rohan Chandra, Lu Feng, **Shangtong Zhang**  
 
 - [NeurIPS 2025] [Towards Provable Emergence of In-Context Reinforcement Learning](https://arxiv.org/abs/2509.18389).  
 <u>Jiuqi Wang</u>, Rohan Chandra, **Shangtong Zhang**.  
