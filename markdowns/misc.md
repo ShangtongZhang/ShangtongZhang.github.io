@@ -14,7 +14,7 @@ when the book was about to complete.
 - [PyTorch Deep RL](https://github.com/ShangtongZhang/DeepRL)  
 <!-- ![(1k stars)](https://img.shields.io/github/stars/shangtongzhang/deeprl.svg?style=social)   -->
 This repo includes almost all codes of my papers during my DPhil.
-It helps me prototype new ideas easily but is unfortunately on longer maintained.
+It helps me prototype new ideas easily but is unfortunately no longer maintained.
 
 
 ### Blog
