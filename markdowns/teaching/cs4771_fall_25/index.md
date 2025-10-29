@@ -69,15 +69,13 @@ You are welcome to learn from those.
 But you need to write your code on your own in a highly modularized way (I will provide a demo).
 
 Bandit
-* HW 1.1 Reproduce ~~Figure 2.3 (optimistic initialization)~~ Figure 2.2 (epsilon-greedy)
+* HW 1.1 Reproduce Figure 2.2 (epsilon-greedy)
 * HW 1.2 Reproduce Figure 2.3 (optimistic initialization) and Figure 2.4 (UCB)
-* ~~HW 1.3 Reproduce Figure 2.5 (gradient)~~
 * HW 1.4 Reproduce Figure 2.6 (parameter study)
 
 Dynamic Programming
 * HW 2.1 Reproduce Figure 3.2 (policy evaluation)
-* HW 2.2 Reproduce Figure 4.1 (policy iteration)
-* HW 2.3 Reproduce Figure 3.5 (value iteration)
+* HW 2.2 Reproduce Figure 3.5 (value iteration) and Figure 4.1 (policy iteration)
 
 Monte Carlo
 * HW 3.1 Reproduce Figure 5.1 (on-policy)
@@ -121,5 +119,5 @@ Auto-differentiation packages (e.g., PyTorch) are not allowed.
 - Late Policy:
 Each assignment has an 8-hour graceful period without any penalty. 
 If you need extensions for career development purposes (e.g., attending a conference, preparing an important interview), you need to email me one week before the homework deadline. 
-Everyone has a single chance for an 1-week late submission without any penalty (note that this cannot be used for HW 7.2). **No other hindsight extension is possible unless doctor notes or SDAC notifications are provided.** 
+Everyone has a single chance for an 1-week late submission without any penalty (note that this cannot be used for HW 7.2). If you want to use this late submission opportunity, please declare [here](https://forms.gle/MQVaWW5UdoQs1uJ68). **No other hindsight extension is possible unless doctor notes or SDAC notifications are provided.** 
 - Regrading Policy: For every task, one regrading request is allowed. 

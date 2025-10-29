@@ -38,10 +38,11 @@ directing the [Sequential Intelligence Lab (SIL)](https://github.com/Sequential-
 His research focuses on both theoretical and empirical aspects of reinforcement learning,
 resulting in multiple scholarly articles in major AI venues, e.g., JMLR, NeurIPS, ICML, and ICLR.
 He also regularly serves as Area Chair in major AI venues, e.g., NeurIPS, ICML, ICLR, Senior Area Chair in RL Conference, and panelists for major federal funding agencies, e.g., NSF.
-He and his research are recognized by multiple awards and honors, including best paper awards at ICML workshop and AAMAS, NSF CAREER Award, AAAI New Faculty Highlights, Rising Star in AI, and IFAAMAS Victor Lesser Dissertation Award.
+He and his research are recognized by multiple awards and honors, including best paper awards at ICML workshop and AAMAS, NSF CAREER Award, AAAI New Faculty Highlights, Cisco Faculty Research Award, Rising Star in AI, and IFAAMAS Victor Lesser Dissertation Award.
 He obtained his DPhil at the University of Oxford, MSc at the University of Alberta, and BSc at Fudan University.
 
 ## News
+- 2025/10: Thanks Cisco for supporting our project.  
 - 2025/09: Two papers are accepted at NeurIPS 2025.  
 - 2025/08: Thanks CCI CVN for supporting our project.    
 - 2025/07: I receive the [NSF CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2442098)!
