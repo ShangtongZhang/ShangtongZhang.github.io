@@ -79,8 +79,6 @@ Dynamic Programming
 
 Monte Carlo
 * HW 3.1 Reproduce Figure 5.1 (on-policy)
-* HW 3.2 Reproduce Figure 5.3 (off-policy)
-* HW 3.3 Reproduce Figure 5.4 (off-policy) (with both OIS and WIS)
 
 Temporal Difference
 * HW 4.1 Reproduce Example 6.2 (TD v.s. Monte Carlo)
