@@ -5,6 +5,10 @@ permalink: /misc/
 ---
 
 ### Code
+- [RL Theory in Lean](https://github.com/ShangtongZhang/rl-theory-in-lean)  
+
+Here I take the ambitious goal to formalize RL theory in Lean. I have formalized the almost sure convergence of linear TD and Q learning with Markovian samples.
+
 - [Reinforcement Learning: An Introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)  
 <!-- ![(8k stars)](https://img.shields.io/github/stars/shangtongzhang/reinforcement-learning-an-introduction.svg?style=social)   -->
 This repo is a Python implementation of the RL textbook from Sutton & Barto. 
