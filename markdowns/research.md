@@ -9,7 +9,8 @@ This page lists research topics I am working or worked on with selected publicat
 
 #### Stochastic Approximation Theory and Its Applications in Reinforcement Learning
 - [arXiv 2025] [Towards Formalizing Reinforcement Learning Theory](https://arxiv.org/abs/2511.03618).  
-  **Shangtong Zhang**.  
+  **Shangtong Zhang**.
+  
 - [arXiv 2025] [Extensions of Robbins-Siegmund Theorem with Applications in Reinforcement Learning](https://arxiv.org/abs/2509.26442).  
 <u>Xinyu Liu</u>, <u>Zixuan Xie</u>, **Shangtong Zhang**.
 
