@@ -30,7 +30,7 @@ Amar Kulkarni, **Shangtong Zhang**, Madhur Behl.
 - [arXiv 2024] [Doubly Optimal Policy Evaluation for Reinforcement Learning](https://arxiv.org/abs/2410.02226).  
 <u>Shuze Liu</u>, <u>Claire Chen</u>, **Shangtong Zhang**.  
 
-- [arXiv 2024] [Almost Sure Convergence of Average Reward Temporal Difference Learning](https://arxiv.org/abs/2409.19546).  
+- [AAAI 2026] [Asymptotic and Finite Sample Analysis of Nonexpansive Stochastic Approximations with Markovian Noise](https://arxiv.org/abs/2409.19546).  
 <u>Ethan Blaser</u>, **Shangtong Zhang**.  
 
 - [arXiv 2024] [Almost Sure Convergence of Linear Temporal Difference Learning with Arbitrary Features](https://arxiv.org/abs/2409.12135).  
