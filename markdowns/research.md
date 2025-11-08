@@ -50,7 +50,7 @@ This page lists research topics I am working or worked on with selected publicat
 
 - [ICLR 2025] [Transformers Can Learn Temporal Difference Methods for In-Context Reinforcement Learning](https://arxiv.org/abs/2405.13861).   
 <u>Jiuqi Wang</u><sup>*</sup>, <u>Ethan Blaser</u><sup>*</sup>, Hadi Daneshmand, **Shangtong Zhang**.  
-**QuantCo Spotlight Award** at the ICML Workshop on In-Context Learning, 2024.  
+**QuantCo Spotlight (Best Paper) Award** at the ICML Workshop on In-Context Learning, 2024.  
 
 #### Efficient Monte Carlo Evaluation
 
