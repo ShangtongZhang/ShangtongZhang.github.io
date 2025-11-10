@@ -82,8 +82,7 @@ Monte Carlo
 
 Temporal Difference
 * HW 4.1 Reproduce Example 6.2 (TD v.s. Monte Carlo)
-* HW 4.2 Reproduce Figure 6.2 (TD v.s. Monte Carlo in batch setting)
-* HW 4.3 Reproduce Example 6.5 (SARSA)
+* HW 4.2 Reproduce Example 6.5 (SARSA)
 * HW 4.4 Reproduce Example 6.6 (SARSA v.s. Q-learning)
 * HW 4.5 Reproduce Figure 6.5 (double Q-learning)
 

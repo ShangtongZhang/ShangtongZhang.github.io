@@ -7,7 +7,13 @@ permalink: /research/
 This page lists research topics I am working or worked on with selected publications. Please refer to my [CV](/assets/pdf/resume/resume.pdf) for a full list of publications in a reverse chronological order.  
 <sup>*</sup> indicates equal contribution.  <u>Advisees</u> are underlined. <sup>†</sup> indicates equal advising.
 
-#### Stochastic Approximation Theory and Its Applications in Reinforcement Learning 
+#### Stochastic Approximation Theory and Its Applications in Reinforcement Learning
+- [AAAI 2026] [Asymptotic and Finite Sample Analysis of Nonexpansive Stochastic Approximations with Markovian Noise](https://arxiv.org/abs/2409.19546).  
+<u>Ethan Blaser</u>, **Shangtong Zhang**.
+
+- [arXiv 2025] [Towards Formalizing Reinforcement Learning Theory](https://arxiv.org/abs/2511.03618).  
+  **Shangtong Zhang**.
+  
 - [arXiv 2025] [Extensions of Robbins-Siegmund Theorem with Applications in Reinforcement Learning](https://arxiv.org/abs/2509.26442).  
 <u>Xinyu Liu</u>, <u>Zixuan Xie</u>, **Shangtong Zhang**.
 
@@ -22,9 +28,6 @@ This page lists research topics I am working or worked on with selected publicat
 
 - [arXiv 2024] [Almost Sure Convergence Rates and Concentration of Stochastic Approximation and Reinforcement Learning with Markovian Noise](https://arxiv.org/abs/2411.13711).  
 <u>Xiaochi Qian</u><sup>*</sup>, <u>Zixuan Xie</u><sup>*</sup>, <u>Xinyu Liu</u><sup>*</sup>, **Shangtong Zhang**.  
-
-- [arXiv 2024] [Asymptotic and Finite Sample Analysis of Nonexpansive Stochastic Approximations with Markovian Noise](https://arxiv.org/abs/2409.19546).  
-<u>Ethan Blaser</u>, **Shangtong Zhang**.  
 
 - [arXiv 2024] [Almost Sure Convergence of Linear Temporal Difference Learning with Arbitrary Features](https://arxiv.org/abs/2409.12135).  
 <u>Jiuqi Wang</u>, **Shangtong Zhang**.  
@@ -47,7 +50,7 @@ This page lists research topics I am working or worked on with selected publicat
 
 - [ICLR 2025] [Transformers Can Learn Temporal Difference Methods for In-Context Reinforcement Learning](https://arxiv.org/abs/2405.13861).   
 <u>Jiuqi Wang</u><sup>*</sup>, <u>Ethan Blaser</u><sup>*</sup>, Hadi Daneshmand, **Shangtong Zhang**.  
-**QuantCo Spotlight Award** at the ICML Workshop on In-Context Learning, 2024.  
+**QuantCo Spotlight (Best Paper) Award** at the ICML Workshop on In-Context Learning, 2024.  
 
 #### Efficient Monte Carlo Evaluation
 
