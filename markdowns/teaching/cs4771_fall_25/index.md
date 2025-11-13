@@ -10,7 +10,7 @@ This course is designed to cover basic but important ideas of RL, as well as mil
 
 ## News
 - There will be no lecture on Labor Day
-- There will be no lecture on Oct 13, Nov 26, Nov 28
+- There will be no lecture on Oct 13, Nov 24, Nov 26, Nov 28
 - There will be no lecture on Dec 3 and Dec 5 (due to NeurIPS)
 
 ## Logistics
@@ -83,15 +83,10 @@ Monte Carlo
 Temporal Difference
 * HW 4.1 Reproduce Example 6.2 (TD v.s. Monte Carlo)
 * HW 4.2 Reproduce Example 6.5 (SARSA)
-* HW 4.4 Reproduce Example 6.6 (SARSA v.s. Q-learning)
-* HW 4.5 Reproduce Figure 6.5 (double Q-learning)
+* HW 4.3 Reproduce Example 6.6 (SARSA v.s. Q-learning)
+* HW 4.4 Reproduce Figure 6.5 (double Q-learning)
 
-N-Step TD
-* HW 5 Reproduce Figure 7.2
-
-Approximate Methods
-* HW 6.1 Reproduce Figure 9.1 (state aggregation)
-* HW 6.2 Reproduce Figure 9.2 (linear function approximation)
+* HW 6.1 Reproduce Figure 9.2 (linear function approximation)
 
 Policy Gradient
 * HW 7.1 Reproduce Example 13.1 (stochastic policy)
