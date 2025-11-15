@@ -73,7 +73,7 @@ permalink: /people/
   </tbody>
 </table>
 
-### Alumni with Theses or Publications
+### Alumni
 * [Shuze Liu](https://shuzeliu.com/), PhD, 2022 - 2025 &rarr; Research Scientist at Meta 
     - [Efficient and Robust Policy Evaluation for Reinforcement Learning](https://doi.org/10.18130/v51e-aw16) (PhD thesis)
 * Kefan Song, Master, 2023 - 2025 &rarr; PhD at UVA
