@@ -89,8 +89,7 @@ Temporal Difference
 * HW 6.1 Reproduce Figure 9.2 (linear function approximation)
 
 Policy Gradient
-* HW 7.1 Reproduce Example 13.1 (stochastic policy)
-* HW 7.2 Reproduce Figure 13.2 (REINFORCE)
+* HW 7.1 Reproduce Figure 13.2 (REINFORCE)
 
 Bonus
 * Fill the course evaluation at the end of the semester (5 pt)
