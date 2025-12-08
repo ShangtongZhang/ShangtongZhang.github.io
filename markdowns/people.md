@@ -77,9 +77,9 @@ permalink: /people/
 * [Shuze Liu](https://shuzeliu.com/), PhD, 2022 - 2025 &rarr; Research Scientist at Meta 
     - [Efficient and Robust Policy Evaluation for Reinforcement Learning](https://doi.org/10.18130/v51e-aw16) (PhD thesis)
 * Kefan Song, Master, 2023 - 2025 &rarr; PhD at UVA
-    <!-- - *Group Fairness in Reinforcement Learning and Large Language Models* (Master thesis) -->
+    - [Group Fairness in Reinforcement Learning and Large Language Models](https://doi.org/10.18130/mwpx-4j34) (Master thesis)
 * Licheng Luo, Master, 2023 - 2024 &rarr; PhD at UC Riverside
-    <!-- - *Policy Optimization in Robust Markov Decision Processes with Transition Gradient Theorem* (Master thesis) -->
+    - [Policy Optimization in Robust Markov Decision Processes with Transition Gradient Theorem](https://doi.org/10.18130/1xd3-zs45) (Master thesis)
 * Claire Chen, Undergraduate, 2023 - 2025 &rarr; Undergraduate at Caltech
 * Vikram Ostrander, Undergraduate (DMP thesis), 2024 - 2025 &rarr; Software Engineer at Palantir
 * Vagul Mahadevan, Undergraduate (DMP thesis), 2023 - 2025 &rarr; Software Engineer at Metron
