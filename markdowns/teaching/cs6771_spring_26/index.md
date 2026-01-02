@@ -20,7 +20,7 @@ This course is designed to cover basic but important ideas of RL, as well as mil
   - Jiuqi: (TBA) Rice 442
 - [UVACanvas](https://canvas.its.virginia.edu/courses/158223)
 - Prerequisite:
-  This course will be light in math but still requires basic ideas of probability, linear algebra, and calculus. The homework is programming-based so you need to be proficient in Python.
+  This course requires a good understanding of probability, linear algebra, and calculus.
 - **If you need approval for enrollment,
 please move forward directly by submitting the proper forms,
 assuming I will approve it**.
@@ -31,8 +31,10 @@ It is your responsibility to figure out which form to submit and where to submit
 **I will not be able to manually handle any individual enrollment / waitlist permission request until near the end of the enrollment deadline**.
 
 ## Teaching
-- Textbook: We will use [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html) (RLAI) as the textbook.
-You can download a free version of RLAI from the previous link.
+- Textbook:  We do not follow any particular textbook but the following are good references
+ - [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html)
+ - [Mathematical Foundations of Reinforcement Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
+ - [Reinforcement Learning: An Overview](https://arxiv.org/abs/2412.05265)
 - Lectures: **All lectures are whiteboards. To encourage attendance, there will be no slides or notes. But I am sure you can find everything in RLAI.**
 As a courtesy,
 I will try my best to record each lecture (though not guaranteed) and post the recordings in Canvas.
