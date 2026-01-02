@@ -8,22 +8,16 @@ Reinforcement learning (RL) is a powerful framework for solving sequential decis
 and has enjoyed tremendous success, e.g., [playing the game of Go](https://www.nature.com/articles/nature16961) and [training ChatGPT](https://chat.openai.com/auth/login).
 This course is designed to cover basic but important ideas of RL, as well as milestone papers in deep RL if time permits.
 
-## News
-- There will be no lecture on Labor Day
-- There will be no lecture on Oct 13, Nov 24, Nov 26, Nov 28
-- There will be no lecture on Dec 3 and Dec 5 (due to NeurIPS)
-
 ## Logistics
 
 - Instructor: [Shangtong Zhang](/)
 - TAs:
-  - [Amir Moeini](https://moeiniamir.github.io/) (Head TA)
-  - [Xinyu Liu](https://saodimao20.github.io/)
-- Location: Rice Hall 130
-- Time: Mon, Wed, Fri, 10:00 - 10:50  
+  - [Jiuqi Wang](https://leonardowjq.github.io)
+- Location: Olsson Hall 011 
+- Time: Tuesday, Thursday, 2:00 - 3:15  
 - Office Hours: 
-  - Shangtong: 10:50 - 11:50, Monday, Rice 422
-  - Amir & Xinyu: 17:00 - 18:00, Tuesday, Rice 442
+  - Shangtong: Tuesday, Thursday, 1:30 - 2:00, Rice 422
+  - Jiuqi: (TBA) Rice 442
 - [UVACanvas](https://canvas.its.virginia.edu/courses/158223)
 - Prerequisite:
   This course will be light in math but still requires basic ideas of probability, linear algebra, and calculus. The homework is programming-based so you need to be proficient in Python.
