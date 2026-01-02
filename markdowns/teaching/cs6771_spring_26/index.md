@@ -43,10 +43,18 @@ That being said, it might be good to factor this whiteboard format into consider
 
 ## Grading
 
+- Paper Review (60 points): You will read 12 papers / topics (one paper / topic each week starting from the ADD deadline). For each paper / topic, you need to write a summary and ask 3 questions. Each paper review has 5 points.
+- Project (40 points): You can solo the project or have a team no more than 3 people. If you have a team, all the team member will receive exactly the same points for the project.
+  - Milestone 1 (10 points): Identify a hypothesis you want to test. Articulate why this hypothesis is interesting and what the consequences are if the hypothesis is correct or wrong.
+  - Milestone 2 (10 points): Design experiments to test your hypothesis.
+  - Milestone 3 (10 points): Execute the experiments and write a report (importantly, it's totally fine to have negative results)
+  - Milestone 4 (10 points): Presentation (format TBD) 
+- Bonus (5 points): complete the course evaluation survey at the end of the semester.
+  
 ## Policies
 
 - Late Policy:
-Each assignment has an 8-hour graceful period without any penalty. 
-If you need extensions for career development purposes (e.g., attending a conference, preparing an important interview), you need to email me one week before the homework deadline. 
-Everyone has a single chance for an 1-week late submission without any penalty (note that this cannot be used for HW 7.2). If you want to use this late submission opportunity, please declare [here](https://forms.gle/MQVaWW5UdoQs1uJ68). **No other hindsight extension is possible unless doctor notes or SDAC notifications are provided.** 
+Each deadline has an 8-hour graceful period without any penalty. 
+If you need extensions for career development purposes (e.g., attending a conference, preparing an important interview), you need to email me one week before the deadline. 
+Everyone has a single chance for an 1-week late submission without any penalty (note that this cannot be used for Project Milestones 3 and 4). If you want to use this late submission opportunity, please declare [here](https://forms.gle/MQVaWW5UdoQs1uJ68). **No other hindsight extension is possible unless doctor notes or SDAC notifications are provided.** 
 - Regrading Policy: For every task, one regrading request is allowed. 
