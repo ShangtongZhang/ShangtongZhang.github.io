@@ -6,7 +6,7 @@ permalink: /teaching/cs6771_spring_26/index
 
 Reinforcement learning (RL) is a powerful framework for solving sequential decision making problems
 and has enjoyed tremendous success, e.g., [playing the game of Go](https://www.nature.com/articles/nature16961) and [training ChatGPT](https://chat.openai.com/auth/login).
-This course is designed to cover basic but important ideas of RL, as well as milestone papers in deep RL if time permits.
+This course is designed to cover important ideas and milestone papers of RL.
 
 ## Logistics
 
@@ -18,7 +18,7 @@ This course is designed to cover basic but important ideas of RL, as well as mil
 - Office Hours: 
   - Shangtong: Tuesday, Thursday, 1:30 - 2:00, Rice 422
   - Jiuqi: (TBA) Rice 442
-- [UVACanvas](https://canvas.its.virginia.edu/courses/158223)
+- [UVACanvas](https://canvas.its.virginia.edu/courses/173689)
 - Prerequisite:
   This course requires a good understanding of probability, linear algebra, and calculus.
 - **If you need approval for enrollment,
@@ -32,10 +32,10 @@ It is your responsibility to figure out which form to submit and where to submit
 
 ## Teaching
 - Textbook: We will be using some context in the following books 
- - [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html)
- - [Mathematical Foundations of Reinforcement Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
- - [Reinforcement Learning: An Overview](https://arxiv.org/abs/2412.05265)
- - [Reinforcement Learning: Foundations](https://sites.google.com/view/rlfoundations/home)
+  - [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html)
+  - [Mathematical Foundations of Reinforcement Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
+  - [Reinforcement Learning: An Overview](https://arxiv.org/abs/2412.05265)
+  - [Reinforcement Learning: Foundations](https://sites.google.com/view/rlfoundations/home)
 - Lectures: **All lectures are whiteboards. To encourage attendance, there will be no slides or notes. But I am sure you can find everything in the books above.**
 As a courtesy,
 I will try my best to record each lecture (though not guaranteed) and post the recordings in Canvas.
