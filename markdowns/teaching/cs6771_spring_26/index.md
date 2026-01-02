@@ -44,7 +44,7 @@ That being said, it might be good to factor this whiteboard format into consider
 ## Grading
 
 - Paper Review (60 points): You will read 12 papers / topics (one paper / topic each week starting from the ADD deadline). For each paper / topic, you need to write a summary and ask 3 questions. Each paper review has 5 points.
-- Project (40 points): You can solo the project or have a team no more than 3 people. If you have a team, all the team member will receive exactly the same points for the project.
+- Project (40 points): You can solo the project or have a team of no more than 3 people. If you have a team, all the team member will receive exactly the same points for the project.
   - Milestone 1 (10 points): Identify a hypothesis you want to test. Articulate why this hypothesis is interesting and what the consequences are if the hypothesis is correct or wrong.
   - Milestone 2 (10 points): Design experiments to test your hypothesis.
   - Milestone 3 (10 points): Execute the experiments and write a report (importantly, it's totally fine to have negative results)
