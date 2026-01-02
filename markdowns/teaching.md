@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-CS6771: [Reinforcement Learning](/teaching/cs6771_spring_25/index) (Spring 2026)  
+CS6771: [Reinforcement Learning](/teaching/cs6771_spring_26/index) (Spring 2026)  
 CS4771: [Reinforcement Learning](/teaching/cs4771_fall_25/index) (Fall 2025)  
 CS6316: [Machine Learning](/teaching/cs6316_spring_25/index) (Spring 2025)  
 CS4501: [Reinforcement Learning](/teaching/cs4501_fall_24/index) (Fall 2024)  
