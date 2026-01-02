@@ -31,7 +31,7 @@ It is your responsibility to figure out which form to submit and where to submit
 **I will not be able to manually handle any individual enrollment / waitlist permission request until near the end of the enrollment deadline**.
 
 ## Teaching
-- Textbook: We will be using some context in the following books 
+- Textbook: We will be using some content in the following books 
   - [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html)
   - [Mathematical Foundations of Reinforcement Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
   - [Reinforcement Learning: An Overview](https://arxiv.org/abs/2412.05265)
