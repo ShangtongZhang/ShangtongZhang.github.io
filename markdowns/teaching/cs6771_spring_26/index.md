@@ -56,5 +56,5 @@ That being said, it might be good to factor this whiteboard format into consider
 - Late Policy:
 Each deadline has an 8-hour graceful period without any penalty. 
 If you need extensions for career development purposes (e.g., attending a conference, preparing an important interview), you need to email me one week before the deadline. 
-Everyone has a single chance for an 1-week late submission without any penalty (note that this cannot be used for Project Milestones 3 and 4). If you want to use this late submission opportunity, please declare [here](https://forms.gle/MQVaWW5UdoQs1uJ68). **No other hindsight extension is possible unless doctor notes or SDAC notifications are provided.** 
+Everyone has a single chance for an 1-week late submission without any penalty (note that this cannot be used for Project Milestones 3 and 4). If you want to use this late submission opportunity, please declare [here](https://forms.gle/6j7kF9nDmQ1HvFH8A). **No other hindsight extension is possible unless doctor notes or SDAC notifications are provided.** 
 - Regrading Policy: For every task, one regrading request is allowed. 
