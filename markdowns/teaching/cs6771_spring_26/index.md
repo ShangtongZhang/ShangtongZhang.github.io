@@ -11,13 +11,12 @@ This course is designed to cover important ideas and milestone papers of RL.
 ## Logistics
 
 - Instructor: [Shangtong Zhang](/)
-- TAs:
-  - [Jiuqi Wang](https://leonardowjq.github.io)
+- TA: [Jiuqi Wang](https://leonardowjq.github.io)
 - Location: Olsson Hall 011 
 - Time: Tuesday, Thursday, 2:00 - 3:15  
 - Office Hours: 
   - Shangtong: Tuesday, Thursday, 1:30 - 2:00, Rice 422
-  - Jiuqi: (TBA) Rice 442
+  - Jiuqi: Friday, 10:00 - 11:00, Rice 442
 - [UVACanvas](https://canvas.its.virginia.edu/courses/173689)
 - Prerequisite:
   This course requires a good understanding of probability, linear algebra, and calculus.
