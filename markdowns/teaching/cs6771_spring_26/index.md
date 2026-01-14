@@ -15,7 +15,7 @@ This course is designed to cover important ideas and milestone papers of RL.
 - Location: Olsson Hall 011 
 - Time: Tuesday, Thursday, 2:00 - 3:15  
 - Office Hours: 
-  - Shangtong: Tuesday, Thursday, 1:30 - 2:00, Rice 422
+  - Shangtong: Tuesday, Thursday, 3:15 - 3:45, Rice 422
   - Jiuqi: Friday, 10:00 - 11:00, Rice 442
 - [UVACanvas](https://canvas.its.virginia.edu/courses/173689)
 - Prerequisite:
