@@ -50,6 +50,8 @@ That being said, it might be good to factor this whiteboard format into consider
   - Milestone 3 (10 points): Execute the experiments and write a report (importantly, it's totally fine to have negative results)
   - Milestone 4 (10 points): Presentation (format TBD) 
 - Bonus (5 points): complete the course evaluation survey at the end of the semester.
+
+I will use [this](https://virginia.service-now.com/its?id=itsweb_kb_article&sys_id=1153c16fdba41f444f32fb671d961934) to convert points to letter grades.
   
 ## Policies
 
