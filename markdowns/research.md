@@ -8,6 +8,9 @@ This page lists research topics I am working or worked on with selected publicat
 <sup>*</sup> indicates equal contribution.  <u>Advisees</u> are underlined. <sup>†</sup> indicates equal advising.
 
 #### Stochastic Approximation Theory and Its Applications in Reinforcement Learning
+- [AISTATS 2026] [Almost Sure Convergence of Differential Temporal Difference Learning for Average Reward Markov Decision Processes]().  
+<u>Ethan Blaser</u>, <u>Jiuqi Wang</u>, **Shangtong Zhang**.  
+
 - [AAAI 2026] [Asymptotic and Finite Sample Analysis of Nonexpansive Stochastic Approximations with Markovian Noise](https://arxiv.org/abs/2409.19546).  
 <u>Ethan Blaser</u>, **Shangtong Zhang**.
 
