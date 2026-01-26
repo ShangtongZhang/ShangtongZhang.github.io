@@ -75,6 +75,9 @@ This page lists research topics I am working or worked on with selected publicat
 
 #### Applications
 
+- [arXiv 2026] [Multi-agent DRL-based Lane Change Decision Model for Cooperative Planning in Mixed Traffic](https://arxiv.org/abs/2601.11809).  
+Zeyu Mu, **Shangtong Zhang**, B. Brian Park.  
+
 - [IJCAI 2025] [Counterfactual Explanations for Continuous Action Reinforcement Learning](https://arxiv.org/abs/2505.12701).  
 Shuyang Dong, **Shangtong Zhang**, Lu Feng.  
 
