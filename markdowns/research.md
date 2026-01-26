@@ -39,7 +39,7 @@ This page lists research topics I am working or worked on with selected publicat
 **Shangtong Zhang**, Remi Tachet des Combes<sup>†</sup>, Romain Laroche<sup>†</sup>.  
 
 #### In-Context Reinforcement Learning
-- [arXiv 2025] [Reward Is Enough: LLMs Are In-Context Reinforcement Learners](https://arxiv.org/abs/2506.06303).  
+- [ICLR 2026] [Reward Is Enough: LLMs Are In-Context Reinforcement Learners](https://arxiv.org/abs/2506.06303).  
 <u>Kefan Song</u>, <u>Amir Moeini</u>, Peng Wang, Lei Gong, Rohan Chandra, **Shangtong Zhang**<sup>†</sup>, Yanjun Qi<sup>†</sup>.    
 
 - [arXiv 2025] [Safe In-Context Reinforcement Learning](https://arxiv.org/abs/2509.25582)  
