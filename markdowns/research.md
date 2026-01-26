@@ -39,14 +39,14 @@ This page lists research topics I am working or worked on with selected publicat
 **Shangtong Zhang**, Remi Tachet des Combes<sup>†</sup>, Romain Laroche<sup>†</sup>.  
 
 #### In-Context Reinforcement Learning
+- [arXiv 2025] [Reward Is Enough: LLMs Are In-Context Reinforcement Learners](https://arxiv.org/abs/2506.06303).  
+<u>Kefan Song</u>, <u>Amir Moeini</u>, Peng Wang, Lei Gong, Rohan Chandra, **Shangtong Zhang**<sup>†</sup>, Yanjun Qi<sup>†</sup>.    
+
 - [arXiv 2025] [Safe In-Context Reinforcement Learning](https://arxiv.org/abs/2509.25582)  
 <u>Amir Moeini</u><sup>*</sup>, Minjae Kwon<sup>*</sup>, Alper Kamil Bozkurt, Yuichi Motai, Rohan Chandra, Lu Feng, **Shangtong Zhang**  
 
 - [NeurIPS 2025] [Towards Provable Emergence of In-Context Reinforcement Learning](https://arxiv.org/abs/2509.18389).  
 <u>Jiuqi Wang</u>, Rohan Chandra, **Shangtong Zhang**.  
-
-- [arXiv 2025] [Reward Is Enough: LLMs Are In-Context Reinforcement Learners](https://arxiv.org/abs/2506.06303).  
-<u>Kefan Song</u>, <u>Amir Moeini</u>, Peng Wang, Lei Gong, Rohan Chandra, Yanjun Qi, **Shangtong Zhang**.  
 
 - [arXiv 2025] [A Survey of In-Context Reinforcement Learning](https://arxiv.org/abs/2502.07978).  
 <u>Amir Moeini</u>, <u>Jiuqi Wang</u>, Jacob Beck, <u>Ethan Blaser</u>, Shimon Whiteson, Rohan Chandra, **Shangtong Zhang**.  
