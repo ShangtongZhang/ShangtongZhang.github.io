@@ -14,9 +14,6 @@ This page lists research topics I am working or worked on with selected publicat
 - [AAAI 2026] [Asymptotic and Finite Sample Analysis of Nonexpansive Stochastic Approximations with Markovian Noise](https://arxiv.org/abs/2409.19546).  
 <u>Ethan Blaser</u>, **Shangtong Zhang**.
 
-- [arXiv 2025] [Towards Formalizing Reinforcement Learning Theory](https://arxiv.org/abs/2511.03618).  
-  **Shangtong Zhang**.
-  
 - [arXiv 2025] [Extensions of Robbins-Siegmund Theorem with Applications in Reinforcement Learning](https://arxiv.org/abs/2509.26442).  
 <u>Xinyu Liu</u>, <u>Zixuan Xie</u>, **Shangtong Zhang**.
 
@@ -54,6 +51,14 @@ This page lists research topics I am working or worked on with selected publicat
 - [ICLR 2025] [Transformers Can Learn Temporal Difference Methods for In-Context Reinforcement Learning](https://arxiv.org/abs/2405.13861).   
 <u>Jiuqi Wang</u><sup>*</sup>, <u>Ethan Blaser</u><sup>*</sup>, Hadi Daneshmand, **Shangtong Zhang**.  
 **QuantCo Spotlight (Best Paper) Award** at the ICML Workshop on In-Context Learning, 2024.  
+
+#### Lean and Mathlib
+
+- [arXiv 2026] [MathlibLemma: Folklore Lemma Generation and Benchmark for Formal Mathematics](https://arxiv.org/abs/2602.02561).  
+  <u>Xinyu Liu</u>, <u>Zixuan Xie</u>, <u>Amir Moeini</u>, <u>Claire Chen</u>, <u>Shuze Liu</u>, Yu Meng, Aidong Zhang, **Shangtong Zhang**.  
+
+- [arXiv 2025] [Towards Formalizing Reinforcement Learning Theory](https://arxiv.org/abs/2511.03618).  
+  **Shangtong Zhang**.
 
 #### Efficient Monte Carlo Evaluation
 
