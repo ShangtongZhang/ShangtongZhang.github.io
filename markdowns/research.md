@@ -8,6 +8,9 @@ This page lists research topics I am working or worked on with selected publicat
 <sup>*</sup> indicates equal contribution.  <u>Advisees</u> are underlined. <sup>†</sup> indicates equal advising.
 
 #### Stochastic Approximation Theory and Its Applications in Reinforcement Learning
+- [JMLR 2026] [Almost Sure Convergence of Linear Temporal Difference Learning with Arbitrary Features](https://arxiv.org/abs/2409.12135).  
+<u>Jiuqi Wang</u>, **Shangtong Zhang**.  
+
 - [AISTATS 2026] [Almost Sure Convergence of Differential Temporal Difference Learning for Average Reward Markov Decision Processes](https://arxiv.org/abs/2602.16629).  
 <u>Ethan Blaser</u>, <u>Jiuqi Wang</u>, **Shangtong Zhang**.  
 
@@ -28,9 +31,6 @@ This page lists research topics I am working or worked on with selected publicat
 
 - [arXiv 2024] [Almost Sure Convergence Rates and Concentration of Stochastic Approximation and Reinforcement Learning with Markovian Noise](https://arxiv.org/abs/2411.13711).  
 <u>Xiaochi Qian</u><sup>*</sup>, <u>Zixuan Xie</u><sup>*</sup>, <u>Xinyu Liu</u><sup>*</sup>, **Shangtong Zhang**.  
-
-- [arXiv 2024] [Almost Sure Convergence of Linear Temporal Difference Learning with Arbitrary Features](https://arxiv.org/abs/2409.12135).  
-<u>Jiuqi Wang</u>, **Shangtong Zhang**.  
 
 - [JMLR 2022] [Global Optimality and Finite Sample Analysis of Softmax Off-Policy Actor Critic under State Distribution Mismatch](https://arxiv.org/abs/2111.02997).  
 **Shangtong Zhang**, Remi Tachet des Combes<sup>†</sup>, Romain Laroche<sup>†</sup>.  
