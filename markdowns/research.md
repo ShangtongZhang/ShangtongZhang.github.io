@@ -8,6 +8,9 @@ This page lists research topics I am working or worked on with selected publicat
 <sup>*</sup> indicates equal contribution.  <u>Advisees</u> are underlined. <sup>†</sup> indicates equal advising.
 
 #### Stochastic Approximation Theory and Its Applications in Reinforcement Learning
+- [ICML 2026] Convergence of Two-Timescale Stochastic Approximation with Markovian Samples and Applications in Reinforcement Learning.  
+<u>Vagul Mahadevan</u>, <u>Claire Chen</u>, <u>Shuze Liu</u>, **Shangtong Zhang**.  
+
 - [JMLR 2026] [Almost Sure Convergence of Linear Temporal Difference Learning with Arbitrary Features](https://arxiv.org/abs/2409.12135).  
 <u>Jiuqi Wang</u>, **Shangtong Zhang**.  
 
@@ -36,11 +39,11 @@ This page lists research topics I am working or worked on with selected publicat
 **Shangtong Zhang**, Remi Tachet des Combes<sup>†</sup>, Romain Laroche<sup>†</sup>.  
 
 #### In-Context Reinforcement Learning
+- [ICML 2026] [Safe In-Context Reinforcement Learning](https://arxiv.org/abs/2509.25582)  
+<u>Amir Moeini</u><sup>*</sup>, Minjae Kwon<sup>*</sup>, Alper Kamil Bozkurt, Yuichi Motai, Rohan Chandra, Lu Feng, **Shangtong Zhang**  
+
 - [ICLR 2026] [Reward Is Enough: LLMs Are In-Context Reinforcement Learners](https://arxiv.org/abs/2506.06303).  
 <u>Kefan Song</u><sup>*</sup>, <u>Amir Moeini</u><sup>*</sup>, Peng Wang, Lei Gong, Rohan Chandra, **Shangtong Zhang**<sup>†</sup>, Yanjun Qi<sup>†</sup>.    
-
-- [arXiv 2025] [Safe In-Context Reinforcement Learning](https://arxiv.org/abs/2509.25582)  
-<u>Amir Moeini</u><sup>*</sup>, Minjae Kwon<sup>*</sup>, Alper Kamil Bozkurt, Yuichi Motai, Rohan Chandra, Lu Feng, **Shangtong Zhang**  
 
 - [NeurIPS 2025] [Towards Provable Emergence of In-Context Reinforcement Learning](https://arxiv.org/abs/2509.18389).  
 <u>Jiuqi Wang</u>, Rohan Chandra, **Shangtong Zhang**.  
@@ -54,7 +57,7 @@ This page lists research topics I am working or worked on with selected publicat
 
 #### Lean and Mathlib
 
-- [arXiv 2026] [MathlibLemma: Folklore Lemma Generation and Benchmark for Formal Mathematics](https://arxiv.org/abs/2602.02561).  
+- [ICML 2026] [MathlibLemma: Folklore Lemma Generation and Benchmark for Formal Mathematics](https://arxiv.org/abs/2602.02561).  
   <u>Xinyu Liu</u>, <u>Zixuan Xie</u>, <u>Amir Moeini</u>, <u>Claire Chen</u>, <u>Shuze Liu</u>, Yu Meng, Aidong Zhang, **Shangtong Zhang**.  
 
 - [arXiv 2025] [Towards Formalizing Reinforcement Learning Theory](https://arxiv.org/abs/2511.03618).  
