@@ -40,7 +40,7 @@ This page lists research topics I am working or worked on with selected publicat
 
 #### In-Context Reinforcement Learning
 - [ICML 2026] [Safe In-Context Reinforcement Learning](https://arxiv.org/abs/2509.25582).  
-<u>Amir Moeini</u><sup>*</sup>, Minjae Kwon<sup>*</sup>, Alper Kamil Bozkurt, Yuichi Motai, Rohan Chandra, Lu Feng, **Shangtong Zhang**  
+<u>Amir Moeini</u><sup>*</sup>, Minjae Kwon<sup>*</sup>, Alper Kamil Bozkurt, Yuichi Motai, Rohan Chandra, Lu Feng, **Shangtong Zhang**.  
 
 - [ICLR 2026] [Reward Is Enough: LLMs Are In-Context Reinforcement Learners](https://arxiv.org/abs/2506.06303).  
 <u>Kefan Song</u><sup>*</sup>, <u>Amir Moeini</u><sup>*</sup>, Peng Wang, Lei Gong, Rohan Chandra, **Shangtong Zhang**<sup>†</sup>, Yanjun Qi<sup>†</sup>.    
