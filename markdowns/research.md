@@ -60,7 +60,7 @@ This page lists research topics I am working or worked on with selected publicat
 - [ICML 2026] [MathlibLemma: Folklore Lemma Generation and Benchmark for Formal Mathematics](https://arxiv.org/abs/2602.02561).  
   <u>Xinyu Liu</u>, <u>Zixuan Xie</u>, <u>Amir Moeini</u>, <u>Claire Chen</u>, <u>Shuze Liu</u>, Yu Meng, Aidong Zhang, **Shangtong Zhang**.  
 
-- [arXiv 2025] [Towards Formalizing Reinforcement Learning Theory](https://arxiv.org/abs/2511.03618).  
+- [RLC 2026] [Towards Formalizing Reinforcement Learning Theory](https://arxiv.org/abs/2511.03618).  
   **Shangtong Zhang**.
 
 #### Efficient Monte Carlo Evaluation
