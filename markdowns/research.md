@@ -47,10 +47,10 @@ This page lists research topics I am working or worked on with selected publicat
 
 #### In-Context Reinforcement Learning
 - [arXiv 2026] [Convergence and Emergence of In-Context Reinforcement Learning with Chain of Thought](https://arxiv.org/abs/2605.07123).  
-<u>Zixuan Xie</u><sup>*</sup>, <u>Xinyu Liu</u><sup>*</sup>, Rohan Chandra, **Shangtong Zhang**. 
+<u>Zixuan Xie</u><sup>*</sup>, <u>Xinyu Liu</u>, Rohan Chandra, **Shangtong Zhang**. 
 
 - [arXiv 2026] [Beyond Linear Attention: Softmax Transformers Implement In-Context Reinforcement Learning](https://arxiv.org/abs/2605.07333).  
-<u>Zixuan Xie</u><sup>*</sup>, <u>Xinyu Liu</u><sup>*</sup>, <u>Claire Chen</u><sup>*</sup>, <u>Shuze Liu</u><sup>*</sup>, Rohan Chandra, **Shangtong Zhang**.  
+<u>Zixuan Xie</u><sup>*</sup>, <u>Xinyu Liu</u>, <u>Claire Chen</u>, <u>Shuze Liu</u>, Rohan Chandra, **Shangtong Zhang**.  
 
 - [ICML 2026] [Safe In-Context Reinforcement Learning](https://arxiv.org/abs/2509.25582).  
 <u>Amir Moeini</u><sup>*</sup>, Minjae Kwon<sup>*</sup>, Alper Kamil Bozkurt, Yuichi Motai, Rohan Chandra, Lu Feng, **Shangtong Zhang**.  
