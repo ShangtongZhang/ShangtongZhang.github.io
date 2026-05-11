@@ -8,6 +8,13 @@ This page lists research topics I am working or worked on with selected publicat
 <sup>*</sup> indicates equal contribution.  <u>Advisees</u> are underlined. <sup>†</sup> indicates equal advising.
 
 #### Stochastic Approximation Theory and Its Applications in Reinforcement Learning
+
+- [arXiv 2026] [On the Divergence of Differential Temporal Difference Learning without Local Clocks](https://arxiv.org/abs/2605.06874).  
+<u>David Antrobius</u>, **Shangtong Zhang**.  
+
+- [arXiv 2026] [Almost Sure Convergence Rates of Stochastic Approximation and Reinforcement Learning via a Poisson-Moreau Drift](https://arxiv.org/abs/2605.07104).
+<u>Xinyu Liu</u>, <u>Zixuan Xie</u>, **Shangtong Zhang**.  
+
 - [ICML 2026] Convergence of Two-Timescale Stochastic Approximation with Markovian Samples and Applications in Reinforcement Learning.  
 <u>Vagul Mahadevan</u>, <u>Claire Chen</u>, <u>Shuze Liu</u>, **Shangtong Zhang**.  
 
@@ -39,6 +46,12 @@ This page lists research topics I am working or worked on with selected publicat
 **Shangtong Zhang**, Remi Tachet des Combes<sup>†</sup>, Romain Laroche<sup>†</sup>.  
 
 #### In-Context Reinforcement Learning
+- [arXiv 2026] [Convergence and Emergence of In-Context Reinforcement Learning with Chain of Thought](https://arxiv.org/abs/2605.07123).  
+<u>Zixuan Xie</u><sup>*</sup>, <u>Xinyu Liu</u><sup>*</sup>, Rohan Chandra, **Shangtong Zhang**. 
+
+- [arXiv 2026] [Beyond Linear Attention: Softmax Transformers Implement In-Context Reinforcement Learning](https://arxiv.org/abs/2605.07333).  
+<u>Zixuan Xie</u><sup>*</sup>, <u>Xinyu Liu</u><sup>*</sup>, <u>Claire Chen</u><sup>*</sup>, <u>Shuze Liu</u><sup>*</sup>, Rohan Chandra, **Shangtong Zhang**.  
+
 - [ICML 2026] [Safe In-Context Reinforcement Learning](https://arxiv.org/abs/2509.25582).  
 <u>Amir Moeini</u><sup>*</sup>, Minjae Kwon<sup>*</sup>, Alper Kamil Bozkurt, Yuichi Motai, Rohan Chandra, Lu Feng, **Shangtong Zhang**.  
 
@@ -56,6 +69,8 @@ This page lists research topics I am working or worked on with selected publicat
 **QuantCo Spotlight (Best Paper) Award** at the ICML Workshop on In-Context Learning, 2024.  
 
 #### Lean and Mathlib
+- [arXiv 2026] [MathlibPR: Pull Request Merge-Readiness Benchmark for Formal Mathematical Libraries](https://arxiv.org/abs/2605.07147).  
+<u>Zixuan Xie</u><sup>*</sup>, <u>Xinyu Liu</u><sup>*</sup>, **Shangtong Zhang**.  
 
 - [ICML 2026] [MathlibLemma: Folklore Lemma Generation and Benchmark for Formal Mathematics](https://arxiv.org/abs/2602.02561).  
   <u>Xinyu Liu</u>, <u>Zixuan Xie</u>, <u>Amir Moeini</u>, <u>Claire Chen</u>, <u>Shuze Liu</u>, Yu Meng, Aidong Zhang, **Shangtong Zhang**.  
