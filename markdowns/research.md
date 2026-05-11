@@ -12,7 +12,7 @@ This page lists research topics I am working or worked on with selected publicat
 - [arXiv 2026] [On the Divergence of Differential Temporal Difference Learning without Local Clocks](https://arxiv.org/abs/2605.06874).  
 <u>David Antrobius</u>, **Shangtong Zhang**.  
 
-- [arXiv 2026] [Almost Sure Convergence Rates of Stochastic Approximation and Reinforcement Learning via a Poisson-Moreau Drift](https://arxiv.org/abs/2605.07104).
+- [arXiv 2026] [Almost Sure Convergence Rates of Stochastic Approximation and Reinforcement Learning via a Poisson-Moreau Drift](https://arxiv.org/abs/2605.07104).  
 <u>Xinyu Liu</u>, <u>Zixuan Xie</u>, **Shangtong Zhang**.  
 
 - [ICML 2026] Convergence of Two-Timescale Stochastic Approximation with Markovian Samples and Applications in Reinforcement Learning.  
