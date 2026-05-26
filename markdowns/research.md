@@ -15,8 +15,8 @@ This page lists research topics I am working or worked on with selected publicat
 - [arXiv 2026] [Almost Sure Convergence Rates of Stochastic Approximation and Reinforcement Learning via a Poisson-Moreau Drift](https://arxiv.org/abs/2605.07104).  
 <u>Xinyu Liu</u>, <u>Zixuan Xie</u>, **Shangtong Zhang**.  
 
-- [ICML 2026] Convergence of Two-Timescale Stochastic Approximation with Markovian Samples and Applications in Reinforcement Learning.  
-<u>Vagul Mahadevan</u>, <u>Claire Chen</u>, <u>Shuze Liu</u>, **Shangtong Zhang**.  
+<!-- - [ICML 2026] Convergence of Two-Timescale Stochastic Approximation with Markovian Samples and Applications in Reinforcement Learning.   -->
+<!-- <u>Vagul Mahadevan</u>, <u>Claire Chen</u>, <u>Shuze Liu</u>, **Shangtong Zhang**.   -->
 
 - [JMLR 2026] [Almost Sure Convergence of Linear Temporal Difference Learning with Arbitrary Features](https://arxiv.org/abs/2409.12135).  
 <u>Jiuqi Wang</u>, **Shangtong Zhang**.  
