@@ -7,16 +7,6 @@ permalink: /people/
 ### Ph.D. Students
 <table class="phd_students">
   <tbody>
-    <!-- <tr>
-      <td> <img class="image" src="/assets/img/people/shuze.jpg"  width="100"/>
-      </td>
-      <td>
-        <p>
-          <a target="_blank" rel="noopener noreferrer" href="https://shuzeliu.com/"><b> Shuze Liu </b> </a>
-          <br> Ph.D. candidate, Fall 2022 - Now
-        </p>
-      </td>
-    </tr>  -->
     <tr>
       <td> <img class="image" src="/assets/img/people/ethan.jpg"  width="100"/>
       </td>
@@ -66,7 +56,7 @@ permalink: /people/
       <td>
         <p>
           <a target="_blank" rel="noopener noreferrer" href="https://moeiniamir.github.io"> <b> Amir Moeini </b> </a>
-          <br> Ph.D. candidate, Fall 2024 - Now
+          <br> Ph.D. student, Fall 2024 - Now
         </p>
       </td>
     </tr>
