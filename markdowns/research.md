@@ -98,7 +98,7 @@ This page lists research topics I am working or worked on with selected publicat
 
 #### Applications
 
-- [KDD 2026] InfRL: Inference-time Reinforcement Learning for Research Idea Optimization.  
+- [KDD 2026] [InfRL: Inference-time Reinforcement Learning for Research Idea Optimization](https://dl.acm.org/doi/10.1145/3770855.3819029).  
 Sikun Guo, Amir Hassan Shariatmadari, <u>Jiuqi Wang</u>, Albert Huang, Stefan Bekiranov, **Shangtong Zhang**, Aidong Zhang.  
 
 - [arXiv 2026] [Multi-agent DRL-based Lane Change Decision Model for Cooperative Planning in Mixed Traffic](https://arxiv.org/abs/2601.11809).  
