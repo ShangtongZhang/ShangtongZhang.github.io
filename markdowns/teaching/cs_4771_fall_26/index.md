@@ -9,6 +9,7 @@ and has enjoyed tremendous success, e.g., [playing the game of Go](https://www.n
 This course is designed to cover basic but important ideas of RL, as well as milestone papers in deep RL if time permits.
 
 ## News
+- There will be no lecture on **Sep 7** (Labor Day)
 - There will be no lecture on **Oct 5** (Fall Reading Days)
 - There will be no lecture on **Nov 25 and Nov 27** (Thanksgiving recess)
 
@@ -16,14 +17,13 @@ This course is designed to cover basic but important ideas of RL, as well as mil
 
 - Instructor: [Shangtong Zhang](/)
 - TAs:
-- Dates: August 25 - December 8, 2026
-- Meets: Monday, Wednesday, Friday, 2:00 PM - 2:50 PM
-- Instruction Mode: In Person
-- Room: Olsson Hall 009
-- Campus: Main Campus
-- Location: On Grounds
-- Components: Lecture Required
+  - [Amir Moeini](https://moeiniamir.github.io/)
+  - [Xinyu Liu](https://saodimao20.github.io/)
+- Meets: Monday, Wednesday, Friday, 2:00 PM - 2:50 PM @ Olsson Hall 009
 - Office Hours:
+  - Shangtong: Monday, 2:50 PM - 3:30 PM
+  - Amir: TBA
+  - Xinyu: TBA
 - [UVACanvas](https://canvas.its.virginia.edu/courses/186428)
 - Prerequisite:
   This course will be light in math but still requires basic ideas of probability, linear algebra, and calculus. The homework is programming-based so you need to be proficient in Python.
