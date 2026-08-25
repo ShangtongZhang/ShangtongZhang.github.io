@@ -69,28 +69,39 @@ There is indeed reference Python implementation available in the Internet, e.g.,
 You are welcome to learn from those.
 But you need to write your code on your own in a highly modularized way (I will provide a demo).
 
-Bandit
-* HW 1.1 Reproduce Figure 2.2 (epsilon-greedy)
-* HW 1.2 Reproduce Figure 2.3 (optimistic initialization) and Figure 2.4 (UCB)
-* HW 1.4 Reproduce Figure 2.6 (parameter study)
+Homework 1 (Bandit)
+* 1.1 Reproduce Figure 2.3 (optimistic initialization)
+* 1.2 Reproduce Figure 2.4 (UCB)
+* 1.3 Reproduce Figure 2.5 (gradient)
+* 1.4 Reproduce Figure 2.6 (parameter study)
 
-Dynamic Programming
-* HW 2.1 Reproduce Figure 3.2 (policy evaluation)
-* HW 2.2 Reproduce Figure 3.5 (value iteration) and Figure 4.1 (policy iteration)
+Homework 2 (Dynamic Programming)
+* 2.1 Reproduce Figure 3.2 (policy evaluation)
+* 2.2 Reproduce Figure 4.1 (policy iteration)
+* 2.3 Reproduce Figure 3.5 (value iteration)
 
-Monte Carlo
-* HW 3.1 Reproduce Figure 5.1 (on-policy)
+Homework 3 (Monte Carlo)
+* 3.1 Reproduce Figure 5.1 (on-policy)
+* 3.2 Reproduce Figure 5.3 (off-policy)
+* 3.3 Reproduce Figure 5.4 (off-policy) (with both OIS and WIS)
 
-Temporal Difference
-* HW 4.1 Reproduce Example 6.2 (TD v.s. Monte Carlo)
-* HW 4.2 Reproduce Example 6.5 (SARSA)
-* HW 4.3 Reproduce Example 6.6 (SARSA v.s. Q-learning)
-* HW 4.4 Reproduce Figure 6.5 (double Q-learning)
+Homework 4 (Temporal Difference)
+* 4.1 Reproduce Example 6.2 (TD v.s. Monte Carlo)
+* 4.2 Reproduce Figure 6.2 (TD v.s. Monte Carlo in batch setting)
+* 4.3 Reproduce Example 6.5 (SARSA)
+* 4.4 Reproduce Example 6.6 (SARSA v.s. Q-learning)
+* 4.5 Reproduce Figure 6.5 (double Q-learning)
 
-* HW 6.1 Reproduce Figure 9.2 (linear function approximation)
+Homework 5 (N-Step TD)
+* Reproduce Figure 7.2
 
-Policy Gradient
-* HW 7.1 Reproduce Figure 13.2 (REINFORCE)
+Homework 6 (Approximate Methods)
+* 6.1 Reproduce Figure 9.1 (state aggregation)
+* 6.2 Reproduce Figure 9.2 (linear function approximation)
+
+Homework 7 (Policy Gradient)
+* 7.1 Reproduce Example 13.1 (stochastic policy)
+* 7.2 Reproduce Figure 13.2 (REINFORCE)
 
 Bonus
 * Fill the course evaluation at the end of the semester (5 pt)
