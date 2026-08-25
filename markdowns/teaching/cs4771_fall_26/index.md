@@ -15,10 +15,11 @@ This course is designed to cover basic but important ideas of RL, as well as mil
 
 ## Logistics
 
-- Instructor: [Shangtong Zhang](/)
+- Instructor: [Shangtong Zhang](/) 
 - TAs:
   - [Amir Moeini](https://moeiniamir.github.io/)
   - [Xinyu Liu](https://saodimao20.github.io/)
+  - Please email to [shangtong-and-ta@virginia.edu](mailto:shangtong-and-ta@virginia.edu) for reaching out to TAs
 - Meets: Monday, Wednesday, Friday, 2:00 PM - 2:50 PM @ Olsson Hall 009
 - Office Hours:
   - Shangtong: Monday, 2:50 PM - 3:30 PM
