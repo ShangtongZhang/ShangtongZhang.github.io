@@ -23,7 +23,7 @@ This course is designed to cover basic but important ideas of RL, as well as mil
 - Meets: Monday, Wednesday, Friday, 2:00 PM - 2:50 PM @ Olsson Hall 009
 - Office Hours:
   - Shangtong: Monday, 2:50 PM - 3:30 PM
-  - Amir: TBA
+  - Amir: Tuesday, 2:00 PM - 3:00 PM
   - Xinyu: Thursday, 2:00 PM - 3:00 PM
 - [UVACanvas](https://canvas.its.virginia.edu/courses/186428)
 - Prerequisite:
