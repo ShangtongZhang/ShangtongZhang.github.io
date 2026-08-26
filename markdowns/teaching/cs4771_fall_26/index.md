@@ -24,7 +24,7 @@ This course is designed to cover basic but important ideas of RL, as well as mil
 - Office Hours:
   - Shangtong: Monday, 2:50 PM - 3:30 PM
   - Amir: TBA
-  - Xinyu: TBA
+  - Xinyu: Thursday, 2:00 PM - 3:00 PM
 - [UVACanvas](https://canvas.its.virginia.edu/courses/186428)
 - Prerequisite:
   This course will be light in math but still requires basic ideas of probability, linear algebra, and calculus. The homework is programming-based so you need to be proficient in Python.
