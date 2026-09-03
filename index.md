@@ -29,7 +29,7 @@ layout: home
     </tbody>
 </table>
 
-[[Google Scholar]](https://scholar.google.co.uk/citations?user=Pn7fj4IAAAAJ&hl=en) [[Twitter]](https://twitter.com/ShangtongZhang) [[Curriculum Vitae]](/assets/pdf/resume/resume.pdf) [[Github]](https://github.com/ShangtongZhang) [[PhD Thesis]](https://ora.ox.ac.uk/objects/uuid:2c410803-2141-41ed-b362-7f14723b2f17) [[Zoom]](https://virginia.zoom.us/my/shangtong) [[Prospective Students]](/recruiting) [[UVA RL Meetup]](https://rl-meetup.github.io)    
+[[Google Scholar]](https://scholar.google.co.uk/citations?user=Pn7fj4IAAAAJ&hl=en) [[Twitter]](https://twitter.com/ShangtongZhang) [[Curriculum Vitae]](/assets/pdf/resume/resume.pdf) [[Github]](https://github.com/ShangtongZhang) [[Calendar]](/calendar/) [[PhD Thesis]](https://ora.ox.ac.uk/objects/uuid:2c410803-2141-41ed-b362-7f14723b2f17) [[Zoom]](https://virginia.zoom.us/my/shangtong) [[Prospective Students]](/recruiting) [[UVA RL Meetup]](https://rl-meetup.github.io)
 <!-- <span style="color:red"> <a href="/people" style="color:red"> <u> I am looking for self-motivated students interested in RL at different levels! </u> </a> </span> -->
 ## Biography
 

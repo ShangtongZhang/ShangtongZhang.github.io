@@ -1,0 +1,290 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Shangtong Zhang's public availability calendar">
+  <title>Calendar | Shangtong Zhang</title>
+  <style>
+    * { box-sizing: border-box; }
+    body {
+      background: #fff;
+      color: #1f2937;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.5;
+      margin: 0;
+    }
+    main { margin: 0 auto; max-width: 70rem; padding: 2rem 1rem 3rem; }
+    h1 { font-size: 2rem; line-height: 1.2; margin: 0 0 1rem; }
+    a { color: #1756a9; }
+    .home-link { display: inline-block; margin-bottom: 1.25rem; }
+    .availability-app {
+      --preferred-bg: #dcfce7;
+      --preferred-fg: #166534;
+      --available-bg: #fff;
+      --available-fg: #475569;
+      --busy-bg: #deecf9;
+      --busy-fg: #004578;
+      --movable-bg: repeating-linear-gradient(135deg, #deecf9 0, #deecf9 6px, #c7e0f4 6px, #c7e0f4 12px);
+      --movable-fg: #004578;
+    }
+    .availability-intro { color: #475569; max-width: 48rem; }
+    .availability-toolbar {
+      align-items: center;
+      display: flex;
+      flex-wrap: wrap;
+      gap: .75rem;
+      justify-content: space-between;
+      margin: 1.25rem 0 .75rem;
+    }
+    .availability-nav { align-items: center; display: flex; gap: .55rem; }
+    .availability-nav button {
+      background: #fff;
+      border: 1px solid #94a3b8;
+      border-radius: .4rem;
+      color: #1f2937;
+      cursor: pointer;
+      font: inherit;
+      min-height: 2.25rem;
+      padding: .35rem .7rem;
+    }
+    .availability-nav button:focus-visible { outline: 3px solid #93c5fd; outline-offset: 2px; }
+    .availability-nav button:disabled { cursor: not-allowed; opacity: .45; }
+    .availability-range { font-weight: 600; min-width: 13rem; text-align: center; }
+    .availability-legend {
+      display: flex;
+      flex-wrap: wrap;
+      gap: .5rem 1rem;
+      list-style: none;
+      margin: .75rem 0;
+      padding: 0;
+    }
+    .availability-legend li { align-items: center; display: flex; font-size: .92rem; gap: .4rem; }
+    .availability-swatch {
+      border: 1px solid #94a3b8;
+      border-radius: .25rem;
+      display: inline-block;
+      height: .9rem;
+      width: .9rem;
+    }
+    .availability-swatch.preferred, .availability-slot.preferred { background: var(--preferred-bg); color: var(--preferred-fg); }
+    .availability-swatch.available, .availability-slot.available { background: var(--available-bg); color: var(--available-fg); }
+    .availability-swatch.busy, .availability-slot.busy { background: var(--busy-bg); color: var(--busy-fg); }
+    .availability-swatch.movable, .availability-slot.movable { background: var(--movable-bg); color: var(--movable-fg); }
+    .availability-swatch.movable { border-color: #005a9e; border-style: dashed; }
+    .availability-slot.movable { outline: 1px dashed #005a9e; outline-offset: -2px; }
+    .availability-table-wrap { border: 1px solid #cbd5e1; border-radius: .5rem; overflow-x: auto; }
+    .availability-table { border-collapse: collapse; margin: 0; min-width: 43rem; table-layout: fixed; width: 100%; }
+    .availability-table th, .availability-table td { border: 1px solid #cbd5e1; padding: .38rem .3rem; text-align: center; }
+    .availability-table thead th { background: #f8fafc; font-size: .9rem; }
+    .availability-time { background: #f8fafc; color: #475569; font-size: .82rem; font-weight: 500; width: 4.5rem; }
+    .availability-slot { font-size: .76rem; font-weight: 600; line-height: 1.15; }
+    .availability-updated { color: #64748b; font-size: .86rem; margin-top: .65rem; }
+    .availability-message { border: 1px solid #cbd5e1; border-radius: .5rem; color: #475569; padding: 1rem; }
+    .availability-message.error { border-color: #fecaca; color: #991b1b; }
+    .sr-only {
+      border: 0;
+      clip: rect(0, 0, 0, 0);
+      height: 1px;
+      margin: -1px;
+      overflow: hidden;
+      padding: 0;
+      position: absolute;
+      white-space: nowrap;
+      width: 1px;
+    }
+    @media (max-width: 600px) {
+      .availability-range { min-width: 0; }
+      .availability-toolbar { align-items: flex-start; flex-direction: column; }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <a class="home-link" href="/">← Shangtong Zhang</a>
+    <section class="availability-app" aria-labelledby="availabilityHeading">
+      <h1 id="availabilityHeading">Public availability</h1>
+      <p class="availability-intro">This calendar is informational only; it does not support booking. “Busy but movable” means that time may be flexible.</p>
+      <div class="availability-toolbar">
+        <div class="availability-nav" aria-label="Choose week">
+          <button id="availabilityPrevious" type="button" aria-label="Show previous week" disabled>Previous</button>
+          <span class="availability-range" id="availabilityRange" aria-live="polite">Loading…</span>
+          <button id="availabilityNext" type="button" aria-label="Show next week" disabled>Next</button>
+        </div>
+      </div>
+      <ul class="availability-legend" aria-label="Availability legend">
+        <li><span class="availability-swatch preferred" aria-hidden="true"></span>Preferred</li>
+        <li><span class="availability-swatch available" aria-hidden="true"></span>Available</li>
+        <li><span class="availability-swatch busy" aria-hidden="true"></span>Busy</li>
+        <li><span class="availability-swatch movable" aria-hidden="true"></span>Busy but movable</li>
+      </ul>
+      <div id="availabilityCalendar" aria-live="polite">
+        <p class="availability-message">Loading availability…</p>
+      </div>
+      <p class="availability-updated" id="availabilityUpdated"></p>
+      <noscript><p class="availability-message error">JavaScript is required to display this availability calendar.</p></noscript>
+    </section>
+  </main>
+  <script>
+  (function () {
+    'use strict';
+
+    var allowedStates = { preferred: true, available: true, busy: true, movable: true };
+    var labels = { preferred: 'Preferred', available: 'Available', busy: 'Busy', movable: 'Busy but movable' };
+    var visibleLabels = { preferred: 'Preferred', available: 'Available', busy: 'Busy', movable: 'Busy' };
+    var calendar = document.getElementById('availabilityCalendar');
+    var range = document.getElementById('availabilityRange');
+    var previous = document.getElementById('availabilityPrevious');
+    var next = document.getElementById('availabilityNext');
+    var updated = document.getElementById('availabilityUpdated');
+    var data = null;
+    var index = 0;
+
+    function isObject(value) {
+      return value !== null && typeof value === 'object' && !Array.isArray(value);
+    }
+
+    function isDateKey(value) {
+      return typeof value === 'string' && /^\d{4}-\d{2}-\d{2}$/.test(value);
+    }
+
+    function validateData(value) {
+      if (!isObject(value) || value.version !== 1 || !isObject(value.settings) || !Array.isArray(value.weeks)) {
+        throw new Error('Unsupported availability data.');
+      }
+      if (typeof value.timeZone !== 'string' || !/^\d{2}:\d{2}$/.test(value.settings.startTime)
+          || !/^\d{2}:\d{2}$/.test(value.settings.endTime) || value.settings.slotMinutes !== 30
+          || !Array.isArray(value.settings.weekdays)) {
+        throw new Error('Invalid availability settings.');
+      }
+      try { new Intl.DateTimeFormat(undefined, { timeZone: value.timeZone }).format(new Date()); }
+      catch (_) { throw new Error('Invalid availability time zone.'); }
+      value.weeks.forEach(function (week) {
+        if (!isObject(week) || !isDateKey(week.startDate) || !isDateKey(week.endDate) || !Array.isArray(week.days)) {
+          throw new Error('Invalid availability week.');
+        }
+        week.days.forEach(function (day) {
+          if (!isObject(day) || !isDateKey(day.date) || !Number.isInteger(day.weekday) || !Array.isArray(day.slots)) {
+            throw new Error('Invalid availability day.');
+          }
+          day.slots.forEach(function (slot) {
+            if (!isObject(slot) || !/^\d{2}:\d{2}$/.test(slot.time) || !allowedStates[slot.state]) {
+              throw new Error('Invalid availability slot.');
+            }
+          });
+        });
+      });
+      if (value.weeks.length && (typeof value.generatedAt !== 'string' || !Number.isFinite(Date.parse(value.generatedAt)))) {
+        throw new Error('Invalid availability update time.');
+      }
+      return value;
+    }
+
+    function dateValue(dateKey) { return new Date(dateKey + 'T12:00:00Z'); }
+    function shortDate(dateKey) {
+      return new Intl.DateTimeFormat(undefined, { month: 'short', day: 'numeric', timeZone: 'UTC' }).format(dateValue(dateKey));
+    }
+    function dayLabel(dateKey) {
+      return new Intl.DateTimeFormat(undefined, { weekday: 'short', month: 'short', day: 'numeric', timeZone: 'UTC' }).format(dateValue(dateKey));
+    }
+    function displayTime(time) {
+      var parts = time.split(':').map(Number);
+      return new Intl.DateTimeFormat(undefined, { hour: 'numeric', minute: '2-digit', timeZone: 'UTC' })
+        .format(new Date(Date.UTC(2000, 0, 1, parts[0], parts[1])));
+    }
+    function showMessage(message, isError) {
+      var panel = document.createElement('p');
+      panel.className = 'availability-message' + (isError ? ' error' : '');
+      panel.textContent = message;
+      calendar.replaceChildren(panel);
+      range.textContent = isError ? 'Unavailable' : 'No published dates';
+      previous.disabled = true;
+      next.disabled = true;
+      updated.textContent = '';
+    }
+    function render() {
+      var week = data.weeks[index];
+      range.textContent = shortDate(week.startDate) + ' – ' + shortDate(week.endDate);
+      previous.disabled = index === 0;
+      next.disabled = index === data.weeks.length - 1;
+
+      var table = document.createElement('table');
+      table.className = 'availability-table';
+      var caption = document.createElement('caption');
+      caption.className = 'sr-only';
+      caption.textContent = 'Availability for ' + range.textContent + ', times in ' + data.timeZone;
+      table.appendChild(caption);
+
+      var head = document.createElement('thead');
+      var headingRow = document.createElement('tr');
+      var corner = document.createElement('th');
+      corner.scope = 'col';
+      corner.textContent = 'Time';
+      headingRow.appendChild(corner);
+      week.days.forEach(function (day) {
+        var heading = document.createElement('th');
+        heading.scope = 'col';
+        heading.textContent = dayLabel(day.date);
+        headingRow.appendChild(heading);
+      });
+      head.appendChild(headingRow);
+      table.appendChild(head);
+
+      var body = document.createElement('tbody');
+      var slotCount = week.days.length ? week.days[0].slots.length : 0;
+      for (var slotIndex = 0; slotIndex < slotCount; slotIndex += 1) {
+        var row = document.createElement('tr');
+        var time = document.createElement('th');
+        time.scope = 'row';
+        time.className = 'availability-time';
+        time.textContent = displayTime(week.days[0].slots[slotIndex].time);
+        row.appendChild(time);
+        week.days.forEach(function (day) {
+          var slot = day.slots[slotIndex];
+          var cell = document.createElement('td');
+          cell.className = 'availability-slot ' + slot.state;
+          cell.textContent = visibleLabels[slot.state];
+          cell.setAttribute('aria-label', dayLabel(day.date) + ' at ' + displayTime(slot.time) + ': ' + labels[slot.state]);
+          row.appendChild(cell);
+        });
+        body.appendChild(row);
+      }
+      table.appendChild(body);
+      var wrapper = document.createElement('div');
+      wrapper.className = 'availability-table-wrap';
+      wrapper.appendChild(table);
+      calendar.replaceChildren(wrapper);
+    }
+
+    previous.addEventListener('click', function () {
+      if (index > 0) { index -= 1; render(); }
+    });
+    next.addEventListener('click', function () {
+      if (data && index + 1 < data.weeks.length) { index += 1; render(); }
+    });
+
+    var dataUrl = new URL('data.json', window.location.href);
+    dataUrl.searchParams.set('v', String(Date.now()));
+    fetch(dataUrl.toString(), { cache: 'no-store', credentials: 'same-origin' })
+      .then(function (response) {
+        if (!response.ok) throw new Error('Availability request failed.');
+        return response.json();
+      })
+      .then(function (value) {
+        data = validateData(value);
+        if (!data.weeks.length) {
+          showMessage('Availability has not been published yet.', false);
+          return;
+        }
+        updated.textContent = 'Updated ' + new Intl.DateTimeFormat(undefined, {
+          dateStyle: 'medium', timeStyle: 'short', timeZone: data.timeZone,
+        }).format(new Date(data.generatedAt)) + ' (' + data.timeZone + ').';
+        render();
+      })
+      .catch(function () {
+        showMessage('Availability is temporarily unavailable. Please try again later.', true);
+      });
+  }());
+  </script>
+</body>
+</html>

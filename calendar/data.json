@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "generatedAt": null,
+  "timeZone": "America/New_York",
+  "settings": {
+    "weekdays": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "startTime": "09:00",
+    "endTime": "17:00",
+    "slotMinutes": 30
+  },
+  "weeks": []
+}
