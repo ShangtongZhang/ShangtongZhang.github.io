@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-03T18:35:54.551Z",
+  "generatedAt": "2026-09-03T19:55:15.122Z",
   "timeZone": "America/New_York",
   "settings": {
     "weekdays": [
@@ -73,7 +73,7 @@
             },
             {
               "time": "15:00",
-              "state": "busy"
+              "state": "movable"
             },
             {
               "time": "15:30",
@@ -785,7 +785,7 @@
             },
             {
               "time": "15:00",
-              "state": "busy"
+              "state": "movable"
             },
             {
               "time": "15:30",
@@ -1141,7 +1141,7 @@
             },
             {
               "time": "15:00",
-              "state": "busy"
+              "state": "movable"
             },
             {
               "time": "15:30",
@@ -1497,7 +1497,7 @@
             },
             {
               "time": "15:00",
-              "state": "busy"
+              "state": "movable"
             },
             {
               "time": "15:30",
@@ -1853,7 +1853,7 @@
             },
             {
               "time": "15:00",
-              "state": "busy"
+              "state": "movable"
             },
             {
               "time": "15:30",
@@ -2209,7 +2209,7 @@
             },
             {
               "time": "15:00",
-              "state": "busy"
+              "state": "movable"
             },
             {
               "time": "15:30",
@@ -2565,7 +2565,7 @@
             },
             {
               "time": "15:00",
-              "state": "busy"
+              "state": "movable"
             },
             {
               "time": "15:30",
@@ -2921,7 +2921,7 @@
             },
             {
               "time": "15:00",
-              "state": "busy"
+              "state": "movable"
             },
             {
               "time": "15:30",
@@ -3277,7 +3277,7 @@
             },
             {
               "time": "15:00",
-              "state": "busy"
+              "state": "movable"
             },
             {
               "time": "15:30",
@@ -3633,7 +3633,7 @@
             },
             {
               "time": "15:00",
-              "state": "busy"
+              "state": "movable"
             },
             {
               "time": "15:30",
@@ -3989,7 +3989,7 @@
             },
             {
               "time": "15:00",
-              "state": "busy"
+              "state": "movable"
             },
             {
               "time": "15:30",
@@ -4345,7 +4345,7 @@
             },
             {
               "time": "15:00",
-              "state": "busy"
+              "state": "movable"
             },
             {
               "time": "15:30",
@@ -4701,7 +4701,7 @@
             },
             {
               "time": "15:00",
-              "state": "busy"
+              "state": "movable"
             },
             {
               "time": "15:30",
@@ -5057,7 +5057,7 @@
             },
             {
               "time": "15:00",
-              "state": "busy"
+              "state": "movable"
             },
             {
               "time": "15:30",
