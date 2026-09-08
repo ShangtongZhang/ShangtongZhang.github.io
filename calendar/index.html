@@ -108,6 +108,7 @@
       <div class="availability-toolbar">
         <div class="availability-nav" aria-label="Choose week">
           <button id="availabilityPrevious" type="button" aria-label="Show previous week" disabled>Previous</button>
+          <button id="availabilityToday" type="button" aria-label="Show today's week" disabled>Today</button>
           <span class="availability-range" id="availabilityRange" aria-live="polite">Loading…</span>
           <button id="availabilityNext" type="button" aria-label="Show next week" disabled>Next</button>
         </div>
@@ -135,6 +136,7 @@
     var calendar = document.getElementById('availabilityCalendar');
     var range = document.getElementById('availabilityRange');
     var previous = document.getElementById('availabilityPrevious');
+    var today = document.getElementById('availabilityToday');
     var next = document.getElementById('availabilityNext');
     var updated = document.getElementById('availabilityUpdated');
     var data = null;
@@ -181,6 +183,27 @@
     }
 
     function dateValue(dateKey) { return new Date(dateKey + 'T12:00:00Z'); }
+    function dateKeyInTimeZone(date, timeZone) {
+      var parts = new Intl.DateTimeFormat('en-US', {
+        day: '2-digit', month: '2-digit', year: 'numeric', timeZone: timeZone,
+      }).formatToParts(date);
+      var values = {};
+      parts.forEach(function (part) {
+        if (part.type !== 'literal') values[part.type] = part.value;
+      });
+      return values.year + '-' + values.month + '-' + values.day;
+    }
+    function weekIndexForDate(dateKey) {
+      return data.weeks.findIndex(function (week) {
+        return week.startDate <= dateKey && dateKey <= week.endDate;
+      });
+    }
+    function defaultWeekIndex(dateKey) {
+      var containingWeek = weekIndexForDate(dateKey);
+      if (containingWeek >= 0) return containingWeek;
+      var nextWeek = data.weeks.findIndex(function (week) { return week.startDate > dateKey; });
+      return nextWeek >= 0 ? nextWeek : data.weeks.length - 1;
+    }
     function shortDate(dateKey) {
       return new Intl.DateTimeFormat(undefined, { month: 'short', day: 'numeric', timeZone: 'UTC' }).format(dateValue(dateKey));
     }
@@ -199,6 +222,7 @@
       calendar.replaceChildren(panel);
       range.textContent = isError ? 'Unavailable' : 'No published dates';
       previous.disabled = true;
+      today.disabled = true;
       next.disabled = true;
       updated.textContent = '';
     }
@@ -206,6 +230,7 @@
       var week = data.weeks[index];
       range.textContent = shortDate(week.startDate) + ' – ' + shortDate(week.endDate);
       previous.disabled = index === 0;
+      today.disabled = weekIndexForDate(dateKeyInTimeZone(new Date(), data.timeZone)) < 0;
       next.disabled = index === data.weeks.length - 1;
 
       var table = document.createElement('table');
@@ -259,6 +284,14 @@
     previous.addEventListener('click', function () {
       if (index > 0) { index -= 1; render(); }
     });
+    today.addEventListener('click', function () {
+      if (!data || !data.weeks.length) return;
+      var currentTodayIndex = weekIndexForDate(dateKeyInTimeZone(new Date(), data.timeZone));
+      if (currentTodayIndex >= 0) {
+        index = currentTodayIndex;
+        render();
+      }
+    });
     next.addEventListener('click', function () {
       if (data && index + 1 < data.weeks.length) { index += 1; render(); }
     });
@@ -276,6 +309,8 @@
           showMessage('Availability has not been published yet.', false);
           return;
         }
+        var currentDateKey = dateKeyInTimeZone(new Date(), data.timeZone);
+        index = defaultWeekIndex(currentDateKey);
         updated.textContent = 'Updated ' + new Intl.DateTimeFormat(undefined, {
           dateStyle: 'medium', timeStyle: 'short', timeZone: data.timeZone,
         }).format(new Date(data.generatedAt)) + ' (' + data.timeZone + ').';
