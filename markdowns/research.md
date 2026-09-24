@@ -9,10 +9,10 @@ This page lists research topics I am working or worked on with selected publicat
 
 #### Stochastic Approximation Theory and Its Applications in Reinforcement Learning
 
-- [arXiv 2026] [On the Divergence of Differential Temporal Difference Learning without Local Clocks](https://arxiv.org/abs/2605.06874).  
+- [NeurIPS 2026] [On the Divergence of Differential Temporal Difference Learning without Local Clocks](https://arxiv.org/abs/2605.06874).  
 <u>David Antrobius</u>, **Shangtong Zhang**.  
 
-- [arXiv 2026] [Almost Sure Convergence Rates of Stochastic Approximation and Reinforcement Learning via a Poisson-Moreau Drift](https://arxiv.org/abs/2605.07104).  
+- [NeurIPS 2026] [Almost Sure Convergence Rates of Stochastic Approximation and Reinforcement Learning via a Poisson-Moreau Drift](https://arxiv.org/abs/2605.07104).  
 <u>Xinyu Liu</u>, <u>Zixuan Xie</u>, **Shangtong Zhang**.  
 
 <!-- - [ICML 2026] Convergence of Two-Timescale Stochastic Approximation with Markovian Samples and Applications in Reinforcement Learning.   -->
@@ -77,6 +77,10 @@ This page lists research topics I am working or worked on with selected publicat
 
 - [RLC 2026] [Towards Formalizing Reinforcement Learning Theory: A Robbins-Siegmund Approach](https://arxiv.org/abs/2511.03618).  
   **Shangtong Zhang**.
+
+#### Continual Learning
+- [NeurIPS 2026] [Predicting Plasticity in Deep Continual Learning: A Theoretical Perspective](https://arxiv.org/abs/2605.09044).  
+<u>Jiuqi Wang</u>, Jayanth Srinivasa, <u>Claire Chen</u>, <u>Shuze Liu</u>, Ali Payani, **Shangtong Zhang**.  
 
 #### Efficient Monte Carlo Evaluation
 
