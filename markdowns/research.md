@@ -69,7 +69,7 @@ This page lists research topics I am working or worked on with selected publicat
 **QuantCo Spotlight (Best Paper) Award** at the ICML Workshop on In-Context Learning, 2024.  
 
 #### Lean and Mathlib
-- [arXiv 2026] [MathlibPR: Pull Request Merge-Readiness Benchmark for Formal Mathematical Libraries](https://arxiv.org/abs/2605.07147).  
+- [NeurIPS 2026] [MathlibPR: Pull Request Merge-Readiness Benchmark for Formal Mathematical Libraries](https://arxiv.org/abs/2605.07147).  
 <u>Zixuan Xie</u><sup>*</sup>, <u>Xinyu Liu</u><sup>*</sup>, **Shangtong Zhang**.  
 
 - [ICML 2026] [MathlibLemma: Folklore Lemma Generation and Benchmark for Formal Mathematics](https://arxiv.org/abs/2602.02561).  
