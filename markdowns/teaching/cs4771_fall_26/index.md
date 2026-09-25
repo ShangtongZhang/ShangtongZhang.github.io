@@ -71,9 +71,7 @@ But you need to write your code on your own in a highly modularized way (I will 
 
 Homework 1 (Bandit)
 * 1.1 Reproduce Figure 2.2 (epsilon-greedy)
-* 1.2 Reproduce Figure 2.4 (UCB)
-* 1.3 Reproduce Figure 2.5 (gradient)
-* 1.4 Reproduce Figure 2.6 (parameter study)
+* 1.2 Reproduce Figure 2.6 (parameter study)
 
 Homework 2 (Dynamic Programming)
 * 2.1 Reproduce Figure 3.2 (policy evaluation)
