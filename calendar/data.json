@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-02T12:22:39.598Z",
+  "generatedAt": "2026-10-02T12:56:04.351Z",
   "timeZone": "America/New_York",
   "settings": {
     "weekdays": [
@@ -421,15 +421,15 @@
             },
             {
               "time": "14:00",
-              "state": "available"
+              "state": "preferred"
             },
             {
               "time": "14:30",
-              "state": "available"
+              "state": "preferred"
             },
             {
               "time": "15:00",
-              "state": "available"
+              "state": "preferred"
             },
             {
               "time": "15:30",
@@ -3981,15 +3981,15 @@
             },
             {
               "time": "14:00",
-              "state": "available"
+              "state": "preferred"
             },
             {
               "time": "14:30",
-              "state": "available"
+              "state": "preferred"
             },
             {
               "time": "15:00",
-              "state": "available"
+              "state": "preferred"
             },
             {
               "time": "15:30",
@@ -4337,15 +4337,15 @@
             },
             {
               "time": "14:00",
-              "state": "available"
+              "state": "preferred"
             },
             {
               "time": "14:30",
-              "state": "available"
+              "state": "preferred"
             },
             {
               "time": "15:00",
-              "state": "available"
+              "state": "preferred"
             },
             {
               "time": "15:30",
@@ -4693,15 +4693,15 @@
             },
             {
               "time": "14:00",
-              "state": "available"
+              "state": "preferred"
             },
             {
               "time": "14:30",
-              "state": "available"
+              "state": "preferred"
             },
             {
               "time": "15:00",
-              "state": "available"
+              "state": "preferred"
             },
             {
               "time": "15:30",
@@ -5049,15 +5049,15 @@
             },
             {
               "time": "14:00",
-              "state": "available"
+              "state": "preferred"
             },
             {
               "time": "14:30",
-              "state": "available"
+              "state": "preferred"
             },
             {
               "time": "15:00",
-              "state": "available"
+              "state": "preferred"
             },
             {
               "time": "15:30",
@@ -5405,15 +5405,15 @@
             },
             {
               "time": "14:00",
-              "state": "available"
+              "state": "preferred"
             },
             {
               "time": "14:30",
-              "state": "available"
+              "state": "preferred"
             },
             {
               "time": "15:00",
-              "state": "available"
+              "state": "preferred"
             },
             {
               "time": "15:30",
