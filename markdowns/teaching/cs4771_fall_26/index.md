@@ -75,8 +75,8 @@ Homework 1 (Bandit)
 
 Homework 2 (Dynamic Programming)
 * 2.1 Reproduce Figure 3.2 (policy evaluation)
-* 2.2 Reproduce Figure 4.1 (policy iteration)
-* 2.3 Reproduce Figure 3.5 (value iteration)
+* 2.2 Reproduce Figure 3.5 (value iteration)
+* 2.3 Reproduce Figure 4.1 (policy iteration)
 
 Homework 3 (Monte Carlo)
 * 3.1 Reproduce Figure 5.1 (on-policy)
