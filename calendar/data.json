@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-05T23:04:46.317Z",
+  "generatedAt": "2026-10-09T23:59:52.662Z",
   "timeZone": "America/New_York",
   "settings": {
     "weekdays": [
@@ -213,11 +213,11 @@
             },
             {
               "time": "15:00",
-              "state": "movable"
+              "state": "available"
             },
             {
               "time": "15:30",
-              "state": "movable"
+              "state": "available"
             },
             {
               "time": "16:00",
@@ -577,7 +577,7 @@
             },
             {
               "time": "16:00",
-              "state": "preferred"
+              "state": "busy"
             },
             {
               "time": "16:30",
@@ -893,11 +893,11 @@
             },
             {
               "time": "11:00",
-              "state": "available"
+              "state": "busy"
             },
             {
               "time": "11:30",
-              "state": "available"
+              "state": "busy"
             },
             {
               "time": "12:00",
@@ -1519,27 +1519,27 @@
           "slots": [
             {
               "time": "09:00",
-              "state": "available"
+              "state": "busy"
             },
             {
               "time": "09:30",
-              "state": "available"
+              "state": "busy"
             },
             {
               "time": "10:00",
-              "state": "available"
+              "state": "busy"
             },
             {
               "time": "10:30",
-              "state": "available"
+              "state": "busy"
             },
             {
               "time": "11:00",
-              "state": "available"
+              "state": "busy"
             },
             {
               "time": "11:30",
-              "state": "available"
+              "state": "busy"
             },
             {
               "time": "12:00",
@@ -1555,19 +1555,19 @@
             },
             {
               "time": "13:30",
-              "state": "movable"
+              "state": "busy"
             },
             {
               "time": "14:00",
-              "state": "movable"
+              "state": "busy"
             },
             {
               "time": "14:30",
-              "state": "preferred"
+              "state": "busy"
             },
             {
               "time": "15:00",
-              "state": "preferred"
+              "state": "busy"
             },
             {
               "time": "15:30",
@@ -1953,19 +1953,19 @@
             },
             {
               "time": "10:00",
-              "state": "available"
+              "state": "busy"
             },
             {
               "time": "10:30",
-              "state": "available"
+              "state": "busy"
             },
             {
               "time": "11:00",
-              "state": "available"
+              "state": "busy"
             },
             {
               "time": "11:30",
-              "state": "available"
+              "state": "busy"
             },
             {
               "time": "12:00",
@@ -1981,7 +1981,7 @@
             },
             {
               "time": "13:30",
-              "state": "movable"
+              "state": "busy"
             },
             {
               "time": "14:00",
@@ -1993,19 +1993,19 @@
             },
             {
               "time": "15:00",
-              "state": "movable"
+              "state": "busy"
             },
             {
               "time": "15:30",
-              "state": "movable"
+              "state": "busy"
             },
             {
               "time": "16:00",
-              "state": "preferred"
+              "state": "busy"
             },
             {
               "time": "16:30",
-              "state": "preferred"
+              "state": "busy"
             }
           ]
         },
