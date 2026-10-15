@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-13T21:10:08.307Z",
+  "generatedAt": "2026-10-15T13:19:47.188Z",
   "timeZone": "America/New_York",
   "settings": {
     "weekdays": [
@@ -491,7 +491,7 @@
             },
             {
               "time": "14:00",
-              "state": "movable"
+              "state": "preferred"
             },
             {
               "time": "14:30",
@@ -847,11 +847,11 @@
             },
             {
               "time": "14:00",
-              "state": "movable"
+              "state": "preferred"
             },
             {
               "time": "14:30",
-              "state": "preferred"
+              "state": "busy"
             },
             {
               "time": "15:00",
@@ -1559,11 +1559,11 @@
             },
             {
               "time": "14:00",
-              "state": "movable"
+              "state": "preferred"
             },
             {
               "time": "14:30",
-              "state": "preferred"
+              "state": "busy"
             },
             {
               "time": "15:00",
@@ -1915,11 +1915,11 @@
             },
             {
               "time": "14:00",
-              "state": "movable"
+              "state": "preferred"
             },
             {
               "time": "14:30",
-              "state": "preferred"
+              "state": "busy"
             },
             {
               "time": "15:00",
@@ -2271,11 +2271,11 @@
             },
             {
               "time": "14:00",
-              "state": "movable"
+              "state": "preferred"
             },
             {
               "time": "14:30",
-              "state": "preferred"
+              "state": "busy"
             },
             {
               "time": "15:00",
@@ -2627,11 +2627,11 @@
             },
             {
               "time": "14:00",
-              "state": "movable"
+              "state": "preferred"
             },
             {
               "time": "14:30",
-              "state": "preferred"
+              "state": "busy"
             },
             {
               "time": "15:00",
@@ -2983,11 +2983,11 @@
             },
             {
               "time": "14:00",
-              "state": "movable"
+              "state": "preferred"
             },
             {
               "time": "14:30",
-              "state": "preferred"
+              "state": "busy"
             },
             {
               "time": "15:00",
@@ -3343,7 +3343,7 @@
             },
             {
               "time": "14:30",
-              "state": "preferred"
+              "state": "busy"
             },
             {
               "time": "15:00",
@@ -3699,7 +3699,7 @@
             },
             {
               "time": "14:30",
-              "state": "preferred"
+              "state": "busy"
             },
             {
               "time": "15:00",
@@ -4055,7 +4055,7 @@
             },
             {
               "time": "14:30",
-              "state": "preferred"
+              "state": "busy"
             },
             {
               "time": "15:00",
@@ -4411,7 +4411,7 @@
             },
             {
               "time": "14:30",
-              "state": "preferred"
+              "state": "busy"
             },
             {
               "time": "15:00",
@@ -4767,7 +4767,7 @@
             },
             {
               "time": "14:30",
-              "state": "preferred"
+              "state": "busy"
             },
             {
               "time": "15:00",
@@ -5123,7 +5123,7 @@
             },
             {
               "time": "14:30",
-              "state": "preferred"
+              "state": "busy"
             },
             {
               "time": "15:00",
@@ -5479,7 +5479,7 @@
             },
             {
               "time": "14:30",
-              "state": "preferred"
+              "state": "busy"
             },
             {
               "time": "15:00",
