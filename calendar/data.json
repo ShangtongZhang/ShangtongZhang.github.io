@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-15T13:19:47.188Z",
+  "generatedAt": "2026-10-16T10:58:24.873Z",
   "timeZone": "America/New_York",
   "settings": {
     "weekdays": [
@@ -341,7 +341,7 @@
             },
             {
               "time": "13:30",
-              "state": "movable"
+              "state": "busy"
             },
             {
               "time": "14:00",
