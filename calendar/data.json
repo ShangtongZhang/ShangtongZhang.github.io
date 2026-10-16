@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-16T10:58:24.873Z",
+  "generatedAt": "2026-10-16T21:19:41.262Z",
   "timeZone": "America/New_York",
   "settings": {
     "weekdays": [
@@ -341,7 +341,7 @@
             },
             {
               "time": "13:30",
-              "state": "busy"
+              "state": "movable"
             },
             {
               "time": "14:00",
@@ -361,11 +361,11 @@
             },
             {
               "time": "16:00",
-              "state": "preferred"
+              "state": "busy"
             },
             {
               "time": "16:30",
-              "state": "preferred"
+              "state": "busy"
             }
           ]
         }
@@ -661,15 +661,15 @@
           "slots": [
             {
               "time": "09:00",
-              "state": "available"
+              "state": "busy"
             },
             {
               "time": "09:30",
-              "state": "available"
+              "state": "busy"
             },
             {
               "time": "10:00",
-              "state": "available"
+              "state": "busy"
             },
             {
               "time": "10:30",
