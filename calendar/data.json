@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-29T17:27:43.836Z",
+  "generatedAt": "2026-11-03T13:29:15.480Z",
   "timeZone": "America/New_York",
   "settings": {
     "weekdays": [
@@ -15,362 +15,6 @@
     "slotMinutes": 30
   },
   "weeks": [
-    {
-      "startDate": "2026-10-26",
-      "endDate": "2026-11-01",
-      "days": [
-        {
-          "date": "2026-10-26",
-          "weekday": 1,
-          "slots": [
-            {
-              "time": "09:00",
-              "state": "available"
-            },
-            {
-              "time": "09:30",
-              "state": "available"
-            },
-            {
-              "time": "10:00",
-              "state": "available"
-            },
-            {
-              "time": "10:30",
-              "state": "available"
-            },
-            {
-              "time": "11:00",
-              "state": "available"
-            },
-            {
-              "time": "11:30",
-              "state": "available"
-            },
-            {
-              "time": "12:00",
-              "state": "busy"
-            },
-            {
-              "time": "12:30",
-              "state": "busy"
-            },
-            {
-              "time": "13:00",
-              "state": "busy"
-            },
-            {
-              "time": "13:30",
-              "state": "movable"
-            },
-            {
-              "time": "14:00",
-              "state": "busy"
-            },
-            {
-              "time": "14:30",
-              "state": "busy"
-            },
-            {
-              "time": "15:00",
-              "state": "movable"
-            },
-            {
-              "time": "15:30",
-              "state": "preferred"
-            },
-            {
-              "time": "16:00",
-              "state": "preferred"
-            },
-            {
-              "time": "16:30",
-              "state": "preferred"
-            }
-          ]
-        },
-        {
-          "date": "2026-10-27",
-          "weekday": 2,
-          "slots": [
-            {
-              "time": "09:00",
-              "state": "available"
-            },
-            {
-              "time": "09:30",
-              "state": "available"
-            },
-            {
-              "time": "10:00",
-              "state": "available"
-            },
-            {
-              "time": "10:30",
-              "state": "available"
-            },
-            {
-              "time": "11:00",
-              "state": "available"
-            },
-            {
-              "time": "11:30",
-              "state": "available"
-            },
-            {
-              "time": "12:00",
-              "state": "busy"
-            },
-            {
-              "time": "12:30",
-              "state": "busy"
-            },
-            {
-              "time": "13:00",
-              "state": "busy"
-            },
-            {
-              "time": "13:30",
-              "state": "movable"
-            },
-            {
-              "time": "14:00",
-              "state": "preferred"
-            },
-            {
-              "time": "14:30",
-              "state": "busy"
-            },
-            {
-              "time": "15:00",
-              "state": "preferred"
-            },
-            {
-              "time": "15:30",
-              "state": "busy"
-            },
-            {
-              "time": "16:00",
-              "state": "busy"
-            },
-            {
-              "time": "16:30",
-              "state": "busy"
-            }
-          ]
-        },
-        {
-          "date": "2026-10-28",
-          "weekday": 3,
-          "slots": [
-            {
-              "time": "09:00",
-              "state": "busy"
-            },
-            {
-              "time": "09:30",
-              "state": "busy"
-            },
-            {
-              "time": "10:00",
-              "state": "available"
-            },
-            {
-              "time": "10:30",
-              "state": "available"
-            },
-            {
-              "time": "11:00",
-              "state": "available"
-            },
-            {
-              "time": "11:30",
-              "state": "available"
-            },
-            {
-              "time": "12:00",
-              "state": "busy"
-            },
-            {
-              "time": "12:30",
-              "state": "busy"
-            },
-            {
-              "time": "13:00",
-              "state": "busy"
-            },
-            {
-              "time": "13:30",
-              "state": "movable"
-            },
-            {
-              "time": "14:00",
-              "state": "busy"
-            },
-            {
-              "time": "14:30",
-              "state": "busy"
-            },
-            {
-              "time": "15:00",
-              "state": "movable"
-            },
-            {
-              "time": "15:30",
-              "state": "movable"
-            },
-            {
-              "time": "16:00",
-              "state": "preferred"
-            },
-            {
-              "time": "16:30",
-              "state": "preferred"
-            }
-          ]
-        },
-        {
-          "date": "2026-10-29",
-          "weekday": 4,
-          "slots": [
-            {
-              "time": "09:00",
-              "state": "available"
-            },
-            {
-              "time": "09:30",
-              "state": "available"
-            },
-            {
-              "time": "10:00",
-              "state": "available"
-            },
-            {
-              "time": "10:30",
-              "state": "available"
-            },
-            {
-              "time": "11:00",
-              "state": "movable"
-            },
-            {
-              "time": "11:30",
-              "state": "movable"
-            },
-            {
-              "time": "12:00",
-              "state": "busy"
-            },
-            {
-              "time": "12:30",
-              "state": "busy"
-            },
-            {
-              "time": "13:00",
-              "state": "busy"
-            },
-            {
-              "time": "13:30",
-              "state": "movable"
-            },
-            {
-              "time": "14:00",
-              "state": "preferred"
-            },
-            {
-              "time": "14:30",
-              "state": "preferred"
-            },
-            {
-              "time": "15:00",
-              "state": "busy"
-            },
-            {
-              "time": "15:30",
-              "state": "busy"
-            },
-            {
-              "time": "16:00",
-              "state": "preferred"
-            },
-            {
-              "time": "16:30",
-              "state": "preferred"
-            }
-          ]
-        },
-        {
-          "date": "2026-10-30",
-          "weekday": 5,
-          "slots": [
-            {
-              "time": "09:00",
-              "state": "available"
-            },
-            {
-              "time": "09:30",
-              "state": "available"
-            },
-            {
-              "time": "10:00",
-              "state": "available"
-            },
-            {
-              "time": "10:30",
-              "state": "available"
-            },
-            {
-              "time": "11:00",
-              "state": "available"
-            },
-            {
-              "time": "11:30",
-              "state": "available"
-            },
-            {
-              "time": "12:00",
-              "state": "busy"
-            },
-            {
-              "time": "12:30",
-              "state": "busy"
-            },
-            {
-              "time": "13:00",
-              "state": "busy"
-            },
-            {
-              "time": "13:30",
-              "state": "movable"
-            },
-            {
-              "time": "14:00",
-              "state": "busy"
-            },
-            {
-              "time": "14:30",
-              "state": "busy"
-            },
-            {
-              "time": "15:00",
-              "state": "busy"
-            },
-            {
-              "time": "15:30",
-              "state": "busy"
-            },
-            {
-              "time": "16:00",
-              "state": "busy"
-            },
-            {
-              "time": "16:30",
-              "state": "busy"
-            }
-          ]
-        }
-      ]
-    },
     {
       "startDate": "2026-11-02",
       "endDate": "2026-11-08",
@@ -429,7 +73,7 @@
             },
             {
               "time": "15:00",
-              "state": "movable"
+              "state": "busy"
             },
             {
               "time": "15:30",
@@ -709,7 +353,7 @@
             },
             {
               "time": "15:00",
-              "state": "preferred"
+              "state": "busy"
             },
             {
               "time": "15:30",
@@ -851,7 +495,7 @@
             },
             {
               "time": "14:30",
-              "state": "busy"
+              "state": "preferred"
             },
             {
               "time": "15:00",
@@ -5641,6 +5285,362 @@
         },
         {
           "date": "2027-02-12",
+          "weekday": 5,
+          "slots": [
+            {
+              "time": "09:00",
+              "state": "available"
+            },
+            {
+              "time": "09:30",
+              "state": "available"
+            },
+            {
+              "time": "10:00",
+              "state": "available"
+            },
+            {
+              "time": "10:30",
+              "state": "available"
+            },
+            {
+              "time": "11:00",
+              "state": "available"
+            },
+            {
+              "time": "11:30",
+              "state": "available"
+            },
+            {
+              "time": "12:00",
+              "state": "busy"
+            },
+            {
+              "time": "12:30",
+              "state": "busy"
+            },
+            {
+              "time": "13:00",
+              "state": "busy"
+            },
+            {
+              "time": "13:30",
+              "state": "movable"
+            },
+            {
+              "time": "14:00",
+              "state": "available"
+            },
+            {
+              "time": "14:30",
+              "state": "available"
+            },
+            {
+              "time": "15:00",
+              "state": "preferred"
+            },
+            {
+              "time": "15:30",
+              "state": "preferred"
+            },
+            {
+              "time": "16:00",
+              "state": "preferred"
+            },
+            {
+              "time": "16:30",
+              "state": "preferred"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "startDate": "2027-02-15",
+      "endDate": "2027-02-21",
+      "days": [
+        {
+          "date": "2027-02-15",
+          "weekday": 1,
+          "slots": [
+            {
+              "time": "09:00",
+              "state": "available"
+            },
+            {
+              "time": "09:30",
+              "state": "available"
+            },
+            {
+              "time": "10:00",
+              "state": "available"
+            },
+            {
+              "time": "10:30",
+              "state": "available"
+            },
+            {
+              "time": "11:00",
+              "state": "available"
+            },
+            {
+              "time": "11:30",
+              "state": "available"
+            },
+            {
+              "time": "12:00",
+              "state": "busy"
+            },
+            {
+              "time": "12:30",
+              "state": "busy"
+            },
+            {
+              "time": "13:00",
+              "state": "busy"
+            },
+            {
+              "time": "13:30",
+              "state": "movable"
+            },
+            {
+              "time": "14:00",
+              "state": "preferred"
+            },
+            {
+              "time": "14:30",
+              "state": "preferred"
+            },
+            {
+              "time": "15:00",
+              "state": "preferred"
+            },
+            {
+              "time": "15:30",
+              "state": "preferred"
+            },
+            {
+              "time": "16:00",
+              "state": "preferred"
+            },
+            {
+              "time": "16:30",
+              "state": "preferred"
+            }
+          ]
+        },
+        {
+          "date": "2027-02-16",
+          "weekday": 2,
+          "slots": [
+            {
+              "time": "09:00",
+              "state": "available"
+            },
+            {
+              "time": "09:30",
+              "state": "available"
+            },
+            {
+              "time": "10:00",
+              "state": "available"
+            },
+            {
+              "time": "10:30",
+              "state": "available"
+            },
+            {
+              "time": "11:00",
+              "state": "available"
+            },
+            {
+              "time": "11:30",
+              "state": "available"
+            },
+            {
+              "time": "12:00",
+              "state": "busy"
+            },
+            {
+              "time": "12:30",
+              "state": "busy"
+            },
+            {
+              "time": "13:00",
+              "state": "busy"
+            },
+            {
+              "time": "13:30",
+              "state": "movable"
+            },
+            {
+              "time": "14:00",
+              "state": "preferred"
+            },
+            {
+              "time": "14:30",
+              "state": "busy"
+            },
+            {
+              "time": "15:00",
+              "state": "preferred"
+            },
+            {
+              "time": "15:30",
+              "state": "busy"
+            },
+            {
+              "time": "16:00",
+              "state": "busy"
+            },
+            {
+              "time": "16:30",
+              "state": "busy"
+            }
+          ]
+        },
+        {
+          "date": "2027-02-17",
+          "weekday": 3,
+          "slots": [
+            {
+              "time": "09:00",
+              "state": "busy"
+            },
+            {
+              "time": "09:30",
+              "state": "busy"
+            },
+            {
+              "time": "10:00",
+              "state": "available"
+            },
+            {
+              "time": "10:30",
+              "state": "available"
+            },
+            {
+              "time": "11:00",
+              "state": "available"
+            },
+            {
+              "time": "11:30",
+              "state": "available"
+            },
+            {
+              "time": "12:00",
+              "state": "busy"
+            },
+            {
+              "time": "12:30",
+              "state": "busy"
+            },
+            {
+              "time": "13:00",
+              "state": "busy"
+            },
+            {
+              "time": "13:30",
+              "state": "movable"
+            },
+            {
+              "time": "14:00",
+              "state": "available"
+            },
+            {
+              "time": "14:30",
+              "state": "available"
+            },
+            {
+              "time": "15:00",
+              "state": "movable"
+            },
+            {
+              "time": "15:30",
+              "state": "movable"
+            },
+            {
+              "time": "16:00",
+              "state": "movable"
+            },
+            {
+              "time": "16:30",
+              "state": "movable"
+            }
+          ]
+        },
+        {
+          "date": "2027-02-18",
+          "weekday": 4,
+          "slots": [
+            {
+              "time": "09:00",
+              "state": "available"
+            },
+            {
+              "time": "09:30",
+              "state": "available"
+            },
+            {
+              "time": "10:00",
+              "state": "available"
+            },
+            {
+              "time": "10:30",
+              "state": "available"
+            },
+            {
+              "time": "11:00",
+              "state": "movable"
+            },
+            {
+              "time": "11:30",
+              "state": "movable"
+            },
+            {
+              "time": "12:00",
+              "state": "busy"
+            },
+            {
+              "time": "12:30",
+              "state": "busy"
+            },
+            {
+              "time": "13:00",
+              "state": "busy"
+            },
+            {
+              "time": "13:30",
+              "state": "movable"
+            },
+            {
+              "time": "14:00",
+              "state": "preferred"
+            },
+            {
+              "time": "14:30",
+              "state": "preferred"
+            },
+            {
+              "time": "15:00",
+              "state": "preferred"
+            },
+            {
+              "time": "15:30",
+              "state": "preferred"
+            },
+            {
+              "time": "16:00",
+              "state": "preferred"
+            },
+            {
+              "time": "16:30",
+              "state": "preferred"
+            }
+          ]
+        },
+        {
+          "date": "2027-02-19",
           "weekday": 5,
           "slots": [
             {
