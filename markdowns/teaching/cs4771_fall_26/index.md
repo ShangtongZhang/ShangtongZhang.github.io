@@ -81,7 +81,6 @@ Homework 2 (Dynamic Programming)
 Homework 3 (Monte Carlo)
 * 3.1 Reproduce Figure 5.1 (on-policy)
 * 3.2 Reproduce Figure 5.3 (off-policy)
-* 3.3 Reproduce Figure 5.4 (off-policy) (with both OIS and WIS)
 
 Homework 4 (Temporal Difference)
 * 4.1 Reproduce Example 6.2 (TD v.s. Monte Carlo)
