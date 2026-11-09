@@ -70,7 +70,7 @@ permalink: /people/
     - [Group Fairness in Reinforcement Learning and Large Language Models](https://doi.org/10.18130/mwpx-4j34) (Master thesis)
 * Licheng Luo, Master, 2023 - 2024 &rarr; PhD at UC Riverside
     - [Policy Optimization in Robust Markov Decision Processes with Transition Gradient Theorem](https://doi.org/10.18130/1xd3-zs45) (Master thesis)
-* [David Antrobius](https://davidq9199.github.io/), 2025 - 2026 &rarr; Master at MIT
+* [David Antrobius](https://davidq9199.github.io/), Undergraduate, 2025 - 2026 &rarr; Master at MIT
     - [On the Divergence of Differential Temporal Difference Learning without Local Clocks](https://arxiv.org/abs/2605.06874) (NeurIPS 2026)
 * [Claire Chen](https://clairechen.org/), Undergraduate, 2023 - 2025 &rarr; Undergraduate at Caltech
     - [Efficient Policy Evaluation with Safety Constraint for Reinforcement Learning](https://arxiv.org/abs/2410.05655) (ICLR 2025)
