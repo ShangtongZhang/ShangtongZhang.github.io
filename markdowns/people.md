@@ -70,14 +70,12 @@ permalink: /people/
     - [Group Fairness in Reinforcement Learning and Large Language Models](https://doi.org/10.18130/mwpx-4j34) (Master thesis)
 * Licheng Luo, Master, 2023 - 2024 &rarr; PhD at UC Riverside
     - [Policy Optimization in Robust Markov Decision Processes with Transition Gradient Theorem](https://doi.org/10.18130/1xd3-zs45) (Master thesis)
+* [David Antrobius](https://davidq9199.github.io/), 2025 - 2026 &rarr; Master at MIT
+    - [NeurIPS 2026] [On the Divergence of Differential Temporal Difference Learning without Local Clocks](https://arxiv.org/abs/2605.06874)
 * [Claire Chen](https://clairechen.org/), Undergraduate, 2023 - 2025 &rarr; Undergraduate at Caltech
     - [ICLR 2025] [Efficient Policy Evaluation with Safety Constraint for Reinforcement Learning](https://arxiv.org/abs/2410.05655)
-<!-- * Vikram Ostrander, Undergraduate (DMP thesis), 2024 - 2025 &rarr; Software Engineer at Palantir -->
 * Vagul Mahadevan, Undergraduate, 2023 - 2025 &rarr; Software Engineer at Metron
     - [ICML 2026] [Convergence of Two-Timescale Stochastic Approximation with Markovian Samples and Applications in Reinforcement Learning](https://arxiv.org/abs/2605.31172)  
-    <!-- - *Almost Sure Convergence Rates and Concentration of Stochastic Approximation and Reinforcement Learning with Markovian Noise* -->
-    <!-- - *Revisiting a Design Choice in Gradient Temporal Difference Learning* (ICLR 2025) -->
-<!-- * Steve Zhou, Undergraduate (DMP thesis), 2023 - 2024 &rarr; Master at MIT -->
 * Xiaochi Qian, Undergraduate, 2022 - 2024 &rarr; Quantitative Researcher at Marshall Wace
     - [ICLR 2025] [Revisiting a Design Choice in Gradient Temporal Difference Learning](https://arxiv.org/abs/2308.01170)
     - [arXiv 2024] [Almost Sure Convergence Rates and Concentration of Stochastic Approximation and Reinforcement Learning with Markovian Noise](https://arxiv.org/abs/2411.13711)
