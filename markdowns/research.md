@@ -9,6 +9,9 @@ This page lists research topics I am working or worked on with selected publicat
 
 #### Stochastic Approximation Theory and Its Applications in Reinforcement Learning
 
+- [JMLR 2026] [Almost Sure Convergence Rates and Concentration of Stochastic Approximation and Reinforcement Learning with Markovian Noise](https://arxiv.org/abs/2411.13711).  
+<u>Xiaochi Qian</u><sup>*</sup>, <u>Zixuan Xie</u><sup>*</sup>, <u>Xinyu Liu</u><sup>*</sup>, **Shangtong Zhang**.  
+
 - [NeurIPS 2026] [On the Divergence of Differential Temporal Difference Learning without Local Clocks](https://arxiv.org/abs/2605.06874).  
 <u>David Antrobius</u>, **Shangtong Zhang**.  
 
@@ -39,8 +42,6 @@ This page lists research topics I am working or worked on with selected publicat
 - [JMLR 2025] [The ODE Method for Stochastic Approximation and Reinforcement Learning with Markovian Noise](https://arxiv.org/abs/2401.07844).  
 <u>Shuze Liu</u>, Shuhang Chen, **Shangtong Zhang**.
 
-- [arXiv 2024] [Almost Sure Convergence Rates and Concentration of Stochastic Approximation and Reinforcement Learning with Markovian Noise](https://arxiv.org/abs/2411.13711).  
-<u>Xiaochi Qian</u><sup>*</sup>, <u>Zixuan Xie</u><sup>*</sup>, <u>Xinyu Liu</u><sup>*</sup>, **Shangtong Zhang**.  
 
 - [JMLR 2022] [Global Optimality and Finite Sample Analysis of Softmax Off-Policy Actor Critic under State Distribution Mismatch](https://arxiv.org/abs/2111.02997).  
 **Shangtong Zhang**, Remi Tachet des Combes<sup>†</sup>, Romain Laroche<sup>†</sup>.  
