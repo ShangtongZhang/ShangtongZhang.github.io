@@ -77,6 +77,6 @@ permalink: /people/
 * Vagul Mahadevan, Undergraduate, 2023 - 2025 &rarr; Software Engineer at Metron
     - [Convergence of Two-Timescale Stochastic Approximation with Markovian Samples and Applications in Reinforcement Learning](https://arxiv.org/abs/2605.31172) (ICML 2026)
 * Xiaochi Qian, Undergraduate, 2022 - 2024 &rarr; Quantitative Researcher at Marshall Wace
+    - [Almost Sure Convergence Rates and Concentration of Stochastic Approximation and Reinforcement Learning with Markovian Noise](https://arxiv.org/abs/2411.13711) (JMLR 2026)
     - [Revisiting a Design Choice in Gradient Temporal Difference Learning](https://arxiv.org/abs/2308.01170) (ICLR 2025)
-    - [Almost Sure Convergence Rates and Concentration of Stochastic Approximation and Reinforcement Learning with Markovian Noise](https://arxiv.org/abs/2411.13711) (arXiv 2024)
 
