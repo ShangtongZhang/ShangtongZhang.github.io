@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-16T18:47:56.369Z",
+  "generatedAt": "2026-11-16T20:23:04.926Z",
   "timeZone": "America/New_York",
   "settings": {
     "weekdays": [
@@ -529,19 +529,19 @@
             },
             {
               "time": "10:00",
-              "state": "available"
+              "state": "busy"
             },
             {
               "time": "10:30",
-              "state": "available"
+              "state": "busy"
             },
             {
               "time": "11:00",
-              "state": "available"
+              "state": "busy"
             },
             {
               "time": "11:30",
-              "state": "available"
+              "state": "busy"
             },
             {
               "time": "12:00",
@@ -557,7 +557,7 @@
             },
             {
               "time": "13:30",
-              "state": "movable"
+              "state": "busy"
             },
             {
               "time": "14:00",
@@ -569,19 +569,19 @@
             },
             {
               "time": "15:00",
-              "state": "movable"
+              "state": "busy"
             },
             {
               "time": "15:30",
-              "state": "movable"
+              "state": "busy"
             },
             {
               "time": "16:00",
-              "state": "movable"
+              "state": "busy"
             },
             {
               "time": "16:30",
-              "state": "movable"
+              "state": "busy"
             }
           ]
         },
@@ -1233,19 +1233,19 @@
           "slots": [
             {
               "time": "09:00",
-              "state": "busy"
+              "state": "available"
             },
             {
               "time": "09:30",
-              "state": "busy"
+              "state": "available"
             },
             {
               "time": "10:00",
-              "state": "busy"
+              "state": "available"
             },
             {
               "time": "10:30",
-              "state": "busy"
+              "state": "available"
             },
             {
               "time": "11:00",
