@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-16T18:47:28.016Z",
+  "generatedAt": "2026-11-16T18:47:56.369Z",
   "timeZone": "America/New_York",
   "settings": {
     "weekdays": [
@@ -147,15 +147,15 @@
             },
             {
               "time": "15:30",
-              "state": "available"
+              "state": "preferred"
             },
             {
               "time": "16:00",
-              "state": "available"
+              "state": "preferred"
             },
             {
               "time": "16:30",
-              "state": "available"
+              "state": "preferred"
             }
           ]
         },
@@ -503,15 +503,15 @@
             },
             {
               "time": "15:30",
-              "state": "available"
+              "state": "preferred"
             },
             {
               "time": "16:00",
-              "state": "available"
+              "state": "preferred"
             },
             {
               "time": "16:30",
-              "state": "available"
+              "state": "preferred"
             }
           ]
         },
@@ -859,15 +859,15 @@
             },
             {
               "time": "15:30",
-              "state": "available"
+              "state": "preferred"
             },
             {
               "time": "16:00",
-              "state": "available"
+              "state": "preferred"
             },
             {
               "time": "16:30",
-              "state": "available"
+              "state": "preferred"
             }
           ]
         },
@@ -1215,15 +1215,15 @@
             },
             {
               "time": "15:30",
-              "state": "available"
+              "state": "preferred"
             },
             {
               "time": "16:00",
-              "state": "available"
+              "state": "preferred"
             },
             {
               "time": "16:30",
-              "state": "available"
+              "state": "preferred"
             }
           ]
         },
@@ -1571,15 +1571,15 @@
             },
             {
               "time": "15:30",
-              "state": "available"
+              "state": "preferred"
             },
             {
               "time": "16:00",
-              "state": "available"
+              "state": "preferred"
             },
             {
               "time": "16:30",
-              "state": "available"
+              "state": "preferred"
             }
           ]
         },
@@ -1927,15 +1927,15 @@
             },
             {
               "time": "15:30",
-              "state": "available"
+              "state": "preferred"
             },
             {
               "time": "16:00",
-              "state": "available"
+              "state": "preferred"
             },
             {
               "time": "16:30",
-              "state": "available"
+              "state": "preferred"
             }
           ]
         },
@@ -2283,15 +2283,15 @@
             },
             {
               "time": "15:30",
-              "state": "available"
+              "state": "preferred"
             },
             {
               "time": "16:00",
-              "state": "available"
+              "state": "preferred"
             },
             {
               "time": "16:30",
-              "state": "available"
+              "state": "preferred"
             }
           ]
         },
@@ -2639,15 +2639,15 @@
             },
             {
               "time": "15:30",
-              "state": "available"
+              "state": "preferred"
             },
             {
               "time": "16:00",
-              "state": "available"
+              "state": "preferred"
             },
             {
               "time": "16:30",
-              "state": "available"
+              "state": "preferred"
             }
           ]
         },
@@ -2995,15 +2995,15 @@
             },
             {
               "time": "15:30",
-              "state": "available"
+              "state": "preferred"
             },
             {
               "time": "16:00",
-              "state": "available"
+              "state": "preferred"
             },
             {
               "time": "16:30",
-              "state": "available"
+              "state": "preferred"
             }
           ]
         },
@@ -3351,15 +3351,15 @@
             },
             {
               "time": "15:30",
-              "state": "available"
+              "state": "preferred"
             },
             {
               "time": "16:00",
-              "state": "available"
+              "state": "preferred"
             },
             {
               "time": "16:30",
-              "state": "available"
+              "state": "preferred"
             }
           ]
         },
@@ -3707,15 +3707,15 @@
             },
             {
               "time": "15:30",
-              "state": "available"
+              "state": "preferred"
             },
             {
               "time": "16:00",
-              "state": "available"
+              "state": "preferred"
             },
             {
               "time": "16:30",
-              "state": "available"
+              "state": "preferred"
             }
           ]
         },
@@ -4063,15 +4063,15 @@
             },
             {
               "time": "15:30",
-              "state": "available"
+              "state": "preferred"
             },
             {
               "time": "16:00",
-              "state": "available"
+              "state": "preferred"
             },
             {
               "time": "16:30",
-              "state": "available"
+              "state": "preferred"
             }
           ]
         },
@@ -4419,15 +4419,15 @@
             },
             {
               "time": "15:30",
-              "state": "available"
+              "state": "preferred"
             },
             {
               "time": "16:00",
-              "state": "available"
+              "state": "preferred"
             },
             {
               "time": "16:30",
-              "state": "available"
+              "state": "preferred"
             }
           ]
         },
@@ -4775,15 +4775,15 @@
             },
             {
               "time": "15:30",
-              "state": "available"
+              "state": "preferred"
             },
             {
               "time": "16:00",
-              "state": "available"
+              "state": "preferred"
             },
             {
               "time": "16:30",
-              "state": "available"
+              "state": "preferred"
             }
           ]
         },
@@ -5131,15 +5131,15 @@
             },
             {
               "time": "15:30",
-              "state": "available"
+              "state": "preferred"
             },
             {
               "time": "16:00",
-              "state": "available"
+              "state": "preferred"
             },
             {
               "time": "16:30",
-              "state": "available"
+              "state": "preferred"
             }
           ]
         },
@@ -5487,15 +5487,15 @@
             },
             {
               "time": "15:30",
-              "state": "available"
+              "state": "preferred"
             },
             {
               "time": "16:00",
-              "state": "available"
+              "state": "preferred"
             },
             {
               "time": "16:30",
-              "state": "available"
+              "state": "preferred"
             }
           ]
         },
