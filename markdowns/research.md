@@ -9,6 +9,9 @@ This page lists research topics I am working or worked on with selected publicat
 
 #### Stochastic Approximation Theory and Its Applications in Reinforcement Learning
 
+- [JMLR 2026] [Extensions of Robbins-Siegmund Theorem with Applications in Reinforcement Learning](https://arxiv.org/abs/2509.26442).  
+<u>Xinyu Liu</u>, <u>Zixuan Xie</u>, **Shangtong Zhang**.
+
 - [JMLR 2026] [Almost Sure Convergence Rates and Concentration of Stochastic Approximation and Reinforcement Learning with Markovian Noise](https://arxiv.org/abs/2411.13711).  
 <u>Xiaochi Qian</u><sup>*</sup>, <u>Zixuan Xie</u><sup>*</sup>, <u>Xinyu Liu</u><sup>*</sup>, **Shangtong Zhang**.  
 
@@ -29,9 +32,6 @@ This page lists research topics I am working or worked on with selected publicat
 
 - [AAAI 2026] [Asymptotic and Finite Sample Analysis of Nonexpansive Stochastic Approximations with Markovian Noise](https://arxiv.org/abs/2409.19546).  
 <u>Ethan Blaser</u>, **Shangtong Zhang**.
-
-- [arXiv 2025] [Extensions of Robbins-Siegmund Theorem with Applications in Reinforcement Learning](https://arxiv.org/abs/2509.26442).  
-<u>Xinyu Liu</u>, <u>Zixuan Xie</u>, **Shangtong Zhang**.
 
 - [NeurIPS 2025] [Finite Sample Analysis of Linear Temporal Difference Learning with Arbitrary Features](https://arxiv.org/abs/2505.21391).  
 <u>Zixuan Xie</u><sup>*</sup>, <u>Xinyu Liu</u><sup>*</sup>, Rohan Chandra, **Shangtong Zhang**.  
